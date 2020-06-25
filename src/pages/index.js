@@ -81,13 +81,14 @@ const IndexPage = ({ data }) => {
 
   const list = works.map(w => {
     const { frontmatter } = w.node
-    const { category, thumb, titleEn } = frontmatter
+    const { category, thumb, titleEn, titleZh } = frontmatter
     const slug = titleEn.toLowerCase().replace(/ /gi, "-").replace(/'/gi, "")
+    const title = lang === "zh" ? titleZh : titleEn
 
     return (
       <Link state={{ fromHome: true }} to={`/work/${slug}`} key={slug}>
         <div className="thumb" key={thumb} style={{ backgroundImage: `url(${CASE_PATH}/${thumb})` }}>
-          <span>{category}</span>
+          <span>{title}</span>
         </div>
       </Link>
     )
@@ -114,6 +115,7 @@ export const pageQuery = graphql`
           html
           frontmatter {
             titleEn
+            titleZh
             slug
             type
             thumb

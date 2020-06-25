@@ -94,6 +94,9 @@ main {
   overflow: hidden;
   p {
     margin-top: 0;
+    a {
+      text-decoration: underline;
+    }
   }
   h3 {
     &:nth-of-type(1) {
@@ -139,12 +142,17 @@ main {
   span {
     margin-top: auto;
     line-height: 26px;
-    color: var(--gray);
+    color: var(--white);
     transform: translate3d(0, 26px, 0);
   }
   &:hover {
     span {
       color: var(--black);
+    }
+  }
+  @media #{$mq1Col} {
+    span {
+      color: var(--gray);
     }
   }
 }
