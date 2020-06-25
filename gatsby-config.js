@@ -3,7 +3,7 @@ const contentDir = `${__dirname}/src/content`
 module.exports = {
   siteMetadata: {
     title: `mafmadmaf`,
-    description: `平面設計師`,
+    description: `About maf, a designer`,
     author: `mafmadmaf`,
   },
   plugins: [
