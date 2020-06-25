@@ -1,5 +1,5 @@
 ---
-titleZh: 消化設計 · 2018上海時裝周發佈會邀請函
+titleZh: 消化設計 · 2018上海時裝周電子邀請函
 titleEn: Digest Design 2018AW @Shanghai Fashion Week
 clientZh: Digest Design Workshop
 clientEn: Digest Design Workshop
