@@ -3,7 +3,7 @@ const contentDir = `${__dirname}/src/content`
 module.exports = {
   siteMetadata: {
     title: `mafmadmaf`,
-    description: `Ed Lee is a creative coder. I made various interactive stuff online and offline. Co-founded bitmob.cc. Here is my personal playground.`,
+    description: `平面設計師`,
     author: `mafmadmaf`,
   },
   plugins: [
