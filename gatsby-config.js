@@ -2,9 +2,9 @@ const contentDir = `${__dirname}/src/content`
 
 module.exports = {
   siteMetadata: {
-    title: `mafmadmaf`,
+    title: `maf`,
     description: `About maf, a designer`,
-    author: `mafmadmaf`,
+    author: `maf`,
   },
   plugins: [
     `gatsby-plugin-sass`,
