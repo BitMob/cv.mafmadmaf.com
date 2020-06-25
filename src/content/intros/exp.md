@@ -2,7 +2,8 @@
 slug: experience
 type: intro
 ---
-### 美術總監 / 平面設計師 @ BitMob Creative Production（bitmob.cc）
+
+### 美術總監 / 平面設計師 @ BitMob Creative Production
 
 2017 - 2020
 
