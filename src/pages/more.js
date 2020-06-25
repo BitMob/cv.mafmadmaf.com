@@ -84,7 +84,7 @@ const MorePage = ({ data, location }) => {
     </a>
   ) : (
     <Link to="/" className="back">
-      {goBackCnt}
+      {"<-"}
     </Link>
   )
 
