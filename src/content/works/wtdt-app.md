@@ -1,0 +1,25 @@
+---
+titleZh: WTDT 今日清單 APP · 官方網站
+titleEn: WTDT Official Website
+clientZh: BitMob Creative Production
+clientEn: BitMob Creative Production
+date: 2020-04-03
+category: web
+url: https://wtdtapp.com
+thumb: wtdt-app.jpg
+gallery:
+  - wtdt-app-1.jpg
+  - wtdt-app-2.jpg
+  - wtdt-app-3.jpg
+  - wtdt-app-4.jpg
+---
+
+WTDT (What To-Do Today) 是 BitMob 的又一次新嘗試——原生 iOS App。由於對日常使用的待辦清單 Apps 都難以感到絕對滿意，我們決定自己做一款用得舒服的。maf 甚至為此創作了一款英文字體！
+
+Art Director: maf<br/>Lead Programmer: Ed Lee
+
+<!-- lang -->
+
+WTDT (What To-Do Today) is another adventure into new area -- native iOS App. Since we are hardly satisfied with the to-do app s that we used, we decided to roll out our own. maf even created a dedicated English font type!
+
+Art Director: maf<br/>Lead Programmer: Ed Lee
