@@ -1,6 +1,6 @@
 import React, { useState, useContext } from "react"
 import ReactHtml from "react-html-parser"
-// import { Link } from "gatsby"
+import { Link } from "gatsby"
 
 import SEO from "../components/seo"
 import LangSwitch from "../components/LangSwitch"
