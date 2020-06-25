@@ -1,5 +1,5 @@
 ---
-titleZh: 方所 · 書店力研究所 官方網站
+titleZh: 方所書店力研究所 · 官方網站
 titleEn: Bookstore Power Website
 clientZh: 方所
 clientEn: Fang Suo

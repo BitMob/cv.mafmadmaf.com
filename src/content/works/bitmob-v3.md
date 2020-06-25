@@ -1,5 +1,5 @@
 ---
-titleZh: BitMob 官方網站 第三版
+titleZh: BitMob · 官方網站 第三版
 titleEn: BitMob Official Website V3
 clientZh: BitMob Creative Production
 clientEn: BitMob Creative Production

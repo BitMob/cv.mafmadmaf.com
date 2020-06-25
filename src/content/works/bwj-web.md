@@ -1,5 +1,5 @@
 ---
-titleZh: 《水象》官方網站
+titleZh: 水象 · 官方網站
 titleEn: Be Water Journal Website
 clientZh: 水象
 clientEn: Be Water Journal
