@@ -1,10 +1,10 @@
 ---
-titleZh: WTDT 今日清單 APP · 官方網站
-titleEn: WTDT Official Website
+titleZh: WTDT 今日清單 APP
+titleEn: WTDT APP
 clientZh: BitMob Creative Production
 clientEn: BitMob Creative Production
 date: 2020-04-03
-category: web
+category: app
 url: https://wtdtapp.com
 thumb: wtdt-app.jpg
 gallery:
