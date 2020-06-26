@@ -25,21 +25,13 @@ const MorePage = ({ data, location }) => {
     const { slug } = frontmatter
     const zh = html.split("<!-- lang -->")[0]
     const en = html.split("<!-- lang -->")[1]
-    const cx = "shiftRight"
+    // const cx = "shiftRight"
 
     colData = {
       ...colData,
       [slug]: {
-        zh: (
-          <div key={slug} className={cx}>
-            {ReactHtml(zh)}
-          </div>
-        ),
-        en: (
-          <div key={slug} className={cx}>
-            {ReactHtml(en)}
-          </div>
-        ),
+        zh: <div key={slug}>{ReactHtml(zh)}</div>,
+        en: <div key={slug}>{ReactHtml(en)}</div>,
       },
     }
   })
@@ -65,7 +57,7 @@ const MorePage = ({ data, location }) => {
           ) : null}
         </div>
         <div
-          className="content"
+          className={`content ${key === "experience" ? "exp" : ""}`}
           style={isAbout ? {} : { height: expanded ? "auto" : 0, marginBottom: expanded ? 60 : 0 }}
         >
           {colData[key][lang]}

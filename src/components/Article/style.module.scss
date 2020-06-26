@@ -16,13 +16,21 @@
   width: $colWidth;
 }
 .content {
-  margin: 40px 0 60px;
+  margin: 0px 0 60px;
+  p {
+    a {
+      @include underlineLink;
+    }
+    &:lang(zh) {
+      text-align: justify;
+    }
+  }
 }
 
 .viewProject {
   margin: 40px 0;
   display: block;
-  text-decoration: underline;
+  @include underlineLink;
 }
 
 .gallery {

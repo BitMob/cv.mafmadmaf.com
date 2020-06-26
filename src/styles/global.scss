@@ -2,8 +2,9 @@
 @import "./base.scss";
 
 :root {
-  --black: #363636;
+  --black: #000;
   --gray: #d0d0d0;
+  --red: #af0000;
   --white: #fff;
   --col-width: 336px;
 }
@@ -16,9 +17,12 @@
 }
 
 html {
-  font: 400 14px/1.7 "Inter", -apple-system, "PingFang HK", "Noto Sans TC", "Helvetica Neue", Arial, sans-serif;
+  font: 400 12.5px/1.7 "Inter", -apple-system, "PingFang HK", "Noto Sans TC", "Helvetica Neue", Arial, sans-serif;
   //scroll-behavior: smooth;
   //-webkit-overflow-scrolling: touch;
+  @media #{$mq1Col} {
+    font-size: 14px;
+  }
 }
 html,
 body {

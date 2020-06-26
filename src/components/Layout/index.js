@@ -3,14 +3,16 @@ import React, { useState, useEffect } from "react"
 
 import Context from "../../helpers/context"
 import Footer from "../Footer"
+import Cursor from "../Cursor"
 import "../../styles/global.scss"
-import S from "./style.module.scss"
+// import S from "./style.module.scss"
 
 import { getLang, calSizes, resizeThrottler } from "../../helpers/utils"
 
 const Layout = ({ children }) => {
   const [sizes, setSizes] = useState({ isMobile: false })
   const [lang, setLang] = useState("zh")
+  const [mousePos, setMousePos] = useState({ x: -1000, y: -1000 })
 
   useEffect(() => {
     if (typeof window !== "undefined") {
@@ -30,21 +32,27 @@ const Layout = ({ children }) => {
     setLang(lang === "en" ? "zh" : "en")
   }
 
+  const updateMousePos = e => {
+    setMousePos({ x: e.clientX, y: e.clientY })
+  }
+
   return (
     <Context.Provider
       value={{
         states: {
           sizes,
           lang,
+          mousePos,
         },
         methods: {
           switchLang,
         },
       }}
     >
-      <main>
+      <main onMouseMove={updateMousePos}>
         {children}
         <Footer />
+        <Cursor />
       </main>
     </Context.Provider>
   )
