@@ -1,6 +1,6 @@
 ---
-titleZh: Craig Kirk 的街頭卡通展
-titleEn: Craig Kirk's Street Cartoon Exhibition
+titleZh: Craig Kirk 的街頭卡通展 /POSTER
+titleEn: Craig Kirk's Street Cartoon Exhibition /POSTER
 clientZh: 103store
 clientEn: 103store
 date: 2017-07-01

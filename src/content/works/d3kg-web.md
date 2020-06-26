@@ -1,6 +1,6 @@
 ---
-titleZh: 消化三里 · 官方網站
-titleEn: Digest3kg Official Website
+titleZh: 消化三里 · 官方網站 /WEB
+titleEn: Digest3kg Official Website /WEB
 clientZh: 消化三里
 clientEn: Digest3kg
 date: 2019-09-12
