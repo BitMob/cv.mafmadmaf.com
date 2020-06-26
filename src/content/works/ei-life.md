@@ -1,6 +1,6 @@
 ---
 titleZh: LIFE · 《新週刊》封面插圖
-titleEn: LIFE, Editorial Illustration for Neweekly Magazine
+titleEn: 'LIFE' Editorial Illustration for Neweekly Magazine
 clientZh: 新週刊
 clientEn: Neweekly Magazine
 date: 2016-08-20

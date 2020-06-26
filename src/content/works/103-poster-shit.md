@@ -1,6 +1,6 @@
 ---
-titleZh: 如糞土 · 另一種珠寶展覽海報
-titleEn: 'A Pile of Shit' another type of jewellery POSTER
+titleZh: 如糞土 · 另一種珠寶展覽 BRANDING
+titleEn: 'A Pile of Shit' another type of jewellery BRANDING
 clientZh: 103store × Kay Guo
 clientEn: 103store × Kay Guo
 date: 2018-05-19
