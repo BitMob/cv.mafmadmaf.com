@@ -88,7 +88,11 @@ const IndexPage = ({ data }) => {
 
     return (
       <Link state={{ fromHome: true }} to={`/work/${slug}`} key={slug}>
-        <div className="thumb" key={thumb} style={{ backgroundImage: `url(${CASE_PATH}/${thumb})` }}>
+        <div
+          className="thumb"
+          key={thumb}
+          style={{ backgroundImage: `url(${CASE_PATH}/${thumb}?x-oss-process=style/maf-works-list)` }}
+        >
           <span>{title}</span>
         </div>
       </Link>
