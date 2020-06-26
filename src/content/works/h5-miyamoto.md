@@ -3,7 +3,7 @@ titleZh: 宫本武藏之极致征途 · 互動長軸
 titleEn: Miyamoto Musashi Long Scroll
 clientZh: 岡本
 clientEn: Okamoto
-date: 2017-05-01
+date: 2017-06-20
 category: web
 url: https://www.bitmob.cc/demo/okamoto/
 thumb: h5-miyamoto-0.jpg
