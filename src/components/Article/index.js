@@ -13,7 +13,7 @@ export default function Article({ html, frontmatter, lang }) {
   const images = gallery.map(name => {
     return (
       <div className={S.image} key={name}>
-        <img src={`${CASE_PATH}/${name}`} />
+        <img src={`${CASE_PATH}/${name}?x-oss-process=style/maf-works-detail`} />
       </div>
     )
   })
