@@ -1,5 +1,5 @@
 ---
-titleZh: 來自台灣的金工器物展「與我一起生活的器物」BRANDING
+titleZh: 與我一起生活的器物 · 來自台灣的金工器物展 BRANDING
 titleEn: Taiwan Metalworking Exhibition BRANDING
 clientZh: 103store
 clientEn: 103store
