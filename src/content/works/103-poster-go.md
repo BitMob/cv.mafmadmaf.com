@@ -8,5 +8,5 @@ category: graphic
 
 thumb: 103-poster-go.gif
 gallery:
-  -
+  - 103-poster-go-1.jpg
 ---

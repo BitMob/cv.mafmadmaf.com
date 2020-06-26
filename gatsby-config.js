@@ -30,8 +30,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `mafmadmaf`,
-        short_name: `mafmadmaf`,
+        name: `maf works`,
+        short_name: `maf works`,
         start_url: `/`,
         background_color: `#FFF`,
         theme_color: `#363636`,
