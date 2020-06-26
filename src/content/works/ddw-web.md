@@ -1,6 +1,6 @@
 ---
-titleZh: 消化設計 · 官方網站
-titleEn: Digest Design Official Website
+titleZh: 消化設計 · 官方網站 /WEB
+titleEn: Digest Design Official Website /WEB
 clientZh: Digest Design Workshop
 clientEn: Digest Design Workshop
 date: 2019-02-02

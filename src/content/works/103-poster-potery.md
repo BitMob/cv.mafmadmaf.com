@@ -1,6 +1,6 @@
 ---
-titleZh: 從土裡長出來的 · 三方聯展
-titleEn: From Earth, Pottery Exhibition
+titleZh: 從土裡長出來的 · 三方聯展 POSTER
+titleEn: From Earth, Pottery Exhibition POSTER
 clientZh: 103store × 梨木製陶所
 clientEn: 103store × 梨木製陶所
 date: 2017-12-09

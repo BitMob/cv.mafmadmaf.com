@@ -1,6 +1,6 @@
 ---
-titleZh: 看得見的冥想 · Jon Poblador 三部展
-titleEn: Jon Poblador's Visible Meditation Exhibition
+titleZh: 看得見的冥想 · Jon Poblador 三部展 /POSTER
+titleEn: Jon Poblador's Visible Meditation Exhibition /POSTER
 clientZh: 103store
 clientEn: 103store
 date: 2017-04-15
