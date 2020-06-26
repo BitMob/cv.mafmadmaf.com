@@ -2,11 +2,12 @@
 
 .article {
   h3 {
-    font-size: 14px;
+    @include base-text;
+    font-weight: bold;
     margin: 0;
   }
   h4 {
-    font-weight: normal;
+    @include base-text;
     margin: 0;
     text-indent: 20px;
   }
