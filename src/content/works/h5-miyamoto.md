@@ -1,6 +1,6 @@
 ---
-titleZh: 宫本武藏之极致征途 · 互動長軸 /WEB
-titleEn: Miyamoto Musashi Long Scroll /WEB
+titleZh: 宫本武藏之极致征途 · 互動長軸
+titleEn: Miyamoto Musashi Long Scroll
 clientZh: 岡本
 clientEn: Okamoto
 date: 2017-06-20

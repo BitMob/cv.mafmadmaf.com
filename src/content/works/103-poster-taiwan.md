@@ -1,6 +1,6 @@
 ---
-titleZh: 來自台灣的金工器物展「與我一起生活的器物」/POSTER
-titleEn: Taiwan Metalworking Exhibition of Living /POSTER
+titleZh: 來自台灣的金工器物展「與我一起生活的器物」POSTER
+titleEn: Taiwan Metalworking Exhibition POSTER
 clientZh: 103store
 clientEn: 103store
 date: 2018-07-08

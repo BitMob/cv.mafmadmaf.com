@@ -1,6 +1,6 @@
 ---
-titleZh: 張達 · 交互式紀錄 /WEB
-titleEn: Zhang Da Interactive Documentary /WEB
+titleZh: 張達 · 交互式紀錄 H5
+titleEn: Zhang Da Interactive Documentary
 clientZh: 張達 @沒邊
 clientEn: Zhang Da @Boundless
 date: 2018-10-02

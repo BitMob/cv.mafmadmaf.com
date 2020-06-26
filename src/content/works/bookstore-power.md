@@ -1,6 +1,6 @@
 ---
-titleZh: 方所書店力研究所 · 官方網站 /WEB
-titleEn: Bookstore Power Website /WEB
+titleZh: 方所書店力研究所 · 官方網站
+titleEn: Bookstore Power Website
 clientZh: 方所
 clientEn: Fang Suo
 date: 2018-08-10

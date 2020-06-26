@@ -1,6 +1,6 @@
 ---
-titleZh: 絲網印刷工作坊 /POSTER
-titleEn: Screen Printing Workshop /POSTER
+titleZh: 絲網印刷工作坊 POSTER
+titleEn: Screen Printing Workshop POSTER
 clientZh: 103store
 clientEn: 103store
 date: 2018-04-27

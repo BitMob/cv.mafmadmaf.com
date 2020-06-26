@@ -1,6 +1,6 @@
 ---
-titleZh: BitMob · 官方網站 第三版 /WEB
-titleEn: BitMob Official Website V3 /WEB
+titleZh: BitMob · 官方網站 第三版
+titleEn: BitMob Official Website V3
 clientZh: BitMob Creative Production
 clientEn: BitMob Creative Production
 date: 2019-03-01

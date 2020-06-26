@@ -1,6 +1,6 @@
 ---
-titleZh: BitMob · 官方網站 第四版 /WEB
-titleEn: BitMob Official Website V4 /WEB
+titleZh: BitMob · 官方網站 第四版
+titleEn: BitMob Official Website V4
 clientZh: BitMob Creative Production
 clientEn: BitMob Creative Production
 date: 2020-05-01

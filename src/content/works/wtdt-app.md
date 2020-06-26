@@ -1,6 +1,6 @@
 ---
-titleZh: WTDT 今日清單 /APP
-titleEn: WTDT /APP
+titleZh: WTDT 今日清單 APP
+titleEn: WTDT APP
 clientZh: BitMob Creative Production
 clientEn: BitMob Creative Production
 date: 2020-04-03

@@ -1,5 +1,5 @@
 ---
-titleZh: 從土裡長出來的 · 三方聯展 POSTER
+titleZh: 從土裡長出來的 · 三方聯展海報
 titleEn: From Earth, Pottery Exhibition POSTER
 clientZh: 103store × 梨木製陶所
 clientEn: 103store × 梨木製陶所
