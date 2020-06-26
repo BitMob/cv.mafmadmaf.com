@@ -1,6 +1,6 @@
 ---
 titleZh: Bob's 小卜金具 BRANDING
-titleEn: Bob's Hardware BRANDING
+titleEn: Bob's Hardware House BRANDING
 clientZh: 小卜金具
 clientEn: Bob's Hardware
 date: 2019-06-11
