@@ -9,4 +9,5 @@ category: graphic
 thumb: book-jiazhuang-0.jpg
 gallery:
   - book-jiazhuang-1.jpg
+  - book-jiazhuang-2.jpg
 ---
