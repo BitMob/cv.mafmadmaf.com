@@ -85,14 +85,13 @@ const IndexPage = ({ data }) => {
     const { thumb, titleEn, titleZh } = frontmatter
     const slug = titleEn.toLowerCase().replace(/ /gi, "-").replace(/'/gi, "")
     const title = lang === "zh" ? titleZh : titleEn
+    const thumbUrl = thumb.includes("gif")
+      ? `url(${CASE_PATH}/${thumb}`
+      : `url(${CASE_PATH}/${thumb}?x-oss-process=style/maf-works-list)`
 
     return (
       <Link state={{ fromHome: true }} to={`/work/${slug}`} key={slug}>
-        <div
-          className="thumb"
-          key={thumb}
-          style={{ backgroundImage: `url(${CASE_PATH}/${thumb}?x-oss-process=style/maf-works-list)` }}
-        >
+        <div className="thumb" key={thumb} style={{ backgroundImage: thumbUrl }}>
           <span>{title}</span>
         </div>
       </Link>
