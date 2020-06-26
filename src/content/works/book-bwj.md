@@ -8,7 +8,14 @@ category: graphic
 
 thumb: bwj-book-cover.gif
 gallery:
-  - book-wangyin-1.jpg
-  - book-wangyin-2.jpg
-  - book-wangyin-3.jpg
+  - book-bwj-1.jpg
+  - book-bwj-2.jpg
+  - book-bwj-3.jpg
+  - book-bwj-4.jpg
+  - book-bwj-5.jpg
+  - book-bwj-6.jpg
+  - book-bwj-7.jpg
+  - book-bwj-8.jpg
+  - book-bwj-9.jpg
+  - book-bwj-10.jpg
 ---
