@@ -43,34 +43,34 @@ $mq4Col: screen and
 
 @mixin base-text {
   font-weight: 400;
-  font-size: 14px;
+  font-size: 12.5px;
   line-height: 1.7;
+  @media #{$mq1Col} {
+    font-size: 14px;
+  }
 }
 
 @mixin underlineLink {
-  color: var(--accent);
   position: relative;
-  font-weight: 600;
   display: inline-block;
   &:before {
     content: " ";
     display: block;
     position: absolute;
     width: 100%;
-    height: 2px;
-    background-color: var(--accent);
+    height: 1px;
+    background-color: var(--black);
     left: 0;
-    bottom: 3px;
-    transition: height 0.2s ease;
+    bottom: 1px;
   }
   &:hover {
     &:before {
-      height: 6px;
+      // height: 6px;
     }
   }
   @media #{$mq-mobile} {
     &:before {
-      bottom: 1px;
+      // bottom: 1px;
     }
   }
 }

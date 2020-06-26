@@ -66,7 +66,8 @@ const IndexPage = ({ data }) => {
           ) : null}
         </div>
         <div
-          className="content"
+          lang={lang}
+          className={`content ${key === "experience" ? "exp" : ""}`}
           style={isAbout ? {} : { height: expanded ? "auto" : 0, marginBottom: expanded ? 60 : 0 }}
         >
           {colData[key][lang]}
@@ -81,7 +82,7 @@ const IndexPage = ({ data }) => {
 
   const list = works.map(w => {
     const { frontmatter } = w.node
-    const { category, thumb, titleEn, titleZh } = frontmatter
+    const { thumb, titleEn, titleZh } = frontmatter
     const slug = titleEn.toLowerCase().replace(/ /gi, "-").replace(/'/gi, "")
     const title = lang === "zh" ? titleZh : titleEn
 
