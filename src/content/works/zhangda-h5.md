@@ -6,7 +6,7 @@ clientEn: Zhang Da @Boundless
 date: 2018-10-02
 category: web
 url: http://www.bewaterjournal.com/special/zhang-da
-thumb: zhangda-h5.jpg
+thumb: zhangda-h5-0.jpg
 gallery:
   - zhangda-h5-1.jpg
   - zhangda-h5-2.jpg

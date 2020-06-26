@@ -6,7 +6,7 @@ clientEn: 103store
 date: 2019-10-01
 category: web
 url: https://103store.cn
-thumb: 103store-cn.jpg
+thumb: 103store-cn-0.jpg
 gallery:
   - 103store-1.jpg
   - 103store-2.jpg

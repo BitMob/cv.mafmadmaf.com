@@ -6,7 +6,7 @@ clientEn: Okamoto
 date: 2017-05-01
 category: web
 url: https://www.bitmob.cc/demo/okamoto/
-thumb: h5-miyamoto.jpg
+thumb: h5-miyamoto-0.jpg
 gallery:
   - h5-miyamoto-1.jpg
   - h5-miyamoto-2.jpg

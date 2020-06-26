@@ -6,7 +6,7 @@ clientEn: BitMob Creative Production
 date: 2020-04-03
 category: app
 url: https://wtdtapp.com
-thumb: wtdt-app.jpg
+thumb: wtdt-app-0.jpg
 gallery:
   - wtdt-app-1.jpg
   - wtdt-app-2.jpg

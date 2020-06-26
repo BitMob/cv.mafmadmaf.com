@@ -6,7 +6,7 @@ clientEn: Fang Suo
 date: 2018-08-10
 category: web
 url: http://www.bookstorepower.com/
-thumb: bookstore-power.jpg
+thumb: bookstore-power-0.jpg
 gallery:
   - bookstore-power-1.jpg
   - bookstore-power-2.jpg

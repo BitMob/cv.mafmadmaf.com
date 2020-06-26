@@ -6,7 +6,7 @@ clientEn: Digest Design Workshop
 date: 2019-02-02
 category: web
 url: http://www.digest-design.com
-thumb: ddw-web.jpg
+thumb: ddw-web-0.jpg
 gallery:
   - ddw-web-1.jpg
   - ddw-web-2.jpg

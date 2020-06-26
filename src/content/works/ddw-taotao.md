@@ -6,7 +6,7 @@ clientEn: Digest Design Workshop
 date: 2018-08-11
 category: web
 url: https://www.bitmob.cc/demo/digest-design-demo/
-thumb: ddw-taotao.jpg
+thumb: ddw-taotao-0.jpg
 gallery:
   - ddw-taotao-1.jpg
   - ddw-taotao-2.jpg

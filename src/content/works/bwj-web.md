@@ -6,7 +6,7 @@ clientEn: Be Water Journal
 date: 2018-06-01
 category: web
 url: http://www.bewaterjournal.com
-thumb: bwj-web.jpg
+thumb: bwj-web-0.jpg
 gallery:
   - bwj-web-1.jpg
   - bwj-web-2.jpg

@@ -6,7 +6,7 @@ clientEn: Digest3kg
 date: 2019-09-12
 category: web
 url: http://www.digest3kg.com
-thumb: d3kg-web.jpg
+thumb: d3kg-web-0.jpg
 gallery:
   - d3kg-web-1.jpg
   - d3kg-web-2.jpg

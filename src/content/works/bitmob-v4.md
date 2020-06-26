@@ -6,13 +6,13 @@ clientEn: BitMob Creative Production
 date: 2020-05-01
 category: web
 url: https://www.bitmob.cc/
-thumb: bitmob-v4.jpg
+thumb: bitmob-v4-0.jpg
 gallery:
-  - v4-1.jpg
-  - v4-2.jpg
-  - v4-3.jpg
-  - v4-4.jpg
-  - v4-5.jpg
+  - bitmob-v4-1.jpg
+  - bitmob-v4-2.jpg
+  - bitmob-v4-3.jpg
+  - bitmob-v4-4.jpg
+  - bitmob-v4-5.jpg
 ---
 
 因為長期面對國內外使用不同語言的客戶，一個使用中英切換的工作室官網就顯得尤其重要。網站首頁使用的極大號英文，是最近完成設計的一款西文字形。我們在保持英文字形設計不變的狀態下，在一定的顯示區域內疊上對應中文內容的色塊。而這個色塊可以用鼠標指針或手指觸摸拖動。因為西文字形線條粗，加上色塊可以隨意拖動，它遮蓋的部分並不會影響西文字體的內容呈現 —— 這就是此網站中文語言下的顯示方式。
