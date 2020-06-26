@@ -49,11 +49,13 @@ const Layout = ({ children }) => {
         },
       }}
     >
-      <main onMouseMove={updateMousePos}>
-        {children}
-        <Footer />
-        <Cursor />
-      </main>
+      <div className="wrap" onMouseMove={updateMousePos}>
+        <main>
+          {children}
+          <Footer />
+          <Cursor />
+        </main>
+      </div>
     </Context.Provider>
   )
 }
