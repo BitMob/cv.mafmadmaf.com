@@ -1,5 +1,5 @@
 ---
-titleZh: 骷髏 · 裝置/《1626》編輯設計
+titleZh: 骷髏 · 裝置/編輯設計
 titleEn: "'Skull' Installation And Editorial Design"
 clientZh: 1626 Magazine
 clientEn: 1626 Magazine
