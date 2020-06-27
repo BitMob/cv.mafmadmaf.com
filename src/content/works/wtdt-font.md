@@ -1,6 +1,6 @@
 ---
 titleZh: WTDT 字體設計
-titleEn: "WTDT FONT"
+titleEn: "WTDT FONT Design"
 clientZh: BitMob Creative Production
 clientEn: BitMob Creative Production
 date: 2020-04-04
