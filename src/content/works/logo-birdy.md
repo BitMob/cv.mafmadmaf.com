@@ -9,4 +9,6 @@ category: graphic
 thumb: logo-birdy-0.jpg
 gallery:
   - logo-birdy-1.jpg
+  - logo-birdy-2.jpg
+  - logo-birdy-3.jpg
 ---

@@ -8,6 +8,11 @@ category: graphic
 
 thumb: print-tribes-0.jpg
 gallery:
-  - print-tribes-1.jpg
-  - print-tribes-2.jpg
+  - print-tribes-3.jpg
+  - print-tribes-4.jpg
+  - print-tribes-5.jpg
+  - print-tribes-6.jpg
+  - print-tribes-7.jpg
+  - print-tribes-8.jpg
+  - print-tribes-9.jpg
 ---
