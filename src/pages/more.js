@@ -1,6 +1,6 @@
 import React, { useState, useContext } from "react"
 import ReactHtml from "react-html-parser"
-import { Link } from "gatsby"
+import { Link, graphql } from "gatsby"
 
 import SEO from "../components/seo"
 import LangSwitch from "../components/LangSwitch"
@@ -94,17 +94,14 @@ const MorePage = ({ data, location }) => {
 
 export const pageQuery = graphql`
   query {
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMarkdownRemark(filter: { fileAbsolutePath: { regex: "/(intros)/" } }) {
       edges {
         node {
           id
           html
           frontmatter {
-            titleEn
             slug
             type
-            thumb
-            category
           }
         }
       }

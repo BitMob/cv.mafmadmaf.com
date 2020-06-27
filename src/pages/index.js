@@ -1,6 +1,6 @@
 import React, { useState, useContext } from "react"
 import ReactHtml from "react-html-parser"
-import { Link } from "gatsby"
+import { Link, graphql } from "gatsby"
 
 import SEO from "../components/seo"
 import LangSwitch from "../components/LangSwitch"
@@ -16,12 +16,10 @@ const IndexPage = ({ data }) => {
   const { isMobile } = sizes
   const [expands, setExpands] = useState({ techniques: false, tools: false, experience: false })
 
-  const { edges } = data.allMarkdownRemark
-  const intros = edges.filter(edge => edge.node.frontmatter.type === "intro")
-  const works = edges.filter(edge => edge.node.frontmatter.type !== "intro")
+  const { intros, works } = data
 
   let colData = {}
-  intros.forEach(intro => {
+  intros.edges.forEach(intro => {
     const { frontmatter, html } = intro.node
     const { slug } = frontmatter
     const zh = html.split("<!-- lang -->")[0]
@@ -80,7 +78,7 @@ const IndexPage = ({ data }) => {
   const introSections = isMobile ? [keys[0]] : keys
   const cols = introSections.map(key => genCol(key))
 
-  const list = works.map(w => {
+  const list = works.edges.map(w => {
     const { frontmatter } = w.node
     const { thumb, titleEn, titleZh } = frontmatter
     const slug = titleEn.toLowerCase().replace(/ /gi, "-").replace(/'/gi, "")
@@ -112,18 +110,32 @@ const IndexPage = ({ data }) => {
 
 export const pageQuery = graphql`
   query {
-    allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+    intros: allMarkdownRemark(
+      filter: { fileAbsolutePath: { regex: "/(intros)/" } }
+      sort: { fields: [frontmatter___date], order: DESC }
+    ) {
       edges {
         node {
           id
           html
           frontmatter {
-            titleEn
-            titleZh
             slug
             type
+          }
+        }
+      }
+    }
+    works: allMarkdownRemark(
+      filter: { fileAbsolutePath: { regex: "/(works)/" } }
+      sort: { fields: [frontmatter___date], order: DESC }
+    ) {
+      edges {
+        node {
+          id
+          frontmatter {
+            titleEn
+            titleZh
             thumb
-            category
           }
         }
       }
