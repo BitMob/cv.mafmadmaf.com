@@ -1,5 +1,5 @@
 ---
-titleZh: 宫本武藏之极致征途 · 互動長軸
+titleZh: 宫本武藏之极致征途 · 互動長軸 H5
 titleEn: "'Miyamoto Musashi' Interactive Long Scroll"
 clientZh: 岡本
 clientEn: Okamoto
