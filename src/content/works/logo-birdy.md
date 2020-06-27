@@ -1,5 +1,5 @@
 ---
-titleZh: 雀仔獨立出版 BirdyPress BRANDING
+titleZh: 雀仔獨立出版 BRANDING
 titleEn: "BirdyPress BRANDING"
 clientZh: 雀仔獨立出版 BirdyPress
 clientEn: BirdyPress
