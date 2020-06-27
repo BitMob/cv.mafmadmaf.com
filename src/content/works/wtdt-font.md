@@ -3,7 +3,7 @@ titleZh: WTDT 字體設計
 titleEn: "WTDT FONT"
 clientZh: BitMob Creative Production
 clientEn: BitMob Creative Production
-date: 2020-04-04
+date: 2020-04-01
 category: graphic
 url: https://wtdtapp.com/wtdt-font
 thumb: wtdt-font-0.jpg
