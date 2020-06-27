@@ -3,7 +3,7 @@ titleZh: WTDT 今日清單 APP
 titleEn: "WTDT APP"
 clientZh: BitMob Creative Production
 clientEn: BitMob Creative Production
-date: 2020-04-03
+date: 2020-01-01
 category: app
 url: https://wtdtapp.com
 thumb: wtdt-app-0.jpg
