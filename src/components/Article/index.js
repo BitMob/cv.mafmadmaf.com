@@ -5,13 +5,14 @@ import i18n from "../../helpers/i18n"
 import { CASE_PATH } from "../../helpers/constants"
 import S from "./style.module.scss"
 
-export default function Article({ html, frontmatter, lang }) {
+export default function Article({ html, frontmatter, isMobile, lang }) {
   const { titleEn, titleZh, clientEn, clientZh, date, url, gallery } = frontmatter
 
   const byLang = html.split("<!-- lang -->")
 
   const images = gallery.map(name => {
-    const _name = name.includes(".gif") ? name : `${name}?x-oss-process=style/maf-works-detail`
+    const _suf = isMobile ? "list" : "detail"
+    const _name = name.includes(".gif") ? name : `${name}?x-oss-process=style/maf-works-${_suf}`
     return (
       <div className={S.image} key={name}>
         <img src={`${CASE_PATH}/${_name}`} />

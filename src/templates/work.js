@@ -9,10 +9,11 @@ import Context from "../helpers/context"
 import i18n from "../helpers/i18n"
 
 export default function Template({ data, location }) {
-  const { lang } = useContext(Context).states
+  const { lang, sizes } = useContext(Context).states
   const { markdownRemark } = data
   const { frontmatter, html } = markdownRemark
   const { titleZh, titleEn } = frontmatter
+  const { isMobile } = sizes
   let fromHome = location.state
   const goBackCnt = (
     <>
@@ -36,7 +37,7 @@ export default function Template({ data, location }) {
         {goBack}
         <LangSwitch atTop />
       </div>
-      <Article html={html} lang={lang} frontmatter={frontmatter} />
+      <Article isMobile={isMobile} html={html} lang={lang} frontmatter={frontmatter} />
     </>
   )
 }
