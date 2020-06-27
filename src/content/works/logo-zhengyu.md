@@ -1,6 +1,6 @@
 ---
-titleZh: 正羽射圃 LOGO
-titleEn: "Zhengyu Archery Club LOGO"
+titleZh: 正羽射圃 VI
+titleEn: "Zhengyu Archery Club VI"
 clientZh: 正羽射圃
 clientEn: Zhengyu Archery Club
 date: 2017-03-15

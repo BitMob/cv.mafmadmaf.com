@@ -1,6 +1,6 @@
 ---
-titleZh: 看得見的冥想 · Jon Poblador 三部展 BRANDING
-titleEn: "Jon Poblador's Visible Meditation Exhibition BRANDING"
+titleZh: 看得見的冥想 · Jon Poblador 三部展 VI
+titleEn: "Jon Poblador's Visible Meditation Exhibition VI"
 clientZh: 103store
 clientEn: 103store
 date: 2017-04-15

@@ -1,6 +1,6 @@
 ---
-titleZh: 103store.cn · 好物紀錄
-titleEn: "103store.cn 'Life with Goods'"
+titleZh: 103store.cn · 好物紀錄網站 VI
+titleEn: "103store.cn 'Life with Goods' WEB VI"
 clientZh: 103store
 clientEn: 103store
 date: 2019-10-01
