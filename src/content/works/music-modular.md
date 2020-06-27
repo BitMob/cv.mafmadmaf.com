@@ -21,5 +21,4 @@ gallery:
   - music-modular-11.jpg
   - music-modular-12.jpg
   - music-modular-14.jpg
-  - music-modular-15.jpg
 ---
