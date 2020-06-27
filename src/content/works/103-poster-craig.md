@@ -1,6 +1,6 @@
 ---
-titleZh: Craig Kirk 的街頭卡通展 BRANDING
-titleEn: "Craig Kirk's Street Cartoon Exhibition BRANDING"
+titleZh: Craig Kirk 的街頭卡通展 VI
+titleEn: "Craig Kirk's Street Cartoon Exhibition VI"
 clientZh: 103store
 clientEn: 103store
 date: 2017-07-01

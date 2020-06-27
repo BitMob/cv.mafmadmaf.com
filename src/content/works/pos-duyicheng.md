@@ -1,5 +1,5 @@
 ---
-titleZh: 2012南國書香節 · 獨立書店展廳 BRANDING
+titleZh: 2012南國書香節 · 獨立書店展廳 VI
 titleEn: "Indie Bookstore Exhibition at 2012 Book Expo"
 clientZh: "城市畫報"
 clientEn: "Cityzine"

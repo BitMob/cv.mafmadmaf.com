@@ -1,6 +1,6 @@
 ---
-titleZh: 阿GO帶你玩玩具 · 展覽 BRANDING
-titleEn: "'Play Toys with GO' Exhibition BRANDING"
+titleZh: 阿GO帶你玩玩具 · 展覽 VI
+titleEn: "'Play Toys with GO' Exhibition VI"
 clientZh: 103store
 clientEn: 103store
 date: 2018-10-05

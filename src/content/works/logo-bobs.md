@@ -1,6 +1,6 @@
 ---
-titleZh: Bob's 小卜金具 BRANDING
-titleEn: "Bob's Hardware House BRANDING"
+titleZh: Bob's 小卜金具 VI
+titleEn: "Bob's Hardware House VI"
 clientZh: 小卜金具
 clientEn: Bob's Hardware
 date: 2019-06-11
