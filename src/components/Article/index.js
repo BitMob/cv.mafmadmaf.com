@@ -11,9 +11,10 @@ export default function Article({ html, frontmatter, lang }) {
   const byLang = html.split("<!-- lang -->")
 
   const images = gallery.map(name => {
+    const _name = name.includes(".gif") ? name : `${name}?x-oss-process=style/maf-works-detail`
     return (
       <div className={S.image} key={name}>
-        <img src={`${CASE_PATH}/${name}?x-oss-process=style/maf-works-detail`} />
+        <img src={`${CASE_PATH}/${_name}`} />
       </div>
     )
   })
