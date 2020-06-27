@@ -3,7 +3,7 @@ titleZh: 模組合成器探索
 titleEn: "Modular Synth Exploration"
 clientZh: 我
 clientEn: Me
-date: 2017-07-07
+date: 2017-04-14
 category: graphic
 
 thumb: music-modular-0.jpg

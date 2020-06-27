@@ -3,7 +3,7 @@ titleZh: 看得見的冥想 · Jon Poblador 三部展 VI
 titleEn: "Jon Poblador's Visible Meditation Exhibition VI"
 clientZh: 103store
 clientEn: 103store
-date: 2017-04-15
+date: 2017-04-12
 category: graphic
 
 thumb: 103-poster-jon-0.jpg
