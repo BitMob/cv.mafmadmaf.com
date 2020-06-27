@@ -1,6 +1,6 @@
 ---
 titleZh: 睡不著 Risograph ZINE
-titleEn: Sleepless Risograph ZINE
+titleEn: "'Sleepless' Risograph ZINE"
 clientZh: Storybook
 clientEn: Storybook
 date: 2016-06-22

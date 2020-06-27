@@ -1,6 +1,6 @@
 ---
 titleZh: 睡不著 POSTER
-titleEn: Sleepless POSTER
+titleEn: "Sleepless POSTER"
 clientZh: Storybook
 clientEn: Storybook
 date: 2016-09-11

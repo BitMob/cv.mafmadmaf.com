@@ -1,6 +1,6 @@
 ---
 titleZh: 小小國術家 LOGO
-titleEn: Little Guoshu Master LOGO
+titleEn: "Little Guoshu Master LOGO"
 clientZh: 小小國術家
 clientEn: Little Guoshu Master
 date: 2016-08-20

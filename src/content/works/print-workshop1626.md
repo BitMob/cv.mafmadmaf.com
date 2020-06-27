@@ -1,6 +1,6 @@
 ---
 titleZh: 103store × 1626 絲網印刷工作坊 POSTER
-titleEn: Screen Printing Workshop POSTER Featuring 1626 Magazine
+titleEn: "Screen Printing Workshop POSTER Featuring 1626 Magazine"
 clientZh: 103store × 1626
 clientEn: 103store × 1626
 date: 2018-11-08
