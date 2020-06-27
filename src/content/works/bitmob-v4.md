@@ -3,7 +3,7 @@ titleZh: BitMob · 官方網站 第四版
 titleEn: "BitMob Official Website V4"
 clientZh: BitMob Creative Production
 clientEn: BitMob Creative Production
-date: 2020-06-01
+date: 2020-06-04
 category: web
 url: https://www.bitmob.cc/
 thumb: bitmob-v4-0.jpg
