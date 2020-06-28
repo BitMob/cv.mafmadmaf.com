@@ -3,7 +3,7 @@ titleZh: 环形山世界 · 音樂作品
 titleEn: "CRATER MONDE Vol.1"
 clientZh: 我
 clientEn: Me
-date: 2017-04-14
+date: 2019-05-28
 category: graphic
 url: https://www.youtube.com/playlist?list=OLAK5uy_k-90FHGfJq0Fnq8mQBQZBcOCAUGeXjV-Q
 thumb: music-crater-0.jpg
