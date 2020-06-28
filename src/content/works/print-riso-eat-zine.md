@@ -1,0 +1,13 @@
+---
+titleZh: 食 Risograph ZINE
+titleEn: "'Eat' Risograph ZINE"
+clientZh: 雀仔獨立出版 BirdyPress
+clientEn: BirdyPress
+date: 2017-06-19
+category: graphic
+
+thumb: print-riso-eat-zine-0.jpg
+gallery:
+  - print-riso-eat-zine-1.jpg
+  - print-riso-eat-zine-2.jpg
+---
