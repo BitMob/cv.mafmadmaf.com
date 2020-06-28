@@ -11,7 +11,7 @@ export default function Article({ html, frontmatter, isMobile, lang }) {
   const byLang = html.split("<!-- lang -->")
 
   const images = gallery.map(name => {
-    const _suf = isMobile ? "list" : "detail"
+    const _suf = isMobile ? "detail-mobile" : "detail"
     const _name = name.includes(".gif") ? name : `${name}?x-oss-process=style/maf-works-${_suf}`
     return (
       <div className={S.image} key={name}>
