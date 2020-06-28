@@ -3,7 +3,7 @@ titleZh: 硬膠音樂現場 VI
 titleEn: "HARDGUM Live MUsic VI"
 clientZh: 硬膠現場
 clientEn: HARDGUM
-date: 2019-09-11
+date: 2019-03-03
 category: graphic
 url: https://www.hardgum.live/
 thumb: hardgum-0.jpg
