@@ -15,12 +15,14 @@ gallery:
   - bitmob-v4-5.jpg
 ---
 
-因為長期面對國內外使用不同語言的客戶，一個使用中英切換的工作室官網就顯得尤其重要。網站首頁使用的極大號英文，是最近完成設計的一款西文字形。我們在保持英文字形設計不變的狀態下，在一定的顯示區域內疊上對應中文內容的色塊。而這個色塊可以用鼠標指針或手指觸摸拖動。因為西文字形線條粗，加上色塊可以隨意拖動，它遮蓋的部分並不會影響西文字體的內容呈現 —— 這就是此網站中文語言下的顯示方式。
+因為長期面對國內外使用不同語言的客戶，一個能夠雙語顯示的工作室官網就顯得尤其重要。網站首頁使用的大號英文字，叫做 KNOOB，是最近完成設計的一款西文字形。在保持英文口號的狀態下，在一定的顯示區域內疊上對應中文內容的色塊。而這個色塊可以用鼠標指針或手指觸摸拖動。因為西文字形線條粗，加上色塊可以隨意拖動，它遮蓋的部分並不會影響西文字體的內容呈現之餘，色塊的位置也在對應的英文範圍內。
 
-Art Director: maf<br/>Lead Programmer: Ed Lee
+Art Director: maf<br/>
+Lead Programmer: Ed Lee
 
 <!-- lang -->
 
-Because of the long-term confrontation with customers who use different languages at home and abroad, a studio official website that uses Chinese-English switching is particularly important. The Greatest English used on the homepage of the website is a Western-style glyph recently completed. While keeping the English glyph design unchanged, we put color blocks corresponding to Chinese content in a certain display area. The color block can be dragged with the mouse pointer or finger. Because the thick lines of the Western font and the color blocks can be dragged at will, the part it covers will not affect the content of the Western font-this is how it is displayed in the Chinese language of this website.
+Because of facing customers who use different languages at home and abroad, a studio website that can display bilingually is particularly important. The slogan (and also the menu, etc.) in English was using maf's new-designed font, 'KNOOB', which was rich and powerful, while the Chinese slogan was shown in a color block that can be dragged at will. The position of the block was also within the corresponding English content.
 
-Art Director: maf<br/>Lead Programmer: Ed Lee
+Art Director: maf<br/>
+Lead Programmer: Ed Lee

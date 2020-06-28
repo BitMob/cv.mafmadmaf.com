@@ -11,3 +11,13 @@ gallery:
   - print-riso-eat-zine-1.jpg
   - print-riso-eat-zine-2.jpg
 ---
+
+Illustrator: maf, ETH<br/>
+Art Director / Graphic Designer: maf<br/>
+Riso Print & Publishing: maf
+
+<!-- lang -->
+
+Illustrator: maf, ETH<br/>
+Art Director / Graphic Designer: maf<br/>
+Riso Print & Publishing: maf

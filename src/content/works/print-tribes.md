@@ -16,3 +16,13 @@ gallery:
   - print-tribes-8.jpg
   - print-tribes-9.jpg
 ---
+
+Illustrator: maf<br/>
+Art Director / Graphic Designer: maf<br/>
+Riso Print & Publishing: maf
+
+<!-- lang -->
+
+Illustrator: maf<br/>
+Art Director / Graphic Designer: maf<br/>
+Riso Print & Publishing: maf

@@ -11,3 +11,11 @@ gallery:
   - ei-1626-doom-1.jpg
   - ei-1626-doom-2.jpg
 ---
+
+Editorial Illustration: maf<br/>
+Editor: Van
+
+<!-- lang -->
+
+Editorial Illustration: maf<br/>
+Editor: Van

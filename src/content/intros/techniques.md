@@ -3,8 +3,8 @@ slug: techniques
 type: intro
 ---
 
-平面設計 & 編輯設計 / 插圖<br/>UI / UX & Web 交互設計<br/>書籍裝幀設計 / 印制 & 出版<br/>字體設計<br/>多媒體（聲音·影像）互動裝置<br/>聲音設計 & 作曲
+平面設計 & 插圖（編輯專長）<br/>UI / UX & Web 交互設計<br/>書籍裝幀設計 / 印制 & 出版<br/>字體設計<br/>多媒體（聲音·影像）互動裝置<br/>聲音設計 & 作曲
 
 <!-- lang -->
 
-Graphic & Edit Design / Edit Illustration<br/>UI / UX & Web interaction design<br/>Book binding design / printing & publishing<br/>Font design<br/>Multimedia (sound and video) interactive device<br/>Sound Design & Composition
+Graphic Design & Illustration (editorial specialized)<br/>UI / UX & Web Interactive design<br/>Book Design / Printing & Publishing<br/>Font Design<br/>Multimedia (Sound & Visual) Interactive Installation<br/>Sound Design & Composition

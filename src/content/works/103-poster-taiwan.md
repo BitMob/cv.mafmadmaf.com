@@ -13,3 +13,9 @@ gallery:
   - 103-poster-taiwan-3.jpg
   - 103-poster-taiwan-4.jpg
 ---
+
+Curator / Art Director / Graphic Designer: maf
+
+<!-- lang -->
+
+Curator / Art Director / Graphic Designer: maf

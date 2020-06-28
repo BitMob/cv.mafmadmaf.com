@@ -12,3 +12,11 @@ gallery:
   - ed-1626-skull-2.jpg
   - ed-1626-skull-3.jpg
 ---
+
+Creator / Editorial Designer: maf<br/>
+Editor: Van
+
+<!-- lang -->
+
+Creator / Editorial Designer: maf<br/>
+Editor: Van

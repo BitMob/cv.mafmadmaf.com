@@ -13,3 +13,13 @@ gallery:
   - print-sleep-3.jpg
   - print-sleep-4.jpg
 ---
+
+Illustrator: Patrick Miller<br/>
+Art Director / Graphic Designer: maf<br/>
+Riso Print & Publishing: maf
+
+<!-- lang -->
+
+Illustrator: Patrick Miller<br/>
+Art Director / Graphic Designer: maf<br/>
+Riso Print & Publishing: maf

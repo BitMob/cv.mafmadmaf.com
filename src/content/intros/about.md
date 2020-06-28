@@ -3,16 +3,20 @@ slug: about
 type: intro
 ---
 
-馬飛兒（maf）是一名平面設計師，[多媒體藝術家](https://mafmadmaf.com/)，創造克制而精美的視覺和音樂。在過去的十年，以專業的設計服務大眾，曾擁有一個人的手工印刷作坊和一家[設計工作室](https://www.bitmob.cc/)；而最近剛完成一套西文字體和以工作室的名義推出一款 [iOS 應用程序](https://wtdtapp.com/)。
+迷戀八九十年代，唯三的救火少年。
 
-十年間從無間斷地接觸紙張、印刷、裝幀，它們始終是心頭好，還有文字、字體設計。2015 年起，對 UI/UX 領域產生濃厚興趣，研習 Web 平面和交互設計。在多媒體藝術探索上，用[合成器作曲](https://space.bilibili.com/91888290/video)、做聲音設計；也使用 Max/MSP 和 Supercollider 等前沿的計算機藝術為創作方法。近年在摩登天空等廠牌發表[作品](https://y.qq.com/n/yqq/album/001cRZsN0DopCy.html)，參加[日本東京模塊音樂節](https://tfom.info/tfom-2018)等交流活動。
+馬飛兒（maf）成為了一位美術指導和[多媒體藝術家](https://mafmadmaf.com/)。從業十年，他依然熱愛創造，善於構造克制而精美的視覺和聲音。十年間，成功完成過數不清的委託，曾擁有一間一個人的印刷工作坊，還有一家僅有四人的[數字創意工作室](https://www.bitmob.cc/)；而最近剛完成了一套[西文字體](https://maf-works.com/work/knoob-font-design)和一款 iOS [應用程序](https://wtdtapp.com/)。<br/>
+從 2015 年對 UI/UX 產生濃厚興趣開始，過度活躍的思維和好奇心，讓他的設計作品從最經典的印刷創意，橫跨到最新銳的 Web 平面和交互設計 —— 現在這早已成為了 maf 最引以為傲的設計思維方式 —— 同樣還有文字（字體）和音樂，自 2017 年開始使用模組合成器作曲、做聲音設計，也運用 Max 等電腦藝術科技；2018 年起[摩登天空](https://y.qq.com/n/yqq/album/001CqCvJ3IOcAL.html)等廠牌陸續發表[作品](https://y.qq.com/n/yqq/album/001cRZsN0DopCy.html)，參加過[東京模塊音樂節](https://tfom.info/tfom-2018)等合成器交流活動。
+
+並樂此不疲。
 
 <a href="mailto:fredmamono@gmail.com">fredmamono@gmail.com</a>
 
 <!-- lang -->
 
-maf is a graphic designer, art director, multimedia artist (a.k.a. mafmadmaf) and likes cats. I yearn for minimalism, love to explore and create, break the rules, and am happy to present restraint and exquisite design and music to the audience. In the past ten years, he has served many well-known brands with design, and has his own one-person printing studio and a design studio (bitmob.cc); recently completed a set of Western fonts: KNOOB, and in the name of the studio Launched an iOS application (WTDT).
+Fascinated by the 80s and 90s, the only three 'teenage firefighters' (Sorry, English people).
 
-In the past ten years, I have been in constant contact with paper and binding, studied screen printing and Risograph printing technology, loved prints, and also loved text and font design. Since 2015, he has developed a strong interest in the field of UI/UX, studying web graphics and interaction design, and treating them as "flowing graphics" (as opposed to the "static graphics" represented by printed matter). In the exploration of multimedia art, he used synthesizers to compose music and design sounds; he also used cutting-edge computer technologies such as Max/MSP and Supercollider to create methods. In recent years, he has published works on Modern Sky and other labels; he has participated in exchange activities such as Tokyo Festival of Modular.
+Becoming an art director and multimedia artist, maf still loves creation profoundly after 10 years of practice, to produce restrained yet exquisite visuals and sounds. In the past decade, has successfully fulfilled numerous commissions, owned a one-man printing workshop and a minimal design studio, while recently completed a western fonts and an iOS application.<br/>
+Starting from a strong interest in UI/UX in 2015, maf's works widely range from classic printable designs to interactive designs that powered by edging font-end techniques, which also benefits from his overactive thinking and curiosity. XXXXXX
 
-Use new media, new technology, and new designs. But regardless of the medium, I have always believed that the sense of form and content should be designed in both directions.
+And be happy.

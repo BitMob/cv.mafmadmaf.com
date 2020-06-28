@@ -11,3 +11,11 @@ gallery:
   - posterzine-youth-1.jpg
   - posterzine-youth-2.jpg
 ---
+
+Art Director / Graphic Designer: maf<br/>
+Editor: Youthology
+
+<!-- lang -->
+
+Art Director / Graphic Designer: maf<br/>
+Editor: Youthology

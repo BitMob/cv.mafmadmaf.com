@@ -3,55 +3,53 @@ slug: experience
 type: intro
 ---
 
-### 美術總監 / 平面設計師 @ BitMob Creative Production
+### 美術總監 / 平面設計師 @ BitMob Creative Digital
 
 2017 - 2020
 
-與朋友兼創意開發者 Ed 一同創立的[平面設計與交互設計工作室](https://www.bitmob.cc/)，其主要客戶群為獨立設計師，藝術文化媒體和服裝品牌等，絕大多數都和我們所擅長的平面表達和交互方式緊密相連。我是美術監督，主要負責平面設計、UI/UX 和交互設計。
-仰賴於與前端工程師充分的交流和對前端技術的深度瞭解，能讓好的平面設計的前端交互緊密結合，兩者相得益彰，在極小規模下，為合作方帶來備受贊譽的設計咨詢和產品體驗。
-2018 年，完成了獨立雜誌《水象 BeWater Journal》創刊號的完整品牌設計，包括品牌識別，書籍設計，官網的設計與開發。服務於北京服裝設計師 Dooling Jiang 和她的品牌 Digest Design，並為其創作多個網頁交互設計實例。
+在與朋友兼創新程序員 Ed 成立的交互設計[工作室](https://www.bitmob.cc/)擔任美術監督，專精 UI/UX 和 Web 交互設計；主要客戶群為獨立設計師、藝文類媒體和服裝品牌。通過與前端工程師的充分交流和對 Web 前端技術的深度瞭解，maf 別具一格的設計總能夠與前端和交互設計緊密結合，兩者相得益彰。在極小的工作室規模下，為合作方帶來備受讚許的產品體驗。三年間完整設計並開發 15+ 個網站，數字服務 10+ 個著名品牌， 推出多個原創數字產品，包括 1 個 iOS APP。
 
 ### 平面設計顧問 @ Vitamin Creative Space 維他命藝術空間
 
 2017 - 2020
 
-為維他命藝術空間和屬下出版機構‘觀心亭’設計出版物和展覽品牌設計，重新設計其線上商店 the shop。與團隊進行藝術家出版物的可能性的探討和嘗試，合作藝術家如田中功起、鄭國谷、王音等，出版物展覽於 Art Basel 等藝術活動中。
+為[維他命藝術空間](http://www.vitamincreativespace.art/cn/)和屬下出版機構「觀心亭」設計出版物和展覽品牌設計，期間重新設計其線上商店 the shop。與「觀心亭」團隊進行藝術家出版物的可能性的探討和嘗試，合作藝術家如田中功起、鄭國谷、王音等；出版物服務於 Art Basel 等藝術活動。
 
 ### 獨立出版人 / 平面設計師 @ BirdyPress
 
 2015 - 2020
 
-購入 Risograph 孔板印刷機，開始進行印刷和獨立出版。期間不斷對平面設計與印刷技巧、版畫等進行探索，獲得許多寶貴經驗，並運用到日常的平面設計和裝幀設計中。2018 年，工作室參加由香蕉魚組織策劃的「2018 亞洲 Risograph 研討會」。
+自費購入 Risograph 孔板印刷機，開始進行一個人的印刷和獨立出版事業。期不斷對平面設計與印刷技巧、版畫等進行探索，收穫大量寶貴經驗，運用到日後的平面設計和裝幀設計中；2018 年，BirdyPress 工作室參加由香蕉魚組織策劃的「2018 亞洲 Risograph 研討會」（[報導](https://read01.com/zh-hk/kEmm6o4.html)）。
 
 ### 設計總監 @ Zhidaotang Advertising
 
 2015 - 2016
 
-受到《新週刊》離職的前總編輯（封新城先生）的信任，跟隨到他的新創公司，擔任設計總監，負責出版物設計和產品設計。
+受《新週刊》的前總編輯封新城先生的信任，跟隨到他的新創公司，擔任設計總監，負責出版物設計和產品設計，包括活動品牌設計和應用程序 UI。
 
 ### 設計總監 / 策展人 @ 103store（103store.cn）
 
 2014 - 2020
 
-2014 年與朋友共同建立 103store（103store.cn），一個小型的綜合藝術空間和生活方式內容新媒體。作為主理人之一，策劃過多位常駐廣州的國內外藝術家展覽，並負責空間設計和品牌平面設計，兼顧公眾號運營、文案與設計。作為迷你團隊的一員，除了堅實的設計支持外，和所有隊員保持積極的溝通，共同決策，具備超高效的執行力和效率。
+2014 年組建 103store（後成立 [103store.cn](https://103store.cn/)），一個小型的綜合藝術空間和藝文類內容新媒體。作為策展人之一，負責品牌平面設計、公眾號運營，也為多位常駐廣州的藝術家策劃個人展覽，如 [Jon Poblador](https://maf-works.com/work/jon-pobladors-visible-meditation-exhibition-vi)、[Craig Kirk](https://maf-works.com/work/craig-kirks-street-cartoon-exhibition-vi)、[Kay Guo](https://maf-works.com/work/a-pile-of-shit-another-type-of-jewellery-vi)、[TOKI NASHIKI](https://maf-works.com/work/from-earth-pottery-exhibition-vi) 等，並負責其展覽視覺設計。一直以來與所有隊員保持積極的溝通，群策群力。
 
 ### 資深平面設計師 @ Neweekly Magazine 新週刊
 
 2012 - 2015
 
-此崗位主要專注於信息可視化設計（infographic）。憑借優秀的邏輯分析能力和數據處理能力，為每一期封面專題繪制信息圖，以創新的思維運用多種創作技巧，總能帶給這本中年雜誌一些別開生面的設計呈現，工作成果獲得同事、上司和客戶的一致認可。同時也獨立負責一本 96 頁的生活方式雜誌的視覺設計工作。
+專注於[信息可視化設計](https://maf-works.com/work/infographic-collection-1)（infographic）。憑借優秀的邏輯分析和數據處理能力，為每一期雜誌專題設計信息圖，以創新的思維運用多種創作技巧，總能帶給這本嚴肅雜誌一些別開生面的設計呈現，獲得同事和客戶的一致認可；期間也獨立負責一本 96 頁的生活雜誌的視覺設計工作。
 
 ### 自由平面設計師 / 插畫師
 
 2010 - 2019
 
-在此期間為《城市畫報》，iMart 創意市集，YOHO!，方所，廣州大劇院等優質客戶提供平面設計服務。
+為《城市畫報》、iMart 創意市集、YOHO!、方所、廣州大劇院、小鵬汽車等客戶提供平面設計和諮詢服務。
 
 ### 平面設計師 / 編輯設計師 @ 1626 Magazine
 
 2010 - 2012
 
-擔任平面設計師、編輯設計師，當時國內最好的青年文化雜誌之一。負責雜誌排版，廣告設計和網頁平面設計。優秀的文本內容的分析能力，能呈現與之相配的設計風格，並高效執行。此時已經精通設計軟件 Indesign，瞭解紙張特性和主流裝幀工藝。
+擔任平面設計師、編輯設計師。1626 是當時國內最好的青年文化雜誌之一。負責雜誌排版，廣告設計和網頁平面設計。擁有優秀的文本內容的解讀和數據分析能力，並高效執行與之符合的設計。經過這段時間，已經精通版式設計軟件 Indesign，也逐步加深對紙張和裝幀工藝的了解。
 
 <!-- lang -->
 
@@ -59,48 +57,49 @@ type: intro
 
 2017 - 2020
 
-Graphic design and interaction design studio (official website https://www.bitmob.cc/) founded with friends and creative developer Ed, whose main customer base is independent designers, arts and cultural media and clothing brands, etc. Most of them are closely connected with the plane expression and interaction methods we are good at. I am an art supervisor, mainly responsible for graphic design, UI/UX and interaction design.
-Relying on full communication with front-end engineers and in-depth understanding of front-end technology can make the front-end interaction of good graphic design be closely combined, the two complement each other, and at a very small scale, it brings acclaimed design consulting and products to partners Experience.
-Among them, in 2018, the complete brand design of the independent journal "Water Elephant" (BeWater Journal) was completed, including brand identification, book design, and the design and development of the official website. In recent years, he has served Beijing fashion designer Dooling Jiang and her brand Digest Design, and created multiple webpage interaction design examples for it.
+Co-founded an innovative digital production studio, [BitMob](https://www.bitmob.cc/), and dedicated to the art direction of UI / UX, and interactive-specialized digital production, with a friend and creative programmer, Ed.
+As cooperating closely with front-end engineers and having an in-depth understanding of both ends,
+created unique and exquisite designs that could always be closely integrated with user-end interactions. It brought a highly praised product experience to the business partners.<br/>
+Designed and completely developed 15+ websites, digital creative service 10+ renowned brands in the past three years, and launched several original digital products, including an iOS App.
 
 ### Graphic Design Consultant @ Vitamin Creative Space Vitamin Art Space
 
-2017 - 2020
+2017 - 2019
 
-Designed publications and exhibition brand designs for the Vitamin Art Space and its publishing agency ‘Guanxin Pavilion’, and redesigned its online store the shop. Discuss and try the possibility of artist publications with the team, cooperating artists such as Tanaka Gongqi, Zheng Guogu, Wang Yin, etc. Publications are exhibited in art activities such as Art Basel.
+Designed publications and exhibitions for Vitamin Creative Space and redesigned its online store, the shop. Studied the diversity and possibility of publication arts that served Art Basel with the Pavilion crew, and worked happily with artists like Koki Tanaka, Zheng Guogu, and Wang Yin.
 
 ### Independent Publisher / Graphic Designer @ BirdyPress
 
-2015 - 2020
+2015 - 2019
 
-Purchased Risograph orifice printing machine and started printing and independent publishing. During this period, he continued to explore graphic design and printing techniques (printmaking), gained many valuable experiences, and applied them to daily graphic design and decoration design. In 2018, the studio participated in the "2018 Asia Risograph Seminar" organized by the Banana Fish Organization.
+Purchased a Risograph printing machine and started a one-man printing workshop, also an independent publisher. Harvested a lot of valuable experience by continuously exploring printing and binding techniques, and practice them in future graphic design projects. BirdyPress participated in the 2018 Asian Risograph Seminar organized by BANANAFISH BOOKS. ([News](https://read01.com/zh-hk/kEmm6o4.html))
 
 ### Design Director @ Zhidaotang Advertising
 
 2015 - 2016
 
-Trusted by the former editor-in-chief (Mr. Feng Xincheng) who resigned from "New Weekly", he followed his new startup as the design director, responsible for publication design and product design.
+Trusted by Mr. Feng Xincheng, the former editor-in-chief of Neweekly, followed him to his new startup as design director for publication design and product design, including several brand design and mobile application UI.
 
 ### Design Director / Curator @ 103store（103store.cn）
 
 2014 - Current
 
-In 2014, we established 103store (103store.cn) with friends, a small integrated art space and new media for lifestyle content. As one of the principals, he has planned many exhibitions of domestic and foreign artists resident in Guangzhou, and is responsible for space design and brand graphic design, taking into account the public account operation, copywriting and design. As a member of the mini team, in addition to solid design support, maintain active communication with all team members, make joint decisions, and have ultra-efficient execution and efficiency.
+103store (the later [103store.cn](https://103store.cn/)), a small integrated art space established in Guangzhou, a indie media for artistic contents. As one of the founders, responsible for brand design and WeChat account operation, and also curated and designed diverse exhibitions for various Pearl-River-Delta-based artists, such as [Jon Poblador](https://maf-works.com/work/jon-pobladors-visible-meditation-exhibition-vi), [Craig Kirk](https://maf-works.com/work/craig-kirks-street-cartoon-exhibition-vi), [Kay Guo](https://maf-works.com/work/a-pile-of-shit-another-type-of-jewellery-vi), [TOKI NASHIKI](https://maf-works.com/work/from-earth-pottery-exhibition-vi), etc. Has always maintained active communication with all team members and made concerted efforts.
 
 ### Senior Graphic Designer @ Neweekly Magazine 新周刊
 
 2012 - 2015
 
-This post mainly focuses on information visualization design (infographic). With excellent logic analysis ability and data processing ability, draw an information map for each issue of the cover topic, and use a variety of creative techniques with innovative thinking, which can always bring some unique design presentations to this middle-aged magazine. The unanimous approval of the boss and the customer. He is also independently responsible for the visual design of a 96-page lifestyle magazine.
+Focused on [infographic](https://maf-works.com/work/infographic-collection-1) design, with excellent analytical skills and data processing capabilities, designed information graphics for the cover story for each issue of the magazine, creatively using a variety of skills, such as illustration and photography, which could always bring fresh designs to the magazine as well as its readers and clients.
 
 ### Freelance graphic designer / Illustrator
 
-2010 - 2019
+2011 - 2017
 
-During this period, it provided graphic design services to high-quality clients such as "City Pictorial", iMart Creative Market, YOHO!, Fangsuo, Guangzhou Grand Theater and so on.
+Provided commendable design consult for Cityzine, iMart, YOHO!, Fang Suo, Guangzhou Opera House, Xiaopeng Motors, and other most recognized brands based in the Pearl River Delta region.
 
 ### Graphic Designer / Editor Designer @ 1626 Magazine
 
 2010 - 2012
 
-As a graphic designer and editorial designer, he was one of the best youth culture magazines in China. Responsible for magazine layout, advertising design and web graphic design. Excellent text content analysis ability, able to present the matching design style and execute it efficiently. At this time, I have mastered the design software Indesign, and understand the characteristics of paper and the mainstream finishing process.
+As a graphic and editorial designer in 1626 magazine, one of the best youth culture magazines in China during that period, was responsible for magazine layouts, advertising, and web graphic design, being excellent in content comprehension and reading data, efficiently, and pecialized in Indesign, paper, and printing procedures.

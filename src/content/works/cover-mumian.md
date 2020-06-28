@@ -11,3 +11,11 @@ gallery:
   - cover-mumian-1.jpg
   - cover-mumian-2.jpg
 ---
+
+Art Director / Graphic Designer: maf<br/>
+Producer: KK Tang
+
+<!-- lang -->
+
+Art Director / Graphic Designer: maf<br/>
+Producer: KK Tang

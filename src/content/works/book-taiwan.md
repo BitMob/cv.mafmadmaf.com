@@ -12,3 +12,9 @@ gallery:
   - book-taiwan-2.jpg
   - book-taiwan-3.jpg
 ---
+
+Art Director / Graphic Designer: maf
+
+<!-- lang -->
+
+Art Director / Graphic Designer: maf
