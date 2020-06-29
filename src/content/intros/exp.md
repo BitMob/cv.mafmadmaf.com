@@ -21,12 +21,6 @@ type: intro
 
 自費購入 Risograph 孔板印刷機，開始進行一個人的印刷和獨立出版事業。期不斷對平面設計與印刷技巧、版畫等進行探索，收穫大量寶貴經驗，運用到日後的平面設計和裝幀設計中；2018 年，BirdyPress 工作室參加由香蕉魚組織策劃的「2018 亞洲 Risograph 研討會」。<br/>（[媒體報導](https://read01.com/zh-hk/kEmm6o4.html)）
 
-### 設計總監 @ Zhidaotang Advertising
-
-2015 - 2016
-
-受《新週刊》的前總編輯封新城先生的信任，跟隨到他的新創公司，擔任設計總監，負責出版物設計、產品設計、活動品牌設計和應用程序界面 UI/UX。
-
 ### 設計總監 / 策展人 @ 103store（103store.cn）
 
 2014 - 2020
@@ -37,7 +31,7 @@ type: intro
 
 2012 - 2015
 
-專注於[信息可視化設計](https://maf-works.com/work/infographic-collection-1)（infographic）。憑借優秀的邏輯分析和數據處理能力，為每一期雜誌專題設計信息圖，以創新的思維運用多種創作技巧，總能帶給這本嚴肅雜誌一些別開生面的設計呈現，獲得同事和客戶的一致認可；期間也獨立負責一本 96 頁的生活雜誌的視覺設計工作。
+專注於[信息可視化設計](https://maf-works.com/work/infographic-collection-1)（infographic）。憑借優秀的邏輯分析和數據處理能力，為每一期雜誌專題設計信息圖，以創新的思維運用多種創作技巧，總能帶給這本嚴肅雜誌一些別開生面的設計呈現，獲得同事和客戶的一致認可；期間也獨立負責一本 96 頁的生活雜誌的視覺設計工作。隨後受《新週刊》的前總編輯封新城先生的信任，跟隨到他的新創公司，擔任設計總監，負責出版物設計、產品設計、活動品牌設計和應用程序界面。
 
 ### 自由平面設計師 / 插畫師
 
@@ -74,12 +68,6 @@ Designed publications and exhibitions for Vitamin Creative Space and redesigned 
 
 Purchased a Risograph printing machine and started a one-man printing workshop, also an independent publisher. Harvested a lot of valuable experience by continuously exploring printing and binding techniques, and practice them in future graphic design projects. BirdyPress participated in the 2018 Asian Risograph Seminar organized by BANANAFISH BOOKS. ([News](https://read01.com/zh-hk/kEmm6o4.html))
 
-### Design Director @ Zhidaotang Advertising
-
-2015 - 2016
-
-Trusted by Mr. Feng Xincheng, the former editor-in-chief of Neweekly, followed him to his new startup as design director for publication design and product design, including several brand design and mobile application UI.
-
 ### Design Director / Curator @ 103store（103store.cn）
 
 2014 - Current
@@ -90,7 +78,7 @@ Trusted by Mr. Feng Xincheng, the former editor-in-chief of Neweekly, followed h
 
 2012 - 2015
 
-Focused on [infographic](https://maf-works.com/work/infographic-collection-1) design, with excellent analytical skills and data processing capabilities, designed information graphics for the cover story for each issue of the magazine, creatively using a variety of skills, such as illustration and photography, which could always bring fresh designs to the magazine as well as its readers and clients.
+Focused on [infographic](https://maf-works.com/work/infographic-collection-1) design, with excellent analytical skills and data processing capabilities, designed information graphics for the cover story for each issue of the magazine, creatively using a variety of skills, such as illustration and photography, which could always bring fresh designs to the magazine as well as its readers and clients. Trusted by Mr. Feng Xincheng, the former editor-in-chief of Neweekly, followed him to his new startup as design director for publication design and product design, including several brand design and mobile application UI.
 
 ### Freelance graphic designer / Illustrator
 
