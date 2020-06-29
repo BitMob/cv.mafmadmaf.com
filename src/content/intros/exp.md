@@ -31,7 +31,7 @@ type: intro
 
 2012 - 2015
 
-專注於[信息可視化設計](https://maf-works.com/work/infographic-collection-1)（infographic）。憑借優秀的邏輯分析和數據處理能力，為每一期雜誌專題設計信息圖，以創新的思維運用多種創作技巧，總能帶給這本嚴肅雜誌一些別開生面的設計呈現，獲得同事和客戶的一致認可；期間也獨立負責一本 96 頁的生活雜誌的視覺設計工作。隨後受《新週刊》的前總編輯封新城先生的信任，跟隨到他的新創公司，擔任設計總監，負責出版物設計、產品設計、活動品牌設計和應用程序界面。
+專注於[信息可視化設計](https://maf-works.com/work/infographic-collection-1)（infographic）。憑借優秀的邏輯分析和數據處理能力，為每一期雜誌專題設計信息圖，以創新的思維運用多種創作技巧，總能帶給這本嚴肅雜誌一些別開生面的設計呈現，獲得同事和客戶的一致認可；期間也獨立負責一本 96 頁的生活雜誌的視覺設計工作。隨後受《新週刊》的前總編輯封新城先生的邀請，跟隨到他的新創公司，擔任設計總監，負責出版物設計、產品設計、活動品牌設計和應用程序界面。
 
 ### 自由平面設計師 / 插畫師
 
@@ -68,13 +68,13 @@ Designed publications and exhibitions for Vitamin Creative Space and redesigned 
 
 Purchased a Risograph printing machine and started a one-man printing workshop, also an independent publisher. Harvested a lot of valuable experience by continuously exploring printing and binding techniques, and practice them in future graphic design projects. BirdyPress participated in the 2018 Asian Risograph Seminar organized by BANANAFISH BOOKS. ([News](https://read01.com/zh-hk/kEmm6o4.html))
 
-### Design Director / Curator @ 103store（103store.cn）
+### Design Director / Curator @ 103store (103store.cn)
 
 2014 - Current
 
 103store (the later [103store.cn](https://103store.cn/)), a small integrated art space established in Guangzhou, a indie media for artistic contents. As one of the founders, responsible for brand design and WeChat account operation, and also curated and designed diverse exhibitions for various Pearl-River-Delta-based artists, such as [Jon Poblador](https://maf-works.com/work/jon-pobladors-visible-meditation-exhibition-vi), [Craig Kirk](https://maf-works.com/work/craig-kirks-street-cartoon-exhibition-vi), [Kay Guo](https://maf-works.com/work/a-pile-of-shit-another-type-of-jewellery-vi), [TOKI NASHIKI](https://maf-works.com/work/from-earth-pottery-exhibition-vi), etc. Has always maintained active communication with all team members and made concerted efforts.
 
-### Senior Graphic Designer @ Neweekly Magazine 新周刊
+### Senior Graphic Designer @ Neweekly Magazine
 
 2012 - 2015
 
