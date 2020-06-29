@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react"
+import qs from "query-string"
 // import { useStaticQuery, graphql } from "gatsby"
 
 import Context from "../../helpers/context"
@@ -10,6 +11,7 @@ import "../../styles/global.scss"
 import { getLang, calSizes, resizeThrottler } from "../../helpers/utils"
 
 const Layout = ({ children }) => {
+  console.log()
   const [sizes, setSizes] = useState({ isMobile: false })
   const [lang, setLang] = useState("zh")
   const [mousePos, setMousePos] = useState({ x: -1000, y: -1000 })
@@ -21,7 +23,9 @@ const Layout = ({ children }) => {
         capture: true,
         passive: true,
       })
-      setLang(getLang())
+      let lang = getLang()
+      const langParam = qs.parse(window.location.search).lang
+      setLang(langParam || lang)
     }
     return () => {
       window.removeEventListener("resize", resizeThrottler)
