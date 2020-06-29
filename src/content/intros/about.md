@@ -13,7 +13,10 @@ type: intro
 
 <!-- lang -->
 
-Becoming an art director and multimedia artist, maf still loves creation profoundly after 10 years of practice, to produce restrained yet exquisite visuals and sounds. In the past decade, has successfully fulfilled numerous commissions, owned a one-man printing workshop and a minimal design studio, while recently completed a western fonts and an iOS application.<br/>
+Becoming an art director and multimedia artist, maf still loves creation profoundly after 10 years of practice, to produce restrained yet exquisite visuals and sounds. In the past decade, has successfully fulfilled numerous commissions, owned a one-man printing workshop and a minimal design studio, while recently completed a western fonts and an iOS application.
+
 Starting from a strong interest in UI/UX in 2015, maf's works widely range from classic printable designs to interactive designs that powered by edging font-end techniques, which also benefits from his overactive thinking and curiosity. XXXXXX
 
 And be happy.
+
+<a href="mailto:fredmamono@gmail.com">fredmamono@gmail.com</a>
