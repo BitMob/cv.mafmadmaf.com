@@ -11,6 +11,7 @@ import "../../styles/global.scss"
 import { getLang, calSizes, resizeThrottler } from "../../helpers/utils"
 
 const Layout = ({ children }) => {
+  // console.log('heheh');
   const [sizes, setSizes] = useState({ isMobile: false })
   const [lang, setLang] = useState("zh")
   const [mousePos, setMousePos] = useState({ x: -1000, y: -1000 })
