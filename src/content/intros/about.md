@@ -3,8 +3,6 @@ slug: about
 type: intro
 ---
 
-迷戀八九十年代，唯三的救火少年。
-
 馬飛兒（maf）成為了一位美術指導和[多媒體藝術家](https://mafmadmaf.com/)。從業十年，他依然熱愛創造，善於構造克制而精美的視覺和聲音。十年間，成功完成過數不清的委託，曾擁有一間一個人的印刷工作坊，還有一家僅有四人的[數字創意工作室](https://www.bitmob.cc/)；而最近剛完成了一套[西文字體](https://maf-works.com/work/knoob-font-design)和一款 iOS [應用程序](https://wtdtapp.com/)。
 
 從 2015 年對 UI/UX 產生濃厚興趣開始，過度活躍的思維和好奇心，讓他的設計作品從最經典的印刷創意，橫跨到最新銳的 Web 平面和交互設計 —— 現在這早已成為了 maf 最引以為傲的設計思維方式 —— 同樣還有文字（字體）和音樂，自 2017 年開始使用模組合成器作曲、做聲音設計，也運用 Max 等電腦藝術科技；2018 年起在[摩登天空](https://y.qq.com/n/yqq/album/001CqCvJ3IOcAL.html)等廠牌陸續發表[作品](https://y.qq.com/n/yqq/album/001cRZsN0DopCy.html)，參加過[東京模塊音樂節](https://tfom.info/tfom-2018)等合成器交流活動。
@@ -14,8 +12,6 @@ type: intro
 <a href="mailto:fredmamono@gmail.com">fredmamono@gmail.com</a>
 
 <!-- lang -->
-
-Fascinated by the 80s and 90s, the only three 'teenage firefighters' (Sorry, English people).
 
 Becoming an art director and multimedia artist, maf still loves creation profoundly after 10 years of practice, to produce restrained yet exquisite visuals and sounds. In the past decade, has successfully fulfilled numerous commissions, owned a one-man printing workshop and a minimal design studio, while recently completed a western fonts and an iOS application.<br/>
 Starting from a strong interest in UI/UX in 2015, maf's works widely range from classic printable designs to interactive designs that powered by edging font-end techniques, which also benefits from his overactive thinking and curiosity. XXXXXX
