@@ -25,7 +25,7 @@ type: intro
 
 2014 - 2020
 
-2014 年組建 103store（後成立 [103store.cn](https://103store.cn/)），一個小型的綜合藝術空間和藝文類內容新媒體。作為策展人之一，負責品牌平面設計、公眾號運營，也為多位常駐廣州的藝術家策劃個人展覽，如 [Jon Poblador](https://maf-works.com/work/jon-pobladors-visible-meditation-exhibition-vi)、[Craig Kirk](https://maf-works.com/work/craig-kirks-street-cartoon-exhibition-vi)、[Kay Guo](https://maf-works.com/work/a-pile-of-shit-another-type-of-jewellery-vi)、[TOKI NASHIKI](https://maf-works.com/work/from-earth-pottery-exhibition-vi) 等，並負責其展覽視覺設計。一直以來與所有隊員保持積極的溝通，群策群力。
+2014 年組建 103store（後成立 [103store.cn](https://103store.cn/)），一個小型的綜合藝術空間和藝文類內容新媒體。作為策展人之一，負責品牌平面設計、公眾號運營，也為多位常駐廣州的藝術家策劃個人展覽，如 [Jon Poblador](https://maf-works.com/work/jon-pobladors-visible-meditation-exhibition-vi)、[Craig Kirk](https://maf-works.com/work/craig-kirks-street-cartoon-exhibition-vi)、[Kay Guo](https://maf-works.com/work/a-pile-of-shit-another-type-of-jewellery-vi)、[TOKI NASHIKI](https://maf-works.com/work/from-earth-pottery-exhibition-vi) 等，並負責其展覽視覺設計；一直以來與所有隊員保持積極的溝通，群策群力。
 
 ### 資深平面設計師 @ Neweekly Magazine 新週刊
 
