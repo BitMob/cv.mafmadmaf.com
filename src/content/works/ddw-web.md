@@ -1,7 +1,7 @@
 ---
 titleZh: 消化設計 · 官方網站 WEB
 titleEn: "Digest Design Official Website"
-clientZh: Digest Design Workshop
+clientZh: 消化設計
 clientEn: Digest Design Workshop
 date: 2019-02-02
 category: web
