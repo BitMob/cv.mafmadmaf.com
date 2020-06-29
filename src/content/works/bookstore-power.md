@@ -22,7 +22,7 @@ Lead Programmer: Ed Lee
 
 <!-- lang -->
 
-The outlook of reading a book is all about turning pages, so BitMob, maf's studio, visualized this motion and adapted it onto "turning" webpages, by just clicking the menu. To present the likeness of a book and the pleasure of reading, it's important to elevate readability and strip out unnecessary information, which was achieved by carefully selected fonts and pixel-precise spacing and sizes.
+The outlook of reading a book is all about turning pages, so BitMob, maf's studio, visualized this motion and adapted it onto 'turning' webpages, by just clicking the menu. To present the likeness of a book and the pleasure of reading, it's important to elevate readability and strip out unnecessary information, which was achieved by carefully selected fonts and pixel-precise spacing and sizes.
 
 Art Director: maf<br/>
 Lead Programmer: Ed Lee

@@ -1,8 +1,8 @@
 ---
 titleZh: WTDT 字體設計
 titleEn: "WTDT FONT Design"
-clientZh: BitMob Creative Production
-clientEn: BitMob Creative Production
+clientZh: BitMob 數字創意組 (BCD)
+clientEn: BitMob Creative Digital (BCD)
 date: 2020-01-02
 category: graphic
 url: https://wtdtapp.com/wtdt-font
@@ -23,6 +23,6 @@ WTDT™ 今日清單 APP - 原創 VI 英文字體
 
 WTDT™ APP - Original Font Design
 
-After maf designed the 3 capital letters WTD for WTDT's logo (short for "What To Do Today"), he was intrigued and worked out the other 23 letters, 10 numbers and 29 common punctuation marks, as a complete typeface named after the app, WTDT. As extended from a logo, and includes only uppercase, the font's glyphs are shaped upon super thick and equal-width strokes, and are ruled by meticulously planned rectangles and circles, as a result of maf's love for minimalism and geometry.
+After maf designed the 3 capital letters WTD for WTDT's logo (short for 'What To Do Today'), he was intrigued and worked out the other 23 letters, 10 numbers and 29 common punctuation marks, as a complete typeface named after the app, WTDT. As extended from a logo, and includes only uppercase, the font's glyphs are shaped upon super thick and equal-width strokes, and are ruled by meticulously planned rectangles and circles, as a result of maf's love for minimalism and geometry.
 
 [Try this font here!](https://wtdtapp.com/wtdt-font)

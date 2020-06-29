@@ -25,7 +25,7 @@ Lead Programmer: Ed Lee
 
 <!-- lang -->
 
-Digest Design is an independent fashion brand founded by talented designer Dooling Jiang, who constantly pursue intelligent, humane, and in her word "hardcore" design and products. "Real is good. Interesting is better", the slogan of the brand, had guided us through the whole creative process. Being "real" means that the site has to be easy to use and straight forward, while to make it "interesting" was to bring some subtle surprises to users that shouldn't distract them, for example, a bold background color change, or calculated space between year numbers.
+Digest Design is an independent fashion brand founded by talented designer Dooling Jiang, who constantly pursue intelligent, humane, and in her word 'hardcore' design and products. 'Real is good. Interesting is better', the slogan of the brand, had guided us through the whole creative process. Being 'real' means that the site has to be easy to use and straight forward, while to make it 'interesting' was to bring some subtle surprises to users that shouldn't distract them, for example, a bold background color change, or calculated space between year numbers.
 
 Art Director: maf<br/>
 Lead Programmer: Ed Lee

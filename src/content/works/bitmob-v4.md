@@ -1,8 +1,8 @@
 ---
 titleZh: BitMob · 官方網站 V4 WEB
 titleEn: "BitMob Official Website V4"
-clientZh: BitMob Creative Production
-clientEn: BitMob Creative Production
+clientZh: BitMob 數字創意 (BCD)
+clientEn: BitMob Creative Digital (BCD)
 date: 2020-06-04
 category: web
 url: https://www.bitmob.cc/

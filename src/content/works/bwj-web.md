@@ -1,7 +1,7 @@
 ---
 titleZh: 水象 · 官方網站 WEB
 titleEn: "'Be Water Journal' Official Website"
-clientZh: 水象
+clientZh: 水象 · 創意集群
 clientEn: Be Water Journal
 date: 2018-06-01
 category: web
@@ -25,7 +25,7 @@ Editor in Chief: Amy Zhu
 
 <!-- lang -->
 
-To publish an independent bookazine in China was a bold idea, which maf and his friends actually liked a lot. They knew that reading a long piece of article could be stressful nowadays, so a dynamic layout is crucial to bring up fresh experience from time to time, but there should be a limit as well to prevent it becoming too fancy. To find the borderline, we came up with an innovative "modulized" content management system, which provided limited content modules and enabled editors to compose the layout, and after all the result should be coherent with the website's design.
+To publish an independent bookazine in China was a bold idea, which maf and his friends actually liked a lot. They knew that reading a long piece of article could be stressful nowadays, so a dynamic layout is crucial to bring up fresh experience from time to time, but there should be a limit as well to prevent it becoming too fancy. To find the borderline, we came up with an innovative 'modulized' content management system, which provided limited content modules and enabled editors to compose the layout, and after all the result should be coherent with the website's design.
 
 Art Director: maf<br/>
 Lead Programmer: Ed Lee<br/>

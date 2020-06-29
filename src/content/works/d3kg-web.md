@@ -25,7 +25,7 @@ Lead Programmer: Ed Lee
 
 <!-- lang -->
 
-Starting at the concept of Digest 3kg's "01234" size label, transformed it into an infinite looping menu on the website, with corresponding text stripes precisely moving to correct positions。The project was also a fresh collaboration with renowned designer Guang Yu, who dedicated on designing the website's grid system and typography, which had brought strong visual character to the website.
+Starting at the concept of Digest 3kg's '01234' size label, transformed it into an infinite looping menu on the website, with corresponding text stripes precisely moving to correct positions。The project was also a fresh collaboration with renowned designer Guang Yu, who dedicated on designing the website's grid system and typography, which had brought strong visual character to the website.
 
 Art Director: maf<br/>
 Lead Programmer: Ed Lee

@@ -21,7 +21,7 @@ Lead Programmer: Ed Lee
 
 <!-- lang -->
 
-Zhang Da is a well known independent fashion designer, established his own brand 'Boundless', he's also an enthusiastic collector of daily inspirations and iPad sketch artist. As one the first group of interviewees on Be Water Journal, BitMob reckoned that it's a great opportunity to present his non-fashion works and thoughts in a more interactive way, other than plain texts, so as to explore the possibilities of transforming traditional editorial material in the digital era. It turned out to be just like a sketch pad on which users may \"draw\" randomness and create artwork with Zhang Da's works.
+Zhang Da is a well known independent fashion designer, established his own brand 'Boundless', he's also an enthusiastic collector of daily inspirations and iPad sketch artist. As one the first group of interviewees on Be Water Journal, BitMob reckoned that it's a great opportunity to present his non-fashion works and thoughts in a more interactive way, other than plain texts, so as to explore the possibilities of transforming traditional editorial material in the digital era. It turned out to be just like a sketch pad on which users may 'draw' randomness and create artwork with Zhang Da's works.
 
 Art Director: maf<br/>
 Lead Programmer: Ed Lee

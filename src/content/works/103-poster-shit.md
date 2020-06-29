@@ -1,6 +1,6 @@
 ---
 titleZh: 如糞土 · 另一種珠寶展覽 VI
-titleEn: "'A Pile of Shit' another type of jewellery VI"
+titleEn: "'A Pile of Shit' Jewellery Exhibition VI"
 clientZh: 103store × Kay Guo
 clientEn: 103store × Kay Guo
 date: 2018-05-19
@@ -19,6 +19,6 @@ Curator / Art Director / Graphic Designer: maf
 
 <!-- lang -->
 
-Jewelry may not last forever, they are also changing, even extremely slowly, such instability and impermanence are no different from life. This was what the jewelry designer Kay Guo wanted to express and also the theme of the exhibition. It was said that "Money is like dung".
+Jewelry may not last forever, they are also changing, even extremely slowly, such instability and impermanence are no different from life. This was what the jewelry designer Kay Guo wanted to express and also the theme of the exhibition. It was said that 'Money is like dung'.
 
 Curator / Art Director / Graphic Designer: maf

@@ -1,8 +1,8 @@
 ---
 titleZh: KNOOB 字體設計
 titleEn: "KNOOB FONT Design"
-clientZh: BitMob Creative Production
-clientEn: BitMob Creative Production
+clientZh: BitMob 數字創意組 (BCD)
+clientEn: BitMob Creative Digital (BCD)
 date: 2020-06-01
 category: graphic
 
