@@ -9,7 +9,7 @@ type: intro
 
 並樂此不疲。
 
-<a href="mailto:fredmamono@gmail.com">fredmamono@gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://bitmobcc.oss-cn-shenzhen.aliyuncs.com/maf/download/CV_and_Portfolio_of_maf_CN_EN.zip">↓download.cv</a>
+<a href="mailto:fredmamono@gmail.com">fredmamono@gmail.com</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://bitmobcc.oss-cn-shenzhen.aliyuncs.com/maf/download/CV_and_Portfolio_of_maf_CN_EN.zip">↓download.cv</a>
 
 <!-- lang -->
 
@@ -19,4 +19,4 @@ Starting from a strong interest in UI/UX in 2015, maf's works have been evolving
 
 And always enjoy it.
 
-<a href="mailto:fredmamono@gmail.com">fredmamono@gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://bitmobcc.oss-cn-shenzhen.aliyuncs.com/maf/download/CV_and_Portfolio_of_maf_CN_EN.zip">↓download.cv</a>
+<a href="mailto:fredmamono@gmail.com">fredmamono@gmail.com</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://bitmobcc.oss-cn-shenzhen.aliyuncs.com/maf/download/CV_and_Portfolio_of_maf_CN_EN.zip">↓download.cv</a>
