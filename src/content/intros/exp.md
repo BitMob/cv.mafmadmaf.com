@@ -3,7 +3,7 @@ slug: experience
 type: intro
 ---
 
-### 美術總監 / 平面設計師 @ BitMob Creative Digital
+### 美術總監 / 交互設計師 @ BitMob Creative Digital
 
 2017 - 2020
 
@@ -47,7 +47,7 @@ type: intro
 
 <!-- lang -->
 
-### Art Director / Graphic Designer @ BitMob Creative Production (bitmob.cc)
+### Art Director / UI.UX Designer @  BitMob Creative Digital (BCD)
 
 2017 - 2020
 
