@@ -80,7 +80,7 @@ Purchased a Risograph printing machine and started a one-man printing workshop, 
 
 Focused on [infographic](https://maf-works.com/work/infographic-collection-1) design, with excellent analytical skills and data processing capabilities, designed information graphics for the cover story for each issue of the magazine, creatively using a variety of skills, such as illustration and photography, which could always bring fresh designs to the magazine as well as its readers and clients. Trusted by Mr. Feng Xincheng, the former editor-in-chief of Neweekly, followed him to his new startup as design director for publication design and product design, including several brand design and mobile application UI.
 
-### Freelance graphic designer / Illustrator
+### Freelance Graphic Designer / Illustrator
 
 2011 - 2017
 
