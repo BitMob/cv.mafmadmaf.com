@@ -1,5 +1,5 @@
 ---
-titleZh: BitMob · 官方網站 WEB V3
+titleZh: BitMob · 官方網站 V3 WEB
 titleEn: "BitMob Official Website V3"
 clientZh: BitMob Creative Production
 clientEn: BitMob Creative Production
