@@ -1,14 +1,11 @@
 export function getLang() {
-  /**
   if (typeof window !== "undefined") {
     const { language } = window.navigator
-    let lang = "zh"
     if (!language.includes("zh")) {
       return "en"
     }
-    return lang
+    return "zh"
   }
-  */
   return "zh"
 }
 
