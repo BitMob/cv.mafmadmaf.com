@@ -1,6 +1,6 @@
 ---
-titleZh: 水象 · 官方網站
-titleEn: "'Be Water Journal' Website"
+titleZh: 水象 · 官方網站 WEB
+titleEn: "'Be Water Journal' Official Website"
 clientZh: 水象
 clientEn: Be Water Journal
 date: 2018-06-01

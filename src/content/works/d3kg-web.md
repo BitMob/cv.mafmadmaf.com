@@ -1,5 +1,5 @@
 ---
-titleZh: 消化三里 · 官方網站
+titleZh: 消化三里 · 官方網站 WEB
 titleEn: "Digest3kg Official Website"
 clientZh: 消化三里
 clientEn: Digest3kg

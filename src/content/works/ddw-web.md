@@ -1,5 +1,5 @@
 ---
-titleZh: 消化設計 · 官方網站
+titleZh: 消化設計 · 官方網站 WEB
 titleEn: "Digest Design Official Website"
 clientZh: Digest Design Workshop
 clientEn: Digest Design Workshop
