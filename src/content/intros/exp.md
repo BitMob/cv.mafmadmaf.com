@@ -3,11 +3,11 @@ slug: experience
 type: intro
 ---
 
-### 美術總監 / 交互設計師 @ BitMob Creative Digital
+### 美術總監 / 交互設計師 @ BitMob Creative Digital (BCD)
 
 2017 - 2020
 
-在與朋友兼創新程序員 Ed 成立的交互設計[工作室](https://www.bitmob.cc/)擔任美術監督，專精 UI/UX 和 Web 交互設計；主要客戶群為獨立設計師、藝文類媒體和服裝品牌。通過與前端工程師的充分交流和對 Web 前端技術的深度瞭解，maf 別具一格的設計總能夠與前端和交互設計緊密結合，兩者相得益彰。在極小的工作室規模下，為合作方帶來備受讚許的產品體驗。三年間完整設計並開發 15+ 個網站，數字服務 10+ 個著名品牌， 開發過多個原創數字產品，其中包括最近推出的 1 個 iOS APP。
+在與朋友兼創新程序員 Ed 成立的[交互設計工作室](https://www.bitmob.cc/)擔任美術監督，專精 UI/UX 和 Web 交互設計；主要客戶群為獨立設計師、藝文類媒體和服裝品牌。通過與前端工程師的充分交流和對 Web 前端技術的深度瞭解，maf 別具一格的設計總能夠與前端和交互設計緊密結合，兩者相得益彰。在極小的工作室規模下，為合作方帶來備受讚許的產品體驗。三年間完整設計並開發 15+ 個網站，數字服務 10+ 個著名品牌， 開發過多個原創數字產品，其中包括最近推出的 1 個 iOS APP。
 
 ### 平面設計顧問 @ Vitamin Creative Space 維他命藝術空間
 
@@ -51,7 +51,7 @@ type: intro
 
 2017 - 2020
 
-Co-founded an innovative digital production studio, [BitMob](https://www.bitmob.cc/), and dedicated to the art direction of UI / UX, and interactive-specialized digital production, with a friend and creative programmer, Ed.
+Co-founded an innovative digital production studio, [BCD](https://www.bitmob.cc/), and dedicated to the art direction of UI / UX, and interactive-specialized digital production, with a friend and creative programmer, Ed.
 As cooperating closely with front-end engineers and having an in-depth understanding of both ends,
 created unique and exquisite designs that could always be closely integrated with user-end interactions. It brought a highly praised product experience to the business partners.<br/>
 Designed and completely developed 15+ websites, digital creative service 10+ renowned brands in the past three years, and launched several original digital products, including an iOS App.
