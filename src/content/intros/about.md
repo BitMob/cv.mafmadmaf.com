@@ -9,7 +9,7 @@ type: intro
 
 並樂此不疲。
 
-<a href="mailto:fredmamono@gmail.com">fredmamono@gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://bitmobcc.oss-cn-shenzhen.aliyuncs.com/maf/download/CV_and_Portfolio_of_maf_CN_EN.zip">Download CV<></a>
+<a href="mailto:fredmamono@gmail.com">fredmamono@gmail.com</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://bitmobcc.oss-cn-shenzhen.aliyuncs.com/maf/download/CV_and_Portfolio_of_maf_CN_EN.zip">Download CV</a>
 
 <!-- lang -->
 
