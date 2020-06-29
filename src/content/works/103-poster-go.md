@@ -3,7 +3,7 @@ titleZh: 阿GO帶你玩玩具 · 展覽 VI
 titleEn: "'Play Toys with GO' Exhibition VI"
 clientZh: 103store
 clientEn: 103store
-date: 2018-10-05
+date: 2018-11-01
 category: graphic
 url: http://v.qq.com/vplus/05f2281011c7dbbd6f356522325b0902?page=video
 thumb: 103-poster-go.gif
