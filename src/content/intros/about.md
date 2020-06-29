@@ -13,7 +13,7 @@ type: intro
 
 <!-- lang -->
 
-Becoming an art director and [multimedia artist](https://www.instagram.com/mafmadmaf/), maf still profoundly loves aesthetic creation after 10 years of practice, to produce restrained yet exquisite visuals and sounds. In the past decade, he has successfully fulfilled numerous commissions, owned a one-man printing workshop and a minimal design [studio](https://www.bitmob.cc/), while recently completed designing a [font](https://maf-works.com/work/knoob-font-design) and an iOS [application](https://wtdtapp.com/).
+Being an art director and [multimedia artist](https://www.instagram.com/mafmadmaf/), maf still profoundly loves aesthetic creation after 10 years of practice, to produce restrained yet exquisite visuals and sounds. In the past decade, he has successfully fulfilled numerous commissions, owned a one-man printing workshop and a minimal design [studio](https://www.bitmob.cc/), while recently completed designing a [font](https://maf-works.com/work/knoob-font-design) and an iOS [application](https://wtdtapp.com/).
 
 Starting from a strong interest in UI/UX in 2015, maf's works have been evolving from classic printable designs to interactive graphics (UI/UX) that powered by trending font-end techniques, which has now become his most powerful expertise, as well as music that maf [composed](https://www.youtube.com/channel/UCd3_Sb2nGt26E9VuSqzl-0w/videos) for modular synthesizers since 2017 and released on some domestic renowned [labels](https://open.spotify.com/album/6YLxkOzgGdIT6jTmCTIMdi?si=2CjzKBHhRtyjxvK1naSHng), which also benefit from his vibrant curiosity and creativity, led him to perform at several experimental music events such as [Tokyo Festival of Modular](https://tfom.info/tfom-2018) and Modular Commune.
 
