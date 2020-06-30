@@ -8,6 +8,7 @@ category: graphic
 
 thumb: ei-life-0.jpg
 gallery:
+  - ei-life-1a.jpg
   - ei-life-1.jpg
   - ei-life-2.jpg
   - ei-life-3.jpg
