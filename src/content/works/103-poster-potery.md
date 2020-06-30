@@ -10,6 +10,11 @@ thumb: 103-poster-potery-0.jpg
 gallery:
   - 103-poster-potery-1.jpg
   - 103-poster-potery-2.jpg
+  - 103-poster-potery-3.jpg
+  - 103-poster-potery-4.jpg
+  - 103-poster-potery-5.jpg
+  - 103-poster-potery-6.jpg
+  - 103-poster-potery-7.jpg
 ---
 
 由 103store 發起並提供創意，由香港的梨木製陶所和廣州的山下植屋工作室負責執行，展品是各色器型的手工陶器和居家類植物合體而成的。
