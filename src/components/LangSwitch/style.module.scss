@@ -3,8 +3,9 @@
 .langSwitch {
   //display: none;
   a {
-    text-decoration: underline;
+    //text-decoration: underline;
     cursor: pointer;
+    @include underlineLink;
   }
 }
 
