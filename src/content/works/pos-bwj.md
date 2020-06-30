@@ -1,14 +1,12 @@
 ---
-titleZh: 水象 · 創刊號紀念 · 絲印海報 
-titleEn: "'Be Water Journal' Debut Issue POSTER"
+titleZh: 水象 · 創刊號紀念 · 絲印海報
+titleEn: "BWJ Debut Screen Printing POSTER"
 clientZh: 水象 · 創意集群
 clientEn: Be Water Journal
 date: 2018-02-03
-category: web
+category: graphic
 
 thumb: pos-bwj-0.jpg
 gallery:
   - pos-bwj-1.jpg
 ---
-
-
