@@ -29,6 +29,6 @@ gallery:
 
 <!-- lang -->
 
-Since 2016, maf started diving to modular synthesizers and concentrated on using it to create music and sound-related multimedia artworks, under the name 'mafmadmaf'. In the past few years, maf took my synthesizers to a variety of places, including forests, beaches, or even Shinkansen, and created music on-site. He has some music [released](https://maf-works.com/work/crater-monde-1-music-release) and performed at several experimental music events such as the [Tokyo Festival of Modular](https://tfom.info/tfom-2018) and the Modular Commune and sharing my thoughts and music on [Instagram](https://www.instagram.com/mafmadmaf/) while communicated with many other modular musicians over the world.
+maf started diving to modular synthesizers since 2016 and focused on creating synthesizer music and sound-related multimedia artworks under the name 'mafmadmaf'. In the past few years, maf took his synthesizers to a variety of places, including forests, beaches, or even Shinkansen, and created music on-site. He has some music [released](https://maf-works.com/work/crater-monde-1-music-release) and performed at several experimental music events such as the [Tokyo Festival of Modular](https://tfom.info/tfom-2018) and the ModularCommune and sharing my thoughts and music on [Instagram](https://www.instagram.com/mafmadmaf/) while communicated with many other modular musicians over the world.
 
 [more about mafmadmaf](https://mafmadmaf.com/)
