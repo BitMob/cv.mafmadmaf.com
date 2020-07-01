@@ -9,7 +9,7 @@ type: intro
 
 在與朋友兼創新程序員 [Ed](https://edlee.me/) 成立的[交互設計工作室](https://www.bitmob.cc/)擔任美術總監和創意總監，專精 UI/UX 設計和 Web 交互創意；主要客戶群為獨立設計師、藝文類媒體和服裝品牌。通過與前端工程師的充分交流和對 Web 前端技術的深度瞭解，maf 別具一格的創意和設計總能夠與前端和交互設計緊密結合，兩者相得益彰。在極小的工作室規模下，為合作方帶來備受讚許的產品體驗。三年間完整設計並開發 15+ 個網站，數字服務 10+ 個著名品牌， 開發過多個原創數字產品，其中包括最近推出的 1 個 iOS APP。
 
-### 平面設計顧問 @ Vitamin Creative Space 維他命藝術空間
+### 平面設計顧問 @ 維他命藝術空間 Vitamin Creative Space
 
 2017 - 2020
 
@@ -58,7 +58,7 @@ As cooperating closely with front-end engineers and having an in-depth understan
 created unique and exquisite designs that could always be closely integrated with user-end interactions. It brought a highly praised product experience to the business partners.<br/>
 Designed and completely developed 15+ websites, digital creative service 10+ renowned brands in the past three years, and launched several original digital products, including an iOS App.
 
-### Graphic Design Consultant @ Vitamin Creative Space Vitamin Art Space
+### Graphic Design Consultant @ Vitamin Creative Space
 
 2017 - 2019
 
@@ -76,7 +76,7 @@ Purchased a Risograph printing machine and started a one-man printing workshop, 
 
 103store (the later [103store.cn](https://103store.cn/)), a small integrated art space established in Guangzhou, a indie media for artistic contents. As one of the founders, responsible for brand design and WeChat account operation, and also curated and designed diverse exhibitions for various Pearl-River-Delta-based artists, such as [Jon Poblador](https://maf-works.com/work/jon-pobladors-visible-meditation-exhibition-vi), [Craig Kirk](https://maf-works.com/work/craig-kirks-street-cartoon-exhibition-vi), [Kay Guo](https://maf-works.com/work/a-pile-of-shit-another-type-of-jewellery-vi), [TOKI NASHIKI](https://maf-works.com/work/from-earth-pottery-exhibition-vi), etc. Has always maintained active communication with all team members and made concerted efforts.
 
-### Senior Graphic Designer @ Neweekly Magazine
+### Senior Graphic Designer @ New Weekly Magazine
 
 2012 - 2015
 
