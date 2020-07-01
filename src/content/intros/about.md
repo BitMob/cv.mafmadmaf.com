@@ -3,7 +3,7 @@ slug: about
 type: intro
 ---
 
-馬飛兒（maf）是一名創意美術指導和[跨媒體藝術工作者](https://mafmadmaf.com/)。從業十年，依然熱愛創造，善於構建克制而精美的視覺和聲音。十年間，成功完成過數不清的委託，曾擁有一間一個人的[印刷工作坊](https://maf-works.com/work/birdypress-vi)，還有一家僅有四人的[數字創意工作室](https://www.bitmob.cc/)；而最近完成了一套[西文字體](https://maf-works.com/work/knoob-font-design)和一款 iOS [應用程序](https://wtdtapp.com/)。
+馬飛兒（maf）是一名創意美術指導和[跨媒體藝術工作者](https://mafmadmaf.com/)。從業十年，依然熱愛創造，善於構建克制而精美的視覺和聲音。十年間，成功完成過數不清的委託，曾擁有一間一個人的[印刷工作坊](https://maf-works.com/work/birdypress-vi)，還有一家[數字創意工作室](https://www.bitmob.cc/)；而最近完成了一套[西文字體](https://maf-works.com/work/knoob-font-design)和一款 iOS [應用程序](https://wtdtapp.com/)。
 
 從 2015 年對 UI/UX 產生濃厚興趣開始，過度活躍的思維和好奇心，讓他的設計作品從最經典的印刷創意，進化到最新銳的 Web 平面和交互設計 —— 現在這早已成為了 maf 最引以為傲的設計思維方式 —— 同樣還有文字（字體）和音樂，自 2017 年開始使用模組合成器作曲、做聲音設計，也運用 Max 等電腦藝術科技；2018 年起在[摩登天空](https://y.qq.com/n/yqq/album/001CqCvJ3IOcAL.html)等廠牌陸續發表[作品](https://y.qq.com/n/yqq/album/001cRZsN0DopCy.html)，參加過[東京模塊音樂節](https://tfom.info/tfom-2018)等合成器交流活動。
 
