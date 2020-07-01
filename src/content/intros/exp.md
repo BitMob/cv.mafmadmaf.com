@@ -45,11 +45,7 @@ type: intro
 
 擔任平面設計師、編輯設計師。1626 是當時中國最好的青年文化和潮流設計雜誌之一。負責雜誌排版、廣告設計和網頁平面設計。擁有優秀的文本內容的解讀和數據分析能力，並高效執行與之符合的設計。經過這段時間，已經精通版式設計工具 Indesign，也逐步加深對紙張和裝幀工藝的了解。
 
-### 新生兒 @ 社會
-
-2010
-
-大學畢業。
+<br/>大學畢業。
 
 <!-- lang -->
 
@@ -98,8 +94,4 @@ Provided commendable design consult for Cityzine, iMart, YOHO!, Fang Suo, Guangz
 
 As a graphic and editorial designer in 1626 magazine, one of the best youth culture magazines in China during that period, was responsible for magazine layouts, advertising, and web graphic design, being excellent in content comprehension and reading data, efficiently, and pecialized in Indesign, paper, and printing procedures.
 
-### Fresh @ Society
-
-2010
-
-Bachelor graduation.
+<br/>Bachelor graduation.
