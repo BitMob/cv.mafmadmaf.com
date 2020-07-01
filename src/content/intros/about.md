@@ -7,7 +7,7 @@ maf 是一名創意美術指導和[多媒體藝術工作者](https://mafmadmaf.c
 
 從 2015 年對 Web 交互和多媒體藝術產生濃厚興趣開始，過度活躍的思維和好奇心，讓他的設計作品從最經典的印刷創意，進化到最新銳的 Web 平面和交互設計 —— 現在這早已成為了 maf 最引以為傲的設計思維方式 —— 同樣還有文字（字體）和音樂，自 2017 年開始使用模組合成器作曲、做聲音設計，也運用 Max 等電腦藝術科技進行創作，在[摩登天空](https://y.qq.com/n/yqq/album/001CqCvJ3IOcAL.html)等廠牌陸續發表[作品](https://y.qq.com/n/yqq/album/001cRZsN0DopCy.html)，參加過[東京模塊音樂節](https://tfom.info/tfom-2018)等合成器交流活動。
 
-並樂此不疲。
+繼續埋頭，並樂此不疲。
 
 <a href="mailto:fredmamono@gmail.com">fredmamono@gmail.com</a>&nbsp;&nbsp;↓&nbsp;&nbsp;<a href="https://bitmobcc.oss-cn-shenzhen.aliyuncs.com/maf/download/CV_and_Portfolio_of_maf_CN_EN.zip">download.cv</a>
 
@@ -17,6 +17,6 @@ Being a creative art director and [multimedia artist](https://www.instagram.com/
 
 Starting from a strong interest in UI/UX in 2015, maf's works have been evolving from classic printable designs to interactive graphics (UI/UX) that powered by trending font-end techniques, which has now become his most powerful expertise, as well as music that maf [composed](https://www.youtube.com/channel/UCd3_Sb2nGt26E9VuSqzl-0w/videos) for modular synthesizers since 2017 and released on some domestic renowned [labels](https://open.spotify.com/album/6YLxkOzgGdIT6jTmCTIMdi?si=2CjzKBHhRtyjxvK1naSHng), which also benefit from his vibrant curiosity and creativity, led him to perform at several experimental music events such as [Tokyo Festival of Modular](https://tfom.info/tfom-2018) and ModularCommune.
 
-And always enjoy it.
+Keep working and always enjoy it.
 
 <a href="mailto:fredmamono@gmail.com">fredmamono@gmail.com</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://bitmobcc.oss-cn-shenzhen.aliyuncs.com/maf/download/CV_and_Portfolio_of_maf_CN_EN.zip">download.cv</a>
