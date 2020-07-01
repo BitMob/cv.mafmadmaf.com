@@ -94,4 +94,4 @@ Provided commendable design consult for Cityzine, iMart, YOHO!, Fang Suo, Guangz
 
 As a graphic and editorial designer in 1626 magazine, one of the best youth culture magazines in China during that period, was responsible for magazine layouts, advertising, and web graphic design, being excellent in content comprehension and reading data, efficiently, and pecialized in Indesign, paper, and printing procedures.
 
-<br/>2010, Bachelor graduation.
+<br/>2010, bachelor graduation.
