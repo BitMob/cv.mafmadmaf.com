@@ -2,8 +2,8 @@ export default {
   about: {
     //zh: "關於  馬飛兒（maf）",
     //en: "About maf, a designer.",
-    zh: "maf 的設計十週年紀念館 ",
-    en: "Gallery of maf's design practice in a decade",
+    zh: "maf 的設計十週年紀念館 2011 - 2020 ",
+    en: "Gallery of maf's design practice in a decade, 2011 - 2020.",
   },
   more: {
     en: "More",
