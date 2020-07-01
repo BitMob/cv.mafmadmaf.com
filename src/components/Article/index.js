@@ -31,7 +31,9 @@ export default function Article({ html, frontmatter, isMobile, lang }) {
             {i18n.viewProject["en"]}
           </a>
         ) : null}
-        <div className={S.content}>{ReactHtml(byLang[lang === "zh" ? 0 : 1])}</div>
+        <div className={S.content} lang={lang}>
+          {ReactHtml(byLang[lang === "zh" ? 0 : 1])}
+        </div>
         <div className={S.gallery}>{images}</div>
       </div>
     </div>
