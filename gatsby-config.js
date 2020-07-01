@@ -2,7 +2,7 @@ const contentDir = `${__dirname}/src/content`
 
 module.exports = {
   siteMetadata: {
-    title: `mafの設計十週年紀念館 · 2011 - 2020`,
+    title: `maf 的設計十週年紀念館 · 2011 - 2020`,
     description: `About maf, a designer`,
     author: `maf`,
   },
