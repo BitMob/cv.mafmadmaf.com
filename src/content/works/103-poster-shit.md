@@ -15,10 +15,12 @@ gallery:
 
 珠寶不一定恆久，它們也在變化，只是很慢很慢。這種不穩定和無常，與生活無異。—— 這是珠寶設計師 Kay Guo 想要表達的，也是這個作品展的主題。都說「錢財如糞土」，那金銀珠寶皆是，同樣在變化，同樣在分解中。
 
-Curator / Art Director / Graphic Designer: maf
+Art Director / Graphic Designer: maf
+Curator: maf, Shu Chen, Karen Lam
 
 <!-- lang -->
 
 Jewelry may not last forever, they are also changing, even extremely slowly, such instability and impermanence are no different from life. This was what the jewelry designer Kay Guo wanted to express and also the theme of the exhibition. It was said that 'Money is like dung'.
 
-Curator / Art Director / Graphic Designer: maf
+Art Director / Graphic Designer: maf
+Curator: maf, Shu Chen, Karen Lam
