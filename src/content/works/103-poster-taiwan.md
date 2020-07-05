@@ -14,10 +14,10 @@ gallery:
   - 103-poster-taiwan-4.jpg
 ---
 
-Art Director / Graphic Designer: maf
+Art Director / Graphic Designer: maf<br/>
 Curator: maf, Shu Chen, Karen Lam
 
 <!-- lang -->
 
-Art Director / Graphic Designer: maf
+Art Director / Graphic Designer: maf<br/>
 Curator: maf, Shu Chen, Karen Lam
