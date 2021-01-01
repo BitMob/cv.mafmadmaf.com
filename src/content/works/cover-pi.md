@@ -11,13 +11,12 @@ gallery:
   - cover-pi-1.jpg
 ---
 
-由一班廣東電子音樂人發起的、讓人感覺可以跳舞的音樂命題；用不尋常的節拍撩動你的副交感神經；令你身若處子 ，神若脫兔。
+公元二零二零年，瘟疫肆虐，世界又再次跌入下一個生命輪迴，一切又從死寂的谷底開始，然而一些稍縱即逝的動人頻率卻正好聽得更清楚。
 
-第一期創作者：CDX，Damao，Fellah Co，FKY，mafmadmaf 和 Yu Hein。
 發行時間：2020 年 12 月 31 日
-專輯長度：44 分 53 秒
-音樂風格：IDM，Electronic，Experimental
-作品網址：https://jyugam.bandcamp.com/album/stomach-dance-vol-1
+專輯長度：30 分 13 秒
+音樂風格：Experimental，Avant-garde，Noise
+作品網址：https://jyugam.bandcamp.com/album/pi-wu
 © 2020 Jyugam
 
 The album is mastered by Florence Tang at Jyugam.
@@ -25,7 +24,13 @@ Artwork & graphic design: maf
 
 <!-- lang -->
 
-This proposition was initiated by a group of Canton electronic musicians, to generate an imaginative dance floor, and to enchant your parasympathetic nerves with unorthodox rhythm. While your body stays static, your spirit flows.
+A.D. 2020, torn by the pandemic, the world fell back to another start of transmigration. In the deadly silent limbo, we hear moments of touching sound waves, more lucid than ever.
+
+Release Date：2020 年 12 月 31 日
+Length：30 分 13 秒
+Genres：Experimental，Avant-garde，Noise
+Website：https://jyugam.bandcamp.com/album/pi-wu
+© 2020 Jyugam
 
 Art Director / Graphic Designer: maf<br/>
 Producer: KK Tang
