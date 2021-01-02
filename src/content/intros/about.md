@@ -15,7 +15,7 @@ type: intro
 
 <!-- lang -->
 
-Born in 1987, maf has worked as a professional Graphic/Editorial Designer since 2010 as well as a [multimedia artist](https://mafmadmaf.com/). With a strong interest in printed matter and self-publishing, he designed a large number of posters, books, magazines. He started his design/printing workshop in 2015 and a creative studio '[BITMOB](https://www.bitmob.cc/)' focusing on Web/Interactive in 2017.
+Born in 1987, _maf_ has worked as a professional Graphic/Editorial Designer since 2010 as well as a [multimedia artist](https://mafmadmaf.com/). With a strong interest in printed matter and self-publishing, he designed a large number of posters, books, magazines. He started his design/printing workshop in 2015 and a creative studio '[BITMOB](https://www.bitmob.cc/)' focusing on Web/Interactive in 2017.
 At the end of 2020, he finished designing a couple of fonts, interfaces, several album covers, and an interactive online project '[醜術館](https://mud9.com/)' (Gallery of Ugly).
 
 Leading by his synesthesia between visual and sound, he started writing pictural and narrative music for Modular Synthesizers in 2016. His pieces have been released on some renowned labels. He has performed and created installations in several events and spaces, such as the [Echigo-Tsumari Art Triennale](https://www.echigo-tsumari.jp/en/event/20201010_1031/), [Tokyo Festival of Modular](https://tfom.info/tfom-2018), Mirror Garden, etc.
