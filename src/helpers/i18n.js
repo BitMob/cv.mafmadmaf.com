@@ -24,7 +24,7 @@ export default {
   },
   tools: {
     en: "clients",
-    zh: 委託人,
+    zh: "委託",
   },
   experience: {
     en: "experience",
