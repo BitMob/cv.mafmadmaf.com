@@ -15,12 +15,13 @@ gallery:
 
 發行時間：2020 年 12 月 31 日<br/>
 專輯長度：30 分 13 秒<br/>
-音樂風格：Experimental，Avant-garde，Noise<br/>
+音樂風格：Experimental, Avant-garde, Noise<br/>
 [Bandcamp 作品網址](https://jyugam.bandcamp.com/album/pi-wu)<br/>
-© 2020 Jyugam
 
-The album is mastered by Florence Tang at Jyugam.<br/>
+Mastering: Florence Tang (Jyugam)<br/>
 Artwork & graphic design: maf
+
+© 2020 Jyugam
 
 <!-- lang -->
 
@@ -30,7 +31,8 @@ Release Date: 31 Dec 2020<br/>
 Length: 30'13"<br/>
 Genres: Experimental, Avant-garde, Noise<br/>
 [Listen in Bandcamp](https://jyugam.bandcamp.com/album/pi-wu)<br/>
-© 2020 Jyugam
 
-The album is mastered by Florence Tang at Jyugam.<br/>
+Mastering: Florence Tang (Jyugam)<br/>
 Artwork & graphic design: maf
+
+© 2020 Jyugam

@@ -2,12 +2,12 @@ export default {
   about: {
     //zh: "關於  馬飛兒（maf）",
     //en: "About maf, a designer.",
-    zh: "maf 的作品陳列館",
+    zh: "作品陳列館（maf's gallery）",
     en: "maf's gallery",
     //en: "gallery of maf's design practice · 2011 - 2020",
   },
   more: {
-    en: "More",
+    en: "more",
     zh: "更多",
   },
   fold: {
@@ -19,23 +19,23 @@ export default {
     zh: "展開",
   },
   techniques: {
-    en: "Techniques",
+    en: "techniques",
     zh: "技術",
   },
   tools: {
-    en: "Tools",
+    en: "tools",
     zh: "工具",
   },
   experience: {
-    en: "Experience",
+    en: "experience",
     zh: "經歷",
   },
   viewProject: {
-    en: "View Project",
+    en: "view project",
     zh: "打開網站",
   },
   backHome: {
-    en: "Home",
+    en: "home",
     zh: "返回首頁",
   },
 }
