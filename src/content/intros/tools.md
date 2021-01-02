@@ -1,5 +1,5 @@
 ---
-slug: clients
+slug: tools
 type: intro
 ---
 

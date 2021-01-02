@@ -23,8 +23,8 @@ export default {
     zh: "技術",
   },
   tools: {
-    en: "tools",
-    zh: "工具",
+    en: "clients",
+    zh: 委託人,
   },
   experience: {
     en: "experience",
