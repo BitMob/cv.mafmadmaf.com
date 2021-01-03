@@ -66,7 +66,7 @@ const MorePage = ({ data, location }) => {
     )
   }
 
-  const keys = ["techniques", "tools", "experience"]
+  const keys = ["experience", "techniques", "tools"]
   const sidebar = <div className="sidebar">{keys.map(key => genCol(key))}</div>
 
   let fromHome = location.state

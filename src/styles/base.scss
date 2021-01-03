@@ -28,33 +28,33 @@ main {
   @media #{$mq4Col} {
     grid-template-columns: var(--col-width) var(--col-width) var(--col-width) var(--col-width);
     grid-template-areas:
-      "about techniques tools experience"
+      "about experience techniques tools"
       "listWrap listWrap listWrap listWrap";
   }
 
   @media #{$mq3Col} {
     grid-template-columns: var(--col-width) var(--col-width) var(--col-width);
     grid-template-areas:
-      "about techniques tools"
+      "about experience techniques"
       "listWrap listWrap listWrap"
-      "experience . .";
+      "tools . .";
   }
 
   @media #{$mq2Col} {
     grid-template-columns: var(--col-width) var(--col-width);
     grid-template-areas:
-      "about techniques"
+      "about experience"
       "listWrap listWrap"
-      "tools experience";
+      "techniques tools";
   }
 
   @media #{$mq1Col} {
     grid-template-columns: var(--col-width) var(--col-width);
     grid-template-areas:
       "about"
+      "experience"
       "listWrap"
-      "tools"
-      "experience";
+      "tools";
   }
 }
 

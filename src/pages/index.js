@@ -74,7 +74,7 @@ const IndexPage = ({ data }) => {
     )
   }
 
-  const keys = ["about", "techniques", "tools", "experience"]
+  const keys = ["about", "experience", "techniques", "tools"]
   const introSections = isMobile ? [keys[0]] : keys
   const cols = introSections.map(key => genCol(key))
 
