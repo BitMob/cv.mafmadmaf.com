@@ -1,5 +1,5 @@
 ---
-titleZh: 《On The Ground》封面 COVER ART
+titleZh: 《On The Ground》唱片封面 COVER ART
 titleEn: "'On The Ground' COVER ART"
 clientZh: mafmadmaf
 clientEn: mafmadmaf
