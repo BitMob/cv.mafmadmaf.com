@@ -1,5 +1,5 @@
 ---
-titleZh: 《Wanderer》 · 唱片封面
+titleZh: 《Wanderer》唱片封面 COVER ART
 titleEn: "'Wanderer' COVER ART"
 clientZh: mafmadmaf
 clientEn: mafmadmaf

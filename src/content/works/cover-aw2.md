@@ -1,5 +1,5 @@
 ---
-titleZh: 《ambient works PHASE II》 · 唱片封面
+titleZh: 《ambient works PHASE II》唱片封面 COVER ART
 titleEn: "'ambient works PHASE II' COVER ART"
 clientZh: mafmadmaf
 clientEn: mafmadmaf

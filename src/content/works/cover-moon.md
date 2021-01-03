@@ -1,5 +1,5 @@
 ---
-titleZh: 《Storm on the Moon》 · 唱片封面
+titleZh: 《Storm on the Moon》唱片封面 COVER ART
 titleEn: "'Storm on the Moon' COVER ART"
 clientZh: mafmadmaf
 clientEn: mafmadmaf

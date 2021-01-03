@@ -1,5 +1,5 @@
 ---
-titleZh: 《ambient works PHASE OI》 · 唱片封面
+titleZh: 《ambient works PHASE OI》唱片封面 COVER ART
 titleEn: "'ambient works PHASE OI' COVER ART"
 clientZh: mafmadmaf
 clientEn: mafmadmaf

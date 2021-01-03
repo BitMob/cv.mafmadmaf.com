@@ -1,5 +1,5 @@
 ---
-titleZh: 《Serge Session 1》 · 唱片封面
+titleZh: 《Serge Session 1》唱片封面 COVER ART
 titleEn: "'Serge Session 1' COVER ART"
 clientZh: mafmadmaf
 clientEn: mafmadmaf

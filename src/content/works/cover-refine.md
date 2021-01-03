@@ -1,5 +1,5 @@
 ---
-titleZh: Project Refine · 唱片封面
+titleZh: Project Refine 唱片封面 COVER ART
 titleEn: "Project Refine COVER ART"
 clientZh: mafmadmaf
 clientEn: mafmadmaf

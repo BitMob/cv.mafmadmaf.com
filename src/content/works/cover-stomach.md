@@ -1,5 +1,5 @@
 ---
-titleZh: V/A《Stomach Dance》 · 唱片封面
+titleZh: V/A《Stomach Dance》唱片封面 COVER ART
 titleEn: "V/A 'Stomach Dance' COVER ART"
 clientZh: Jyugam
 clientEn: Jyugam

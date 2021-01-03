@@ -1,6 +1,6 @@
 ---
-titleZh: 王音《友誼》
-titleEn: "Wang Yin Friendship BOOK"
+titleZh: 王音《友誼》BOOK
+titleEn: "Wang Yin 'Friendship' BOOK"
 clientZh: 維他命藝術空間
 clientEn: Vitamin Creative Space
 date: 2018-12-15

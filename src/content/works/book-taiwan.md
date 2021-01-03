@@ -1,6 +1,6 @@
 ---
-titleZh: 台灣一直走 · 書籍封面
-titleEn: "'Walk Around Taiwan' COVER Illustration"
+titleZh: 出版物《台灣一直走》封面 COVER ART
+titleEn: "'Walk Around Taiwan' COVER ART"
 clientZh: 劉二囍
 clientEn: Liu ErXi
 date: 2016-08-29

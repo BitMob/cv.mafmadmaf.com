@@ -1,5 +1,5 @@
 ---
-titleZh: WhiteCrow《兀》 · 唱片封面
+titleZh: WhiteCrow《兀》唱片封面 COVER ART
 titleEn: "WhiteCrow 'Pi(Wu)' COVER ART"
 clientZh: Jyugam
 clientEn: Jyugam

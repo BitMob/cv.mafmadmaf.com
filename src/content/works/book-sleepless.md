@@ -1,6 +1,6 @@
 ---
-titleZh: 睡不著 Risograph ZINE
-titleEn: "'Sleepless' Risograph ZINE"
+titleZh: 獨立出版《睡不著》Risograph ZINE
+titleEn: "Indie Publishing 'Sleepless' Risograph ZINE"
 clientZh: Storybook
 clientEn: Storybook
 date: 2016-06-22

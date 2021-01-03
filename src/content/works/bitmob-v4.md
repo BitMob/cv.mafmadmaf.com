@@ -1,5 +1,5 @@
 ---
-titleZh: BitMob · 官方網站 V4 WEB
+titleZh: BitMob 官方網站 V4 WEB
 titleEn: "BitMob Official Website V4"
 clientZh: BitMob 數字創意 (BCD)
 clientEn: BitMob Creative Digital (BCD)
