@@ -1,6 +1,6 @@
 ---
 titleZh: 《自動寫作-自動閱讀》書籍設計
-titleEn: "'Automatic Writing - Automatic Understanding' Book Design"
+titleEn: "'Automatic Writing...' Book Design"
 clientZh: 維他命藝術空間
 clientEn: Vitamin Creative Space
 date: 2021-03-12
