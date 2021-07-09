@@ -1,6 +1,6 @@
 ---
-titleZh: TRIBES Risograph CARD
-titleEn: "TRIBES Risograph CARD"
+titleZh: TRIBES Risograph 海報設計
+titleEn: "TRIBES Risograph Postcard"
 clientZh: 雀仔獨立出版 BirdyPress
 clientEn: BirdyPress
 date: 2017-09-19

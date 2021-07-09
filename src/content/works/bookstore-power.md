@@ -1,6 +1,6 @@
 ---
-titleZh: 方所書店力研究所 · 官方網站 WEB
-titleEn: "Bookstore Power Website"
+titleZh: 方所書店力研究所 官方網站設計
+titleEn: "Bookstore Power Website Design"
 clientZh: 方所
 clientEn: Fang Suo
 date: 2018-08-10

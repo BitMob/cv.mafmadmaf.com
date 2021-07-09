@@ -1,6 +1,6 @@
 ---
-titleZh: 音樂廠牌 Jyugam LOGO
-titleEn: "Jyugam Label LOGO"
+titleZh: 音樂廠牌 Jyugam Logo
+titleEn: "Jyugam Label Logo"
 clientZh: Jyugam
 clientEn: Jyugam
 date: 2020-12-12

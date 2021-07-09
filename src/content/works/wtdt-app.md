@@ -1,6 +1,6 @@
 ---
-titleZh: WTDT 今日清單 APP
-titleEn: "WTDT APP"
+titleZh: WTDT 今日清單 界面設計 & 開發
+titleEn: "'WTDT' UI Design"
 clientZh: BitMob 數字創意 (BCD)
 clientEn: BitMob Creative Digital (BCD)
 date: 2020-01-01

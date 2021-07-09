@@ -1,6 +1,6 @@
 ---
-titleZh: 睡不著 POSTER
-titleEn: "Sleepless POSTER"
+titleZh: 睡不著 · 獨立出版海報設計
+titleEn: "Sleepless Poster"
 clientZh: Storybook
 clientEn: Storybook
 date: 2016-09-11

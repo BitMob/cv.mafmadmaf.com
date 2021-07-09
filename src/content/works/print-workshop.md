@@ -1,6 +1,6 @@
 ---
-titleZh: 103 絲網印刷工作坊 · 海報 POSTER
-titleEn: "Screen Printing Workshop POSTER"
+titleZh: 103 絲網印刷工作坊 · 海報設計
+titleEn: "Screen Printing Workshop Poster"
 clientZh: 103store
 clientEn: 103store
 date: 2018-04-27

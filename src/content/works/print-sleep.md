@@ -1,6 +1,6 @@
 ---
-titleZh: 獨立出版《睡》Risograph ZINE
-titleEn: "Indie Publishing 'Sleep' Risograph ZINE"
+titleZh: 《睡》Risograph 獨立出版
+titleEn: "Indie Publishing 'Sleep' Risograph Zine"
 clientZh: 雀仔獨立出版 BirdyPress
 clientEn: BirdyPress
 date: 2017-09-12

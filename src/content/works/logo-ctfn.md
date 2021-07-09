@@ -1,6 +1,6 @@
 ---
-titleZh: 痂州牌® VI
-titleEn: "Cantonfornia® VI"
+titleZh: 痂州牌® VI 字體設計
+titleEn: "Cantonfornia® VI & Type Design"
 clientZh: 痂州牌®
 clientEn: Cantonfornia®
 date: 2021-05-04

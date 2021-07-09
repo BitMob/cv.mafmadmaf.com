@@ -1,6 +1,6 @@
 ---
-titleZh: 青菜小姐《四》唱片封面 COVER ART
-titleEn: "Miss Cai 'Four' COVER ART"
+titleZh: 青菜小姐《四》唱片封面設計
+titleEn: "Miss Cai 'Four' Cover Art"
 clientZh: 屠零唱片
 clientEn: Turing Records
 date: 2018-05-22

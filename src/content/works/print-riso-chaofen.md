@@ -1,6 +1,6 @@
 ---
-titleZh: 獨立出版《會炒粉的機器人》Risograph ZINE
-titleEn: "Indie Publishing 'Robot Fried Rice Noddle' Risograph ZINE"
+titleZh: 《會炒粉的機器人》Risograph 獨立出版
+titleEn: "Indie Publishing 'Robot Fried Rice Noddle' Risograph Zine"
 clientZh: 雀仔獨立出版 BirdyPress
 clientEn: BirdyPress
 date: 2015-11-27

@@ -1,6 +1,6 @@
 ---
-titleZh: 《Storm on the Moon》唱片封面 COVER ART
-titleEn: "'Storm on the Moon' COVER ART"
+titleZh: 《Storm on the Moon》唱片封面設計
+titleEn: "'Storm on the Moon' Cover Art"
 clientZh: mafmadmaf
 clientEn: mafmadmaf
 date: 2019-08-11

@@ -1,5 +1,5 @@
 ---
-titleZh: 看得見的冥想 · Jon Poblador 三部展 VI
+titleZh: 看得見的冥想 Jon Poblador 展覽 VI
 titleEn: "Jon Poblador's Visible Meditation Exhibition VI"
 clientZh: 103store
 clientEn: 103store

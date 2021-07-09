@@ -1,5 +1,5 @@
 ---
-titleZh: 如糞土 · 另一種珠寶展覽 VI
+titleZh: 「如糞土」另一種珠寶展覽 VI
 titleEn: "'A Pile of Shit' Jewellery Exhibition VI"
 clientZh: 103store × Kay Guo
 clientEn: 103store × Kay Guo

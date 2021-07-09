@@ -1,6 +1,6 @@
 ---
 titleZh: 骷髏 · 裝置 & 編輯設計
-titleEn: "'Skull' Installation And Editorial Design"
+titleEn: "'Skull' Installation & Editorial Design"
 clientZh: 1626 Magazine
 clientEn: 1626 Magazine
 date: 2011-10-16

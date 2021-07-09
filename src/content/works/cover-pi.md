@@ -1,6 +1,6 @@
 ---
-titleZh: WhiteCrow《兀》唱片封面 COVER ART
-titleEn: "WhiteCrow 'Pi(Wu)' COVER ART"
+titleZh: WhiteCrow《兀》唱片封面設計
+titleEn: "WhiteCrow 'Pi(Wu)' Cover Art"
 clientZh: Jyugam
 clientEn: Jyugam
 date: 2020-12-31

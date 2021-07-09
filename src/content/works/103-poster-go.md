@@ -1,5 +1,5 @@
 ---
-titleZh: 阿GO帶你玩玩具 · 展覽 VI
+titleZh: 阿GO帶你玩玩具展覽 VI
 titleEn: "'Play Toys with GO' Exhibition VI"
 clientZh: 103store
 clientEn: 103store

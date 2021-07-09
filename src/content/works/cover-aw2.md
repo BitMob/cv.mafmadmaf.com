@@ -1,6 +1,6 @@
 ---
-titleZh: 《ambient works PHASE II》唱片封面 COVER ART
-titleEn: "'ambient works PHASE II' COVER ART"
+titleZh: 《ambient works PHASE II》唱片封面設計
+titleEn: "'ambient works PHASE II' Cover Art"
 clientZh: mafmadmaf
 clientEn: mafmadmaf
 date: 2018-07-02

@@ -1,6 +1,6 @@
 ---
-titleZh: 未來自年輕 · 青年誌 POSTERZINE
-titleEn: "'The Future The Youth' POSTERZINE"
+titleZh: 未來自年輕 · 青年誌海報設計
+titleEn: "'The Future The Youth' Posterzine"
 clientZh: 青年誌
 clientEn: Youthology
 date: 2018-03-01

@@ -1,5 +1,5 @@
 ---
-titleZh: Craig Kirk 的街頭卡通展 VI
+titleZh: Craig Kirk 的街頭卡通展覽 VI
 titleEn: "Craig Kirk's Street Cartoon Exhibition VI"
 clientZh: 103store
 clientEn: 103store

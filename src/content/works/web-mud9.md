@@ -1,6 +1,6 @@
 ---
-titleZh: 醜術館 · WEB
-titleEn: "鳩 mud9.com Website"
+titleZh: 醜術館 · 線上交互藝術項目
+titleEn: "鳩 mud9.com Interactive Project"
 clientZh: BitMob 數字創意 (BCD)
 clientEn: BitMob Creative Digital (BCD)
 date: 2020-10-01

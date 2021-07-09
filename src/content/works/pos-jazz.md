@@ -1,6 +1,6 @@
 ---
-titleZh: 廣州爵士匯 Vol.4 POSTER
-titleEn: "Guangzhou Jazz Week POSTER"
+titleZh: 廣州爵士匯 Vol.4 海報設計
+titleEn: "Guangzhou Jazz Week Poster"
 clientZh: 凸空間
 clientEn: "TU:Union"
 date: 2014-03-03

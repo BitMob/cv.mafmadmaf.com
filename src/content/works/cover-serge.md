@@ -1,6 +1,6 @@
 ---
-titleZh: 《Serge Session 1》唱片封面 COVER ART
-titleEn: "'Serge Session 1' COVER ART"
+titleZh: 《Serge Session 1》唱片封面設計
+titleEn: "'Serge Session 1' Cover Art"
 clientZh: mafmadmaf
 clientEn: mafmadmaf
 date: 2020-07-12

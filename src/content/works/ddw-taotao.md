@@ -1,6 +1,6 @@
 ---
-titleZh: 消化設計 2018AW 上海時裝周 · 發佈會 WEB
-titleEn: "Digest Design 2018AW @Shanghai Fashion Week WEB"
+titleZh: 消化設計 2018AW 上海時裝周交互 H5
+titleEn: "Digest Design 2018AW Shanghai Fashion Week H5"
 clientZh: 消化設計
 clientEn: Digest Design Workshop
 date: 2018-08-11

@@ -1,6 +1,6 @@
 ---
 titleZh: WTDT 字體設計
-titleEn: "WTDT FONT Design"
+titleEn: "WTDT Type Design"
 clientZh: BitMob 數字創意 (BCD)
 clientEn: BitMob Creative Digital (BCD)
 date: 2020-01-02

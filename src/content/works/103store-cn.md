@@ -1,6 +1,6 @@
 ---
-titleZh: 103store.cn 官方網站 WEB
-titleEn: "103store.cn 'Life with Goods' Website"
+titleZh: 103store.cn 官方網站設計
+titleEn: "103store.cn 'Life with Goods' Web Design"
 clientZh: 103store
 clientEn: 103store
 date: 2019-10-01

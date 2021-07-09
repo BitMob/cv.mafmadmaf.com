@@ -1,6 +1,6 @@
 ---
-titleZh: 《ambient works PHASE OI》唱片封面 COVER ART
-titleEn: "'ambient works PHASE OI' COVER ART"
+titleZh: 《ambient works PHASE OI》唱片封面設計
+titleEn: "'ambient works PHASE OI' Cover Art"
 clientZh: mafmadmaf
 clientEn: mafmadmaf
 date: 2018-07-01

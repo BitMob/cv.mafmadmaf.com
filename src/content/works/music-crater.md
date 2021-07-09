@@ -1,6 +1,6 @@
 ---
 titleZh: 环形山世界 1 · 音樂作品
-titleEn: "CRATER MONDE 1 MUSIC RELEASE"
+titleEn: "CRATER MONDE 1 Music Release"
 clientZh: mafmadmaf
 clientEn: mafmadmaf
 date: 2019-05-28

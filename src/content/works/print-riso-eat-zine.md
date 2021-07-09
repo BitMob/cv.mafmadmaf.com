@@ -1,6 +1,6 @@
 ---
-titleZh: 獨立出版《食》Risograph ZINE
-titleEn: "Indie Publishing 'Eat' Risograph ZINE"
+titleZh: 《食》Risograph 獨立出版
+titleEn: "Indie Publishing 'Eat' Risograph Zine"
 clientZh: 雀仔獨立出版 BirdyPress
 clientEn: BirdyPress
 date: 2017-06-19

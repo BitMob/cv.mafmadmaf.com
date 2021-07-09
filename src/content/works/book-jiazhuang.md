@@ -1,6 +1,6 @@
 ---
-titleZh: 獨立出版《假裝運動》ZINE
-titleEn: "Indie Publishing 'Invisible Motion' ZINE"
+titleZh: 《假裝運動》獨立出版物
+titleEn: "Indie Publishing 'Invisible Motion' Zine"
 clientZh: 予望
 clientEn: 予望
 date: 2017-06-18

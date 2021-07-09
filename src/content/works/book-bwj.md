@@ -1,6 +1,6 @@
 ---
-titleZh: 雜誌書《水象》裝幀設計 MOOK
-titleEn: "'Be Water Journal' MOOK BRANDING"
+titleZh: 雜誌書《水象》裝幀設計 Mook
+titleEn: "'Be Water Journal' Mook Branding"
 clientZh: 水象 · 創意集群
 clientEn: Be Water Journal
 date: 2018-02-02

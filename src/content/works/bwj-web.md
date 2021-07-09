@@ -1,6 +1,6 @@
 ---
-titleZh: 水象 · 官方網站 WEB
-titleEn: "'Be Water Journal' Official Website"
+titleZh: 水象 · 官方網站設計
+titleEn: "'Be Water Journal' Website Design"
 clientZh: 水象 · 創意集群
 clientEn: Be Water Journal
 date: 2018-06-01

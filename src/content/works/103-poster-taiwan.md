@@ -1,5 +1,5 @@
 ---
-titleZh: 與我一起生活的器物 · 來自台灣的金工器物展 VI
+titleZh: 「與我一起生活的器物」來自台灣的金工器物展 VI
 titleEn: "'Taiwan Metalworking' Exhibition VI"
 clientZh: 103store
 clientEn: 103store

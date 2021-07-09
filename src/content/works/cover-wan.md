@@ -1,6 +1,6 @@
 ---
-titleZh: 《Wanderer》唱片封面 COVER ART
-titleEn: "'Wanderer' COVER ART"
+titleZh: 《Wanderer》唱片封面設計
+titleEn: "'Wanderer' Cover Art"
 clientZh: mafmadmaf
 clientEn: mafmadmaf
 date: 2020-10-12
