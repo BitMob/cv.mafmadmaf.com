@@ -6,7 +6,7 @@ clientEn: "Jyugam"
 date: 2021-01-31
 category: graphic
 
-thumb: pos-balei-0.jpg
+thumb: pos-aftermath-0.jpg
 gallery:
   - pos-aftermath.jpg
 ---
