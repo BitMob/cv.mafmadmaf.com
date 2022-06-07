@@ -1,6 +1,6 @@
 ---
-titleZh: 《ambient works PHASE OI》專輯設計
-titleEn: "'ambient works PHASE OI' Album Design"
+titleZh: 《ambient works PHASE OI》專輯/包裝設計
+titleEn: "'ambient works PHASE OI' Album/Package Design"
 clientZh: Jyugam
 clientEn: Jyugam
 date: 2019-07-01

@@ -1,6 +1,6 @@
 ---
-titleZh: 《ambient works PHASE II》專輯設計
-titleEn: "'ambient works PHASE II' Album Design"
+titleZh: 《ambient works PHASE II》專輯/包裝設計
+titleEn: "'ambient works PHASE II' Album/Package Design"
 clientZh: Jyugam
 clientEn: Jyugam
 date: 2019-07-02

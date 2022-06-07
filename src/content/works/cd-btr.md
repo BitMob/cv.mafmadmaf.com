@@ -1,6 +1,6 @@
 ---
-titleZh: 《B.T.R》專輯設計
-titleEn: "'B.T.R' Album Design"
+titleZh: 《B.T.R》專輯/包裝設計
+titleEn: "'B.T.R' Album/Package Design"
 clientZh: Jyugam
 clientEn: Jyugam
 date: 2021-07-10

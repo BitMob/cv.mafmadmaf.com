@@ -1,6 +1,6 @@
 ---
-titleZh: 《On The Ground》唱片封面設計
-titleEn: "'On The Ground' Cover Art"
+titleZh: 《On The Ground》專輯/包裝設計
+titleEn: "'On The Ground' Album/Package Design"
 clientZh: mafmadmaf
 clientEn: mafmadmaf
 date: 2020-04-01

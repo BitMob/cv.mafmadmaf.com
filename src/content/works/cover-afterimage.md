@@ -1,6 +1,6 @@
 ---
-titleZh: 《昨日的殘影》專輯設計
-titleEn: "'Afterimages From Yesterday' Album Design"
+titleZh: 《昨日的殘影》專輯/包裝設計
+titleEn: "'Afterimages From Yesterday' Album/Package Design"
 clientZh: Jyugam
 clientEn: Jyugam
 date: 2022-06-04

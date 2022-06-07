@@ -1,6 +1,6 @@
 ---
-titleZh: WhiteCrow《兀》唱片封面設計
-titleEn: "WhiteCrow 'Pi(Wu)' Cover Art"
+titleZh: WhiteCrow《兀》專輯/包裝設計
+titleEn: "WhiteCrow 'Pi(Wu)' Album/Package Design"
 clientZh: Jyugam
 clientEn: Jyugam
 date: 2020-12-31
@@ -9,6 +9,12 @@ category: graphic
 thumb: cover-pi-0.jpg
 gallery:
   - cover-pi-1.jpg
+  - cover-pi-2.jpg
+  - cover-pi-3.jpg
+  - cover-pi-4.jpg
+  - cover-pi-5.jpg
+  - cover-pi-6.jpg
+  - cover-pi-7.jpg
 ---
 
 公元二零二零年，瘟疫肆虐，世界又再次跌入下一個生命輪迴，一切又從死寂的谷底開始，然而一些稍縱即逝的動人頻率卻正好聽得更清楚。
