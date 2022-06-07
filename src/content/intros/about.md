@@ -3,7 +3,7 @@ slug: about
 type: intro
 ---
 
-生長於廣州的 _maf_ 是一名美術指導、獨立出版人和[多媒體藝術工作者](https://mafmadmaf.com/)，善於構建克制而精美的圖像和聲音，除接受設計委託以外，也進行聲音創作和獨立出版等個人藝術項目。2010 年加入雜誌社擔任美術編輯；2015 年成立個人印刷工作室，關注 [Risograph](https://maf-works.com/work/birdypress-vi)、絲印和出版；2017 年經營數字創意工作室 [BITMOB](https://www.bitmob.cc/)；2020 年至今持續更新線上項目「[醜術館](https://mud9.com/)」；最近在努力經營音樂廠牌 [Jyugam](https://jyugam.bandcamp.com/)。
+生長於廣州的 _maf_ 是一名美術指導、出版人和[多媒體藝術工作者](https://mafmadmaf.com/)，善於構建克制而精美的圖像和聲音，除接受設計委託以外，也進行聲音創作和獨立出版等個人藝術項目。2010 年加入雜誌社擔任美術編輯；2015 年成立個人印刷工作室，關注 [Risograph](https://maf-works.com/work/birdypress-vi)、絲印和出版；2017 年經營數字創意工作室 [BITMOB](https://www.bitmob.cc/)；2020 年至今持續更新線上項目「[醜術館](https://mud9.com/)」；最近在努力經營音樂廠牌 [Jyugam](https://jyugam.bandcamp.com/)。
 
 從 2014 年對網站前端交互產生濃厚興趣開始，他的作品從傳統的印刷平面進化到交互設計，跳躍式思維和好奇心是 _maf_ 引以為傲的思考方式和學習動力，同樣重要的還有他對不同藝術表達的通感。2016 年開始使用模塊合成器（Modular Synth）作曲和聲音設計，也運用 Max/MSP 等編程工具進行創作；2018 年參加[東京模塊合成器音樂節](https://tfom.info/tfom-2018)；2020 年的夏/秋兩個展期在[越後妻有大地藝術祭](https://www.echigo-tsumari.jp/en/event/20201010_1031/)華園展出影像作品《残された旅の初日/[余下旅程的第一天](https://www.bilibili.com/video/BV16C4y1b7EH/)》。
 
