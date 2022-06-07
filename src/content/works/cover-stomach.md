@@ -1,6 +1,6 @@
 ---
-titleZh: V/A《Stomach Dance》唱片封面設計
-titleEn: "V/A 'Stomach Dance' Cover Art"
+titleZh: V/A《Stomach Dance Vol.1》唱片封面設計
+titleEn: "V/A 'Stomach Dance Vol.1' Cover Art"
 clientZh: Jyugam
 clientEn: Jyugam
 date: 2020-12-30
@@ -19,7 +19,7 @@ gallery:
 [Bandcamp 網址](https://jyugam.bandcamp.com/album/stomach-dance-vol-1)<br/>
 
 Mastering: Florence Tang (Jyugam)<br/>
-Artwork & graphic design: maf
+Artwork & graphic design: maf-works.com
 
 © 2020 Jyugam
 
@@ -33,6 +33,6 @@ Genres: IDM, Electronic, Experimental<br/>
 [Listen in Bandcamp](https://jyugam.bandcamp.com/album/stomach-dance-vol-1)<br/>
 
 Mastering: Florence Tang (Jyugam)<br/>
-Artwork & graphic design: maf
+Artwork & graphic design: maf-works.com
 
 © 2020 Jyugam

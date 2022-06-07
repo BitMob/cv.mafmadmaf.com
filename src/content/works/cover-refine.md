@@ -16,10 +16,10 @@ gallery:
 
 重新設計 mafmadmaf 早年的單曲作品封面。
 
-Artwork & graphic design: maf
+Artwork & graphic design: maf-works.com
 
 <!-- lang -->
 
 Redesign the cover of mafmadmaf's early singles.
 
-Artwork & graphic design: maf
+Artwork & graphic design: maf-works.com

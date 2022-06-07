@@ -19,7 +19,7 @@ gallery:
 [Bandcamp 作品網址](https://jyugam.bandcamp.com/album/pi-wu)<br/>
 
 Mastering: Florence Tang (Jyugam)<br/>
-Artwork & graphic design: maf
+Artwork & graphic design: maf-works.com
 
 © 2020 Jyugam
 
@@ -33,6 +33,6 @@ Genres: Experimental, Avant-garde, Noise<br/>
 [Listen in Bandcamp](https://jyugam.bandcamp.com/album/pi-wu)<br/>
 
 Mastering: Florence Tang (Jyugam)<br/>
-Artwork & graphic design: maf
+Artwork & graphic design: maf-works.com
 
 © 2020 Jyugam

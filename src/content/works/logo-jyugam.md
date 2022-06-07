@@ -11,6 +11,7 @@ gallery:
   - logo-jyugam-1.jpg
   - logo-jyugam-2.jpg
   - logo-jyugam-3.jpg
+  - logo-jyugam-4.jpg
 ---
 
 Jyugam 是一個獨立運作的音樂出版機構，致力於發掘與傳播個體的聲音，並以此對眼前身處的環境作出獨特而樸素的回應。成立於二零二零年，它由 maf 發起並在 ninelo 等朋友的幫助下成立。</br>

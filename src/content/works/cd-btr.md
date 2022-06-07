@@ -1,5 +1,5 @@
 ---
-titleZh: 《B.T.R》音樂專輯設計
+titleZh: 《B.T.R》專輯設計
 titleEn: "'B.T.R' Album Design"
 clientZh: Jyugam
 clientEn: Jyugam
@@ -15,10 +15,24 @@ gallery:
   - cd-btr-5.jpg
   - cd-btr-6.jpg
   - cd-btr-7.jpg
+  - cd-btr-8.jpg
+  - cd-btr-9.jpg
+  - cd-btr-10.jpg
+  - cd-btr-11.jpg
+  - cd-btr-12.jpg
+  - cd-btr-13.jpg
 ---
 
-由 Jyugam 出版的 mafmadmaf 個人氛圍音樂專輯。
+專輯中的圖片由作曲者提供，照片是在一次日本旅程中拍攝。包裝由一張完整的紙折疊而成。
+
+[Bandcamp 作品網址](https://jyugam.bandcamp.com/album/b-t-r-by-th-river)<br/>
+
+© 2021 Jyugam
 
 <!-- lang -->
 
-Ambient music album of mafmadmaf, published by Jyugam.
+The images in the album are provided by the composer, which were taken during his trip to Japan. The packaging is folded from a full sheet of paper.
+
+[Listen in Bandcamp](https://jyugam.bandcamp.com/album/b-t-r-by-th-river)<br/>
+
+© 2021 Jyugam

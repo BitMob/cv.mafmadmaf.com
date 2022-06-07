@@ -13,10 +13,10 @@ gallery:
 
 mafmadmaf 氛圍音樂 EP《Storm on the Moon》封面。
 
-Artwork & graphic design: maf
+Artwork & graphic design: maf-works.com
 
 <!-- lang -->
 
 Cover art of mafmadmaf's ambient EP 'Storm On the Moon'.
 
-Artwork & graphic design: maf
+Artwork & graphic design: maf-works.com

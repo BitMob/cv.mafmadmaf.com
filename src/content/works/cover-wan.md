@@ -13,10 +13,10 @@ gallery:
 
 mafmadmaf 的合成器氛圍音樂單曲《Wanderer》封面。
 
-Artwork & graphic design: maf
+Artwork & graphic design: maf-works.com
 
 <!-- lang -->
 
 Cover art of mafmadmaf's ambient single 'Wanderer'.
 
-Artwork & graphic design: maf
+Artwork & graphic design: maf-works.com
