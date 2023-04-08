@@ -19,6 +19,7 @@ New Balance<br/>
 新週刊<br/>
 Nike<br/>
 維他命藝術空間<br/>
+觀心亭<br/>
 YOHO!<br/>
 
 <!-- lang -->
@@ -39,4 +40,5 @@ New Balance<br/>
 Neweekly Magazine<br/>
 Nike<br/>
 Vitamin Creative Space<br/>
+The Pavilion<br/>
 YOHO!<br/>

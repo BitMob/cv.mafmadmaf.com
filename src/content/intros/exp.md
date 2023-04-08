@@ -13,7 +13,7 @@ type: intro
 
 2017 - 2023
 
-為[維他命藝術空間](http://www.vitamincreativespace.art/cn/)和屬下出版機構「觀心亭」設計出版物和展覽品牌設計，期間重新設計其線上商店 the shop。為「觀心亭」設計研究性出品，進行平面设计的可能性的探討和嘗試。
+為[維他命藝術空間](http://www.vitamincreativespace.art/cn/)展覽平面設計，設計其線上商店 the shop。為「觀心亭」設計研究性出品，進行平面设计的可能性的探討和嘗試。
 
 ### 獨立出版人 / 平面設計師 @ BirdyPress
 
@@ -58,11 +58,11 @@ As cooperating closely with front-end engineers and having an in-depth understan
 created unique and exquisite designs that could always be closely integrated with user-end interactions. It brought a highly praised product experience to the business partners.<br/>
 Designed and completely developed 15+ websites, digital creative service 10+ renowned brands in the past three years, and launched several original digital products, including an iOS App.
 
-### Graphic Design Consultant @ Vitamin Creative Space
+### Graphic Design Consultant @ Vitamin Creative Space & The Pavilion
 
-2017 - 2019
+2017 - 2023
 
-Designed publications and exhibitions for Vitamin Creative Space and redesigned its online store, the shop. Studied the diversity and possibility of publication arts that served Art Basel with the Pavilion crew, and worked happily with artists like Koki Tanaka, Zheng Guogu, and Wang Yin.
+Designed publications and exhibitions for Vitamin Creative Space and redesigned its online store, the shop. Design artist's books for "Guanxin Pavilion", to explore the possibility of graphic design.
 
 ### Independent Publisher / Graphic Designer @ BirdyPress
 

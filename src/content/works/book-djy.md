@@ -1,8 +1,8 @@
 ---
-titleZh: 《自動寫作-自動閱讀》書籍設計
-titleEn: "'Automatic Writing...' Book Design"
-clientZh: 維他命藝術空間
-clientEn: Vitamin Creative Space
+titleZh: 《自動寫作-自動閱讀》平面設計
+titleEn: "'Automatic Writing...' Graphic Design"
+clientZh: 觀心亭
+clientEn: The Pavilion
 date: 2021-03-12
 category: graphic
 
@@ -14,14 +14,12 @@ gallery:
   - book-djy-4.jpg
 ---
 
-關於藝術家段建宇的出版物。
+關於藝術家段建宇的研究出品。
 
-Art Director / Editorial Designer: maf<br/>
-Editor / Publisher: The Pavilion
+Art Director / Editorial Designer: maf
 
 <!-- lang -->
 
-Painter DUAN Jianyu's book.
+The artist book of DUAN Jianyu.
 
-Art Director / Editorial Designer: maf<br/>
-Editor / Publisher: The Pavilion
+Art Director / Editorial Designer: maf

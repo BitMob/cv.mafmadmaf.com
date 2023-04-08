@@ -1,8 +1,8 @@
 ---
-titleZh: 《鄭國谷 不了之園》書籍設計
-titleEn: "'The Everlasting Gargen' Book Design"
-clientZh: 維他命藝術空間
-clientEn: Vitamin Creative Space
+titleZh: 《鄭國谷 不了之園》平面設計
+titleEn: "'The Everlasting Gargen' Graphic Design"
+clientZh: 觀心亭
+clientEn: The Pavilion
 date: 2021-03-12
 category: graphic
 
@@ -18,16 +18,12 @@ gallery:
   - book-zgg-8.jpg
 ---
 
-關於藝術家鄭國谷的出版物。
-因應蓬皮杜藝術中心組織的鄭國谷個展 (09.06-23.08.2021)印行。
+關於藝術家鄭國谷的研究出品。
 
-Art Director / Editorial Designer: maf<br/>
-Editor / Publisher: The Pavilion
+Art Director / Editorial Designer: maf
 
 <!-- lang -->
 
-Artist ZHENG Guogu's book.
-Published on the occasion of the solo exhibition of Zheng Guogu at MNAM Centre Georges Pompidou, Paris (09.06-23.08.2021).
+The artist book of ZHENG Guogu.
 
-Art Director / Editorial Designer: maf<br/>
-Editor / Publisher: The Pavilion
+Art Director / Editorial Designer: maf

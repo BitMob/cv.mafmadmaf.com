@@ -1,8 +1,8 @@
 ---
-titleZh: 《王音 友誼》出版物設計
-titleEn: "Wang Yin 'Friendship' Book Design"
-clientZh: 維他命藝術空間
-clientEn: Vitamin Creative Space
+titleZh: 《王音 友誼》平面設計
+titleEn: "Wang Yin 'Friendship' Graphic Design"
+clientZh: 觀心亭
+clientEn: The Pavilion
 date: 2018-12-15
 category: graphic
 
@@ -13,14 +13,12 @@ gallery:
   - book-wangyin-3.jpg
 ---
 
-畫家王音的作品集。胡昉先生希望以最單純的方式去展示作品。
+藝術家王音的研究出品。
 
-Art Director / Editorial Designer: maf<br/>
-Editor / Publisher: The Pavilion
+Art Director / Editorial Designer: maf
 
 <!-- lang -->
 
-Wang Yin's portfolio. Mr. Hu Fang hoped that we could display his works in a pure way.
+The artist book of WANG Yin.
 
-Art Director / Editorial Designer: maf<br/>
-Editor / Publisher: The Pavilion
+Art Director / Editorial Designer: maf
