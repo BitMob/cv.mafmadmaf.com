@@ -1,6 +1,6 @@
 ---
-titleZh: V/A《Stomach Dance Vol.1》唱片封面設計
-titleEn: "V/A 'Stomach Dance Vol.1' Cover Art"
+titleZh: 《Stomach Dance Vol.1》唱片封面設計
+titleEn: "'Stomach Dance Vol.1' Cover Art"
 clientZh: Jyugam
 clientEn: Jyugam
 date: 2020-12-30

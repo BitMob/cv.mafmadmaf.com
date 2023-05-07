@@ -1,6 +1,6 @@
 ---
-titleZh: WhiteCrow《兀》專輯/包裝設計
-titleEn: "WhiteCrow 'Pi(Wu)' Album/Package Design"
+titleZh: 《兀》專輯/包裝設計
+titleEn: "'Pi(Wu)' Album/Package Design"
 clientZh: Jyugam
 clientEn: Jyugam
 date: 2020-12-31

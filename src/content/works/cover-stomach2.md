@@ -1,6 +1,6 @@
 ---
-titleZh: V/A《Stomach Dance Vol.2》唱片封面設計
-titleEn: "V/A 'Stomach Dance Vol.2' Cover Art"
+titleZh: 《Stomach Dance Vol.2》唱片封面設計
+titleEn: "'Stomach Dance Vol.2' Cover Art"
 clientZh: Jyugam
 clientEn: Jyugam
 date: 2022-01-24

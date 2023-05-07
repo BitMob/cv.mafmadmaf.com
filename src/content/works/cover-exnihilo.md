@@ -1,6 +1,6 @@
 ---
 titleZh: 《籽音 / ex​-​nihilo》專輯/包裝設計
-titleEn: "'籽音 / ex​-​nihilo' Album/Package Design"
+titleEn: "'ex​-​nihilo' Album/Package Design"
 clientZh: Jyugam
 clientEn: Jyugam
 date: 2022-08-31
