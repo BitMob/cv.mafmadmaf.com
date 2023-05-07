@@ -17,7 +17,7 @@ type: intro
 
 Born in Guangzhou, _maf_ has worked as a professional Graphic/Editorial Designer since 2010 and a [multimedia artist](https://mafmadmaf.com/) since 2015. With a strong interest in printed matter and self-publishing, he started his design/printing workshop in 2015, and a creative studio '[BITMOB](https://www.bitmob.cc/)' focusing on Web/Interactive in 2017. He has continued to update his online project '[醜術館](https://mud9.com/)' (Gallery of Ugly) since 2020. Currently he is working on his indie music label [Jyugam](https://jyugam.com).
 
-Leading by his synesthesia between visual and sound, he started writing pictural and narrative music for modular synthesizers in 2016 and performed and created installations in several events and spaces, such as the [Echigo-Tsumari Art Triennale](https://www.echigo-tsumari.jp/en/event/20201010_1031/), [Tokyo Festival of Modular](https://tfom.info/tfom-2018), Mirror Garden, etc. His pieces have been released on some renowned labels.
+Leading by his synesthesia between visual and sound, he started writing pictural and narrative music for modular synthesizers in 2016 and performed and created installations in several events and spaces, such as the [Echigo-Tsumari Art Triennale](https://www.echigo-tsumari.jp/en/event/20201010_1031/), [Tokyo Festival of Modular](https://tfom.info/tfom-2018), Mirror Garden, etc.
 
 <!-- He is currently working on an indie label [Jyugam](https://jyugam.bandcamp.com/). -->
 <!-- Keep working and always enjoy it.
