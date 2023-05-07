@@ -3,7 +3,7 @@ titleZh: 奇點計劃® 字體設計 II
 titleEn: "Singularity Plan® Type Design II"
 clientZh: 奇點計劃®
 clientEn: Singularity Plan®
-date: 2022-03-10
+date: 2023-02-10
 category: graphic
 
 thumb: font-singularity2-0.jpg
