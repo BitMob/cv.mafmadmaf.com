@@ -3,7 +3,7 @@ titleZh: 奇點計劃® 字體設計 IV
 titleEn: "Singularity Plan® Type Design IV"
 clientZh: 奇點計劃®
 clientEn: Singularity Plan®
-date: 2022-11-24
+date: 2022-12-24
 category: graphic
 
 thumb: font-singularity4-0.jpg
