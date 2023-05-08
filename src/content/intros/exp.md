@@ -9,17 +9,17 @@ type: intro
 
 依靠十多年的設計出版經驗，創立獨立音樂發行工作室 Jyugam ([https://jyugam.com](https://jyugam.com))。為聲音藝術家提供完整的視覺設計、作品發行和現場表演等服務。合作的藝術家有 WISEFAKE、Lastboss、Kagami Smile 等。
 
-### 美術總監 / 交互設計師 @ BitMob Creative Digital (BCD)
-
-2017 - 2020
-
-在與朋友兼創新程序員 [Ed](https://edlee.me/) 成立的[交互設計工作室](https://www.bitmob.cc/)擔任美術總監和創意總監，專精 UI/UX 設計和 Web 交互創意；主要客戶群為獨立設計師、藝文類媒體和服裝品牌。通過與前端工程師的充分交流和對 Web 前端技術的深度瞭解，maf 別具一格的創意和設計總能夠與前端和交互設計緊密結合，兩者相得益彰。在極小的工作室規模下，為合作方帶來備受讚許的產品體驗。三年間完整設計並開發 15+ 個網站，數字服務 10+ 個著名品牌， 開發過多個原創數字產品，其中包括最近推出的 1 個 iOS APP。
-
 ### 平面設計顧問 @ 維他命藝術空間 Vitamin Creative Space & 觀心亭 The Pavilion
 
 2017 - 現在
 
 為[維他命藝術空間](http://www.vitamincreativespace.art/cn/)展覽平面設計，設計其線上商店 the shop。為「觀心亭」設計研究性出品，進行平面设计的可能性的探討和嘗試。
+
+### 美術總監 / 交互設計師 @ BitMob Creative Digital (BCD)
+
+2017 - 2020
+
+在與朋友兼創新程序員 [Ed](https://edlee.me/) 成立的[交互設計工作室](https://www.bitmob.cc/)擔任美術總監和創意總監，專精 UI/UX 設計和 Web 交互創意；主要客戶群為獨立設計師、藝文類媒體和服裝品牌。通過與前端工程師的充分交流和對 Web 前端技術的深度瞭解，maf 別具一格的創意和設計總能夠與前端和交互設計緊密結合，兩者相得益彰。在極小的工作室規模下，為合作方帶來備受讚許的產品體驗。三年間完整設計並開發 15+ 個網站，數字服務 10+ 個著名品牌， 開發過多個原創數字產品，其中包括最近推出的 1 個 iOS APP。
 
 ### 獨立出版人 / 平面設計師 @ BirdyPress
 
@@ -61,6 +61,12 @@ type: intro
 
 Relying on more than ten years of experience in design and publishing, founded Jyugam ([https://jyugam.com](https://jyugam.com)), an independent music distribution studio. Provide services for sound artists with complete visual design, distribution and live performances. Cooperative artists include WISEFAKE, Lastboss, Kagami Smile, etc.
 
+### Graphic Design Consultant @ Vitamin Creative Space & The Pavilion
+
+2017 - NOW
+
+Designed publications and exhibitions for Vitamin Creative Space and redesigned its online store, the shop. Design artist's books for "Guanxin Pavilion", to explore the possibility of graphic design.
+
 ### Art Director / UI.UX Designer @ BitMob Creative Digital (BCD)
 
 2017 - 2020
@@ -69,12 +75,6 @@ Co-founded an innovative digital production studio, [BCD](https://www.bitmob.cc/
 As cooperating closely with front-end engineers and having an in-depth understanding of both ends,
 created unique and exquisite designs that could always be closely integrated with user-end interactions. It brought a highly praised product experience to the business partners.<br/>
 Designed and completely developed 15+ websites, digital creative service 10+ renowned brands in the past three years, and launched several original digital products, including an iOS App.
-
-### Graphic Design Consultant @ Vitamin Creative Space & The Pavilion
-
-2017 - NOW
-
-Designed publications and exhibitions for Vitamin Creative Space and redesigned its online store, the shop. Design artist's books for "Guanxin Pavilion", to explore the possibility of graphic design.
 
 ### Independent Publisher / Graphic Designer @ BirdyPress
 
@@ -96,7 +96,7 @@ Focused on [infographic](https://maf-works.com/work/infographic-collection-1) de
 
 ### Freelance Graphic Designer / Illustrator
 
-2011 - 2017
+2009 - 2017
 
 Provided commendable design consult for Cityzine, iMart, YOHO!, Fang Suo, Guangzhou Opera House, Xiaopeng Motors, and other most recognized brands based in the Pearl River Delta region.
 
