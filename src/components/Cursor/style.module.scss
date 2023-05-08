@@ -7,7 +7,7 @@
   //background: var(--red);
   //background: #000000dd;
   //background: radial-gradient(#155799, #159957);
-  background: radial-gradient(#159957, #ffffff);
+  background: radial-gradient(closest-side, #159957, #ffffff);
   top: -150px;
   left: -150px;
   pointer-events: none;
