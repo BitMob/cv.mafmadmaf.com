@@ -3,7 +3,7 @@ slug: experience
 type: intro
 ---
 
-### 創辦人 / 設計與製作總監 @ Jyugam（音樂發行）
+### 創辦人 / 設計與製作總監 @ Jyugam (音樂發行)
 
 2020 - 現在
 
@@ -55,7 +55,7 @@ type: intro
 
 <!-- lang -->
 
-### Founder / Design & Product Director @ Jyugam（Music Publishing）
+### Founder / Design & Product Director @ Jyugam (Music Publishing)
 
 2020 - NOW
 
