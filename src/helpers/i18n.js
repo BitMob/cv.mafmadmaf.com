@@ -3,7 +3,7 @@ export default {
     //zh: "關於  馬飛兒（maf）",
     //en: "About maf, a designer.",
     //zh: "作品陳列館",
-    zh: "依然是人，仍在做梦",
+    zh: "依然是人，仍在做夢",
     en: "Still Human, Still Dreaming",
     //en: "la galerie de maf",
     //en: "gallery of maf's design practice · 2011 - 2020",
