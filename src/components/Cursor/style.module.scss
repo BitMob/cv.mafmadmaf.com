@@ -7,9 +7,9 @@
   //background: var(--red);
   //background: #000000dd;
   //background: radial-gradient(#155799, #159957);
-  background: radial-gradient(closest-side, #7300ff, #ffffff);
-  top: -50%;
-  left: -50%;
+  background: radial-gradient(closest-side, #7300ff, #ffffff 90%, #ffffff 100%);
+  top: -250;
+  left: -250;
   pointer-events: none;
   border-radius: 50%;
   mix-blend-mode: multiply;
