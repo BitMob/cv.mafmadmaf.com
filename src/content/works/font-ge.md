@@ -3,7 +3,7 @@ titleZh: 歌 字體設計
 titleEn: "'Ge (Songs)' Type Design"
 clientZh: 月與歌
 clientEn: 月與歌
-date: 2021-06-11
+date: 2021-07-17
 category: graphic
 
 thumb: font-ge-0.jpg
