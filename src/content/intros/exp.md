@@ -3,6 +3,12 @@ slug: experience
 type: intro
 ---
 
+### 創辦人 / 設計與製作總監 @ Jyugam（音樂發行）
+
+2020 - 現在
+
+依靠十多年的設計出版經驗，創立獨立音樂發行工作室 Jyugam ([https://jyugam.com](https://jyugam.com))。為聲音藝術家提供完整的視覺設計、作品發行和現場表演等服務。合作的藝術家有 WISEFAKE、Lastboss、Kagami Smile 等。
+
 ### 美術總監 / 交互設計師 @ BitMob Creative Digital (BCD)
 
 2017 - 2020
@@ -11,7 +17,7 @@ type: intro
 
 ### 平面設計顧問 @ 維他命藝術空間 Vitamin Creative Space & 觀心亭 The Pavilion
 
-2017 - 2023
+2017 - 現在
 
 為[維他命藝術空間](http://www.vitamincreativespace.art/cn/)展覽平面設計，設計其線上商店 the shop。為「觀心亭」設計研究性出品，進行平面设计的可能性的探討和嘗試。
 
@@ -49,6 +55,12 @@ type: intro
 
 <!-- lang -->
 
+### Founder / Design & Product Director @ Jyugam（Music Publishing）
+
+2020 - NOW
+
+Relying on more than ten years of experience in design and publishing, founded Jyugam ([https://jyugam.com](https://jyugam.com)), an independent music distribution studio. Provide services for sound artists with complete visual design, distribution and live performances. Cooperative artists include WISEFAKE, Lastboss, Kagami Smile, etc.
+
 ### Art Director / UI.UX Designer @ BitMob Creative Digital (BCD)
 
 2017 - 2020
@@ -60,7 +72,7 @@ Designed and completely developed 15+ websites, digital creative service 10+ ren
 
 ### Graphic Design Consultant @ Vitamin Creative Space & The Pavilion
 
-2017 - 2023
+2017 - NOW
 
 Designed publications and exhibitions for Vitamin Creative Space and redesigned its online store, the shop. Design artist's books for "Guanxin Pavilion", to explore the possibility of graphic design.
 
@@ -72,7 +84,7 @@ Purchased a Risograph printing machine and started a one-man printing workshop, 
 
 ### Design Director / Curator @ 103store (103store.cn)
 
-2014 - Current
+2014 - 2020
 
 103store (the later [103store.cn](https://103store.cn/)), a small integrated art space established in Guangzhou, a indie media for artistic contents. As one of the founders, responsible for brand design and WeChat account operation, and also curated and designed diverse exhibitions for various Pearl-River-Delta-based artists, such as [Jon Poblador](https://maf-works.com/work/jon-pobladors-visible-meditation-exhibition-vi), [Craig Kirk](https://maf-works.com/work/craig-kirks-street-cartoon-exhibition-vi), [Kay Guo](https://maf-works.com/work/a-pile-of-shit-another-type-of-jewellery-vi), [TOKI NASHIKI](https://maf-works.com/work/from-earth-pottery-exhibition-vi), etc. Has always maintained active communication with all team members and made concerted efforts.
 
