@@ -7,7 +7,7 @@ type: intro
 
 2020 - 現在
 
-依靠十多年的設計出版經驗，創立獨立音樂發行工作室 Jyugam ([https://jyugam.com](https://jyugam.com))。為聲音藝術家提供完整的視覺設計、作品發行和現場表演等服務。合作的藝術家有 WISEFAKE、Lastboss、Kagami Smile 等。
+依靠十多年的設計出版經驗，創立獨立音樂出版工作室 Jyugam ([https://jyugam.com](https://jyugam.com))。為國內外聲音藝術家提供完整的視覺設計、作品發行和現場表演等服務。合作的藝術家有 WISEFAKE、Lastboss、Kagami Smile 等。
 
 ### 平面設計顧問 @ 維他命藝術空間 Vitamin Creative Space & 觀心亭 The Pavilion
 
@@ -19,7 +19,7 @@ type: intro
 
 2017 - 2020
 
-在與朋友兼創新程序員 [Ed](https://edlee.me/) 成立的[交互設計工作室](https://www.bitmob.cc/)擔任美術總監和創意總監，專精 UI/UX 設計和 Web 交互創意；主要客戶群為獨立設計師、藝文類媒體和服裝品牌。通過與前端工程師的充分交流和對 Web 前端技術的深度瞭解，maf 別具一格的創意和設計總能夠與前端和交互設計緊密結合，兩者相得益彰。在極小的工作室規模下，為合作方帶來備受讚許的產品體驗。三年間完整設計並開發 15+ 個網站，數字服務 10+ 個著名品牌， 開發過多個原創數字產品，其中包括最近推出的 1 個 iOS APP。
+在與朋友兼創新程序員 [Ed](https://edlee.me/) 成立的[BITMOB 交互設計工作室](https://www.bitmob.cc/)擔任美術總監和創意總監，專精 UI/UX 設計和 Web 交互創意；主要客戶群為獨立設計師、藝文類媒體和服裝品牌。通過與前端工程師的充分交流和對 Web 前端技術的深度瞭解，maf 別具一格的創意和設計總能夠與前端和交互設計緊密結合，兩者相得益彰。在極小的工作室規模下，為合作方帶來備受讚許的產品體驗。三年間完整設計並開發 15+ 個網站，數字服務 10+ 個著名品牌， 開發過多個原創數字產品，其中包括最近推出的 1 個 iOS APP。
 
 ### 獨立出版人 / 平面設計師 @ BirdyPress
 
@@ -59,7 +59,7 @@ type: intro
 
 2020 - NOW
 
-Relying on more than ten years of experience in design and publishing, founded Jyugam ([https://jyugam.com](https://jyugam.com)), an independent music distribution studio. Provide services for sound artists with complete visual design, distribution and live performances. Cooperative artists include WISEFAKE, Lastboss, Kagami Smile, etc.
+Relying on more than ten years of experience in design and publishing, founded Jyugam ([https://jyugam.com](https://jyugam.com)), an independent publishing studio for music, text and visuals. Provide services for sound artists with complete visual design, distribution and live performances. Cooperative artists include WISEFAKE, Lastboss, Kagami Smile, etc.
 
 ### Graphic Design Consultant @ Vitamin Creative Space & The Pavilion
 
@@ -71,7 +71,7 @@ Designed publications and exhibitions for Vitamin Creative Space and redesigned 
 
 2017 - 2020
 
-Co-founded an innovative digital production studio, [BCD](https://www.bitmob.cc/), and dedicated to the art direction of UI / UX, and interactive-specialized digital production, with a friend and creative programmer, [Ed](https://edlee.me/).
+Co-founded an innovative digital production studio, [BITMOB](https://www.bitmob.cc/), and dedicated to the art direction of UI / UX, and interactive-specialized digital production, with a friend and creative programmer, [Ed](https://edlee.me/).
 As cooperating closely with front-end engineers and having an in-depth understanding of both ends,
 created unique and exquisite designs that could always be closely integrated with user-end interactions. It brought a highly praised product experience to the business partners.<br/>
 Designed and completely developed 15+ websites, digital creative service 10+ renowned brands in the past three years, and launched several original digital products, including an iOS App.
