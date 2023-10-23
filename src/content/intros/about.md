@@ -21,7 +21,7 @@ type: intro
 
 <!-- lang -->
 
-Rooted in Canton, _maf_ has worked as a professional Graphic/Editorial Designer since 2010 and a [multimedia artist](https://mafmadmaf.com/) since 2015. With a strong interest in printed matter and self-publishing, he started his design/printing workshop in 2015, and a creative production house '[BITMOB](https://www.bitmob.cc/)' focusing on Web/Interactive in 2017. He has continued to update his online project '[醜術館](https://mud9.com/)' (Gallery of Ugly) since 2020. Currently he is working on indie music publishing studio [Jyugam](https://jyugam.com).
+Rooted in Canton, _maf_ has worked as a professional Graphic/Editorial Designer since 2010 and a multimedia artist under the name [mafmadmaf](https://mafmadmaf.com/) since 2015. With a strong interest in printed matter and self-publishing, he started his design/printing workshop in 2015, and a creative production house '[BITMOB](https://www.bitmob.cc/)' focusing on Web/Interactive in 2017. He has continued to update his online project '[醜術館](https://mud9.com/)' (Gallery of Ugly) since 2020. Currently he is working on indie music publishing studio [Jyugam](https://jyugam.com).
 
 Leading by his synesthesia between visual and sound, he started writing pictural and narrative music for modular synthesizers in 2016 and performed and created installations in several events and spaces, such as the Echigo-Tsumari Art Triennale, Tokyo Festival of Modular, Mirrored Garden, etc.
 
