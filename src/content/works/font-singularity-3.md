@@ -17,4 +17,4 @@ gallery:
 
 <!-- lang -->
 
-New typeface design for Singularity Plan®. A unique Chinese character created by ETH, founder of Singularity Plan®. Font designed by maf.
+New typeface design for Singularity Plan®. A unique Chinese character created by ETH, founder of Singularity Plan®. Font designed by maf- works.com.
