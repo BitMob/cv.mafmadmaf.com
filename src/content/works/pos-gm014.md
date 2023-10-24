@@ -1,5 +1,5 @@
 ---
-titleZh: 《場所精神》發行宣傳海報
+titleZh: 《場所精神》發行 海報設計
 titleEn: "'Genius Loci' Promotion Poster"
 clientZh: "Jyugam"
 clientEn: "Jyugam"
