@@ -5,7 +5,6 @@ clientZh: 我
 clientEn: Me
 date: 2023-10-04
 category: music
-url: 
 thumb: maxmsp-eyetracking-0.jpg
 gallery:
   - 
