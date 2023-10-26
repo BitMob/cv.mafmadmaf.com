@@ -23,6 +23,7 @@ Nike<br/>
 觀心亭<br/>
 YOHO!<br/>
 ELLE®<br/>
+八平<br/>
 
 <!-- lang -->
 
@@ -46,3 +47,4 @@ Vitamin Creative Space<br/>
 The Pavilion<br/>
 YOHO!<br/>
 ELLE®<br/>
+8m²<br/>
