@@ -6,8 +6,7 @@ clientEn: Me
 date: 2023-10-04
 category: music
 thumb: maxmsp-eyetracking-0.jpg
-gallery:
-  - 
+
 ---
 
 通過 Jitter 對眼球的移動追蹤和眨眼，觸發聲音合成。
