@@ -6,7 +6,7 @@ clientEn: Jyugam
 date: 2023-10-20
 category: graphic
 url: ""
-thumb:  JP002-10.jpg
+thumb:  JP002-3.jpg
 gallery:
   - JP002-6.jpg
   - JP002-5.jpg
