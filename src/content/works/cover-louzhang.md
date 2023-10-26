@@ -22,8 +22,6 @@ Graphic design by maf-works.com
 
 https://jyugam.bandcamp.com/album/thousand-years-planet-movie
 
-© 2019 Jyugam
-
 <!-- lang -->
 
 Serial No: GM014
