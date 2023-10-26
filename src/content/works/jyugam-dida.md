@@ -1,5 +1,5 @@
 ---
-titleZh: Jyugam「嘀答」磁带播放器
+titleZh: Jyugam「嘀答」磁帶播放器
 titleEn: "Jyugam 'dee-daa' Cassette Player"
 clientZh: Jyugam
 clientEn: Jyugam
