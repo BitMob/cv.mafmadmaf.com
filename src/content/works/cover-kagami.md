@@ -20,7 +20,7 @@ Mastered By Florence Tang<br/>
 Graphic design by maf-works.com<br/>
 © Jyugam 2023<br/>
 
-https://jyugam.bandcamp.com/album/the-cycle-cannot-be-reversed<br/>
+[Bandcamp 作品網址](https://jyugam.bandcamp.com/album/the-cycle-cannot-be-reversed)
 
 
 <!-- lang -->
@@ -34,4 +34,4 @@ Mastered By Florence Tang<br/>
 Graphic design by maf-works.com<br/>
 © Jyugam 2023<br/>
 
-https://jyugam.bandcamp.com/album/the-cycle-cannot-be-reversed<br/>
+[Listen in Bandcamp](https://jyugam.bandcamp.com/album/the-cycle-cannot-be-reversed)

@@ -20,7 +20,7 @@ Mastered by Yuu Nagare.<br/>
 Graphic design by maf-works.com<br/>
 © Jyugam 2023<br/>
 
-https://jyugam.bandcamp.com/album/thousand-years-planet-movie
+[Bandcamp 作品網址](https://jyugam.bandcamp.com/album/thousand-years-planet-movie)
 
 <!-- lang -->
 
@@ -33,4 +33,4 @@ Mastered by Yuu Nagare.<br/>
 Graphic design by maf-works.com<br/>
 © Jyugam 2023<br/>
 
-https://jyugam.bandcamp.com/album/thousand-years-planet-movie
+[Listen in Bandcamp](https://jyugam.bandcamp.com/album/thousand-years-planet-movie)

@@ -21,7 +21,7 @@ Graphic designed by maf-works.com<br/>
 Label: Jyugam<br/>
 © Jyugam 2023<br/>
 
-https://jyugam.bandcamp.com/album/fixing-messages<br/>
+[Bandcamp 作品網址](https://jyugam.bandcamp.com/album/fixing-messages)
 
 
 <!-- lang -->
@@ -36,4 +36,4 @@ Graphic designed by maf-works.com<br/>
 Label: Jyugam<br/>
 © Jyugam 2023<br/>
 
-https://jyugam.bandcamp.com/album/fixing-messages<br/>
+[Listen in Bandcamp](https://jyugam.bandcamp.com/album/fixing-messages)
