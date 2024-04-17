@@ -11,7 +11,7 @@ gallery:
   - cover-exnihilo-1.jpg
 ---
 
-公元二零二二年，Wisefake、Noii、mafmadmaf 及 Humbug，四位藝術家分別重新演繹來自 WhiteCrow 的四首曲目，異域迷幻的旋律與破碎的聲音質感相互拼貼，在「π」中構建四個新世界。終結遠未到來，於絕望的光景之間，下一個生命輪回已開啓。
+「籽音」是「ex-nihilo」三部曲中的曲目匯編，為了這次 Jyugam 的特別版，我從每一部分中選擇了一個作品。「籽音 / ex-nihilo」概念指的是這樣一種觀念：即一個想法或聲音的核心就足以讓一些東西從無到有。 這部作品反映了我如何製作這些曲目以及我目前的音樂創作方向。<br/>
 
 [Bandcamp 作品網址](https://jyugam.bandcamp.com/album/ex-nihilo)<br/>
 

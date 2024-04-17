@@ -11,27 +11,27 @@ gallery:
   - cover-kagami-1.jpg
 ---
 
-Serial No: GM016
-Release Date: 2024-01-29
-Length: 35'01"
-Genres: ambient techno, experimental, ambient
-Composed and produced by Ryan Hill
-Mastered By Florence Tang
-Graphic design by maf-works.com
-© Jyugam 2023
+Serial No: GM016<br/>
+Release Date: 2024-01-29<br/>
+Length: 35'01"<br/>
+Genres: ambient techno, experimental, ambient<br/>
+Composed and produced by Ryan Hill<br/>
+Mastered By Florence Tang<br/>
+Graphic design by maf-works.com<br/>
+© Jyugam 2023<br/>
 
-https://jyugam.bandcamp.com/album/the-cycle-cannot-be-reversed
+https://jyugam.bandcamp.com/album/the-cycle-cannot-be-reversed<br/>
 
 
 <!-- lang -->
 
-Serial No: GM016
-Release Date: 2024-01-29
-Length: 35'01"
-Genres: ambient techno, experimental, ambient
-Composed and produced by Ryan Hill
-Mastered By Florence Tang
-Graphic design by maf-works.com
-© Jyugam 2023
+Serial No: GM016<br/>
+Release Date: 2024-01-29<br/>
+Length: 35'01"<br/>
+Genres: ambient techno, experimental, ambient<br/>
+Composed and produced by Ryan Hill<br/>
+Mastered By Florence Tang<br/>
+Graphic design by maf-works.com<br/>
+© Jyugam 2023<br/>
 
-https://jyugam.bandcamp.com/album/the-cycle-cannot-be-reversed
+https://jyugam.bandcamp.com/album/the-cycle-cannot-be-reversed<br/>
