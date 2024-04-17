@@ -11,29 +11,29 @@ gallery:
   - cover-seonga-1.jpg
 ---
 
-Serial No: GM018
-Release Date: 2023-12-20
-Length: 34'10''
-Genres: Ambient Drone
-All song written and arranged by thruoutin and Yu Hein. 
-Mixing & mastering: Brad M. Seippel at Brevity of Motion Sounds (Beijing,China 2023)
-Graphic designed by maf-works.com
-Label: Jyugam
-© Jyugam 2023
+Serial No: GM018<br/>
+Release Date: 2023-12-20<br/>
+Length: 34'10''<br/>
+Genres: Ambient Drone<br/>
+All song written and arranged by thruoutin and Yu Hein. <br/>
+Mixing & mastering: Brad M. Seippel at Brevity of Motion Sounds (Beijing,China 2023)<br/>
+Graphic designed by maf-works.com<br/>
+Label: Jyugam<br/>
+© Jyugam 2023<br/>
 
-https://jyugam.bandcamp.com/album/fixing-messages
+https://jyugam.bandcamp.com/album/fixing-messages<br/>
 
 
 <!-- lang -->
 
-Serial No: GM018
-Release Date: 2023-12-20
-Length: 34'10''
-Genres: Ambient Drone
-All song written and arranged by thruoutin and Yu Hein. 
-Mixing & mastering: Brad M. Seippel at Brevity of Motion Sounds (Beijing,China 2023)
-Graphic designed by maf-works.com
-Label: Jyugam
-© Jyugam 2023
+Serial No: GM018<br/>
+Release Date: 2023-12-20<br/>
+Length: 34'10''<br/>
+Genres: Ambient Drone<br/>
+All song written and arranged by thruoutin and Yu Hein. <br/>
+Mixing & mastering: Brad M. Seippel at Brevity of Motion Sounds (Beijing,China 2023)<br/>
+Graphic designed by maf-works.com<br/>
+Label: Jyugam<br/>
+© Jyugam 2023<br/>
 
-https://jyugam.bandcamp.com/album/fixing-messages
+https://jyugam.bandcamp.com/album/fixing-messages<br/>

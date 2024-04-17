@@ -11,26 +11,26 @@ gallery:
   - cover-louzhang-1.jpg
 ---
 
-Serial No: GM014
-Release Date: 2023-10-30
-Length: 45'16"
-Genres: Ambient
-Composed and produced by Chenyang Qian.
-Mastered by Yuu Nagare.
-Graphic design by maf-works.com
-© Jyugam 2023
+Serial No: GM014<br/>
+Release Date: 2023-10-30<br/>
+Length: 45'16"<br/>
+Genres: Ambient<br/>
+Composed and produced by Chenyang Qian.<br/>
+Mastered by Yuu Nagare.<br/>
+Graphic design by maf-works.com<br/>
+© Jyugam 2023<br/>
 
 https://jyugam.bandcamp.com/album/thousand-years-planet-movie
 
 <!-- lang -->
 
-Serial No: GM014
-Release Date: 2023-10-30
-Length: 45'16"
-Genres: Ambient
-Composed and produced by Chenyang Qian.
-Mastered by Yuu Nagare.
-Graphic design by maf-works.com
-© Jyugam 2023
+Serial No: GM014<br/>
+Release Date: 2023-10-30<br/>
+Length: 45'16"<br/>
+Genres: Ambient<br/>
+Composed and produced by Chenyang Qian.<br/>
+Mastered by Yuu Nagare.<br/>
+Graphic design by maf-works.com<br/>
+© Jyugam 2023<br/>
 
 https://jyugam.bandcamp.com/album/thousand-years-planet-movie
