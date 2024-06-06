@@ -1,5 +1,5 @@
 ---
-titleZh: 客聽·派对 海報設計
+titleZh: 客聽·派對 海報設計
 titleEn: "HakTang·Party Poster"
 clientZh: "HakTang"
 clientEn: "HakTang"
