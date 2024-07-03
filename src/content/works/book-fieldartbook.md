@@ -27,14 +27,14 @@ gallery:
   - FieldArtBook-17.jpg
 ---
 
-關於 mafmadmaf 於 2021-2022 年間駐留創作過程的記錄。
+關於 mafmadmaf 於 2021-2022 年間駐留創作過程的記錄。<br/>
 圖片 / 文字：mafmadmaf
 
 Art Director / Editorial Designer: maf-works.com
 
 <!-- lang -->
 
-Archive of the creative process of mafmadmaf's residency during 2021-2022.
+Archive of the creative process of mafmadmaf's residency during 2021-2022.<br/>
 Image / Text: mafmadmaf
 
 Art Director / Editorial Designer: maf-works.com

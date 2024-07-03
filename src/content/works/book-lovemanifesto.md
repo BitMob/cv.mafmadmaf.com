@@ -40,21 +40,21 @@ gallery:
 
 藝術家書作為藝術表達的一種媒介，承載物質以及翻閱方式傳達出創作者對不同材料的思考和態度。「(無效率)愛的宣言」，通過七位使用不同媒介進行創作的藝術家對材料的敏感，以及三位寫作者對「愛」從語言學、建築學與社會學角度的理解，回溯「愛」這個概念的形成。更重要的是，促使人去想象，「愛」在未來將如何流變。
 
-出品團隊
-概念/總編：肘力
-特約編輯：zhangzin
-設計：maf-works.com
-製作協調：肘力，maf-works.com
-翻譯與校對：高千皓，肘力，zhangzin
+出品團隊<br/>
+概念/總編：肘力<br/>
+特約編輯：zhangzin<br/>
+設計：maf-works.com<br/>
+製作協調：肘力，maf-works.com<br/>
+翻譯與校對：高千皓，肘力，zhangzin<br/>
 
-概念 / 主編： 肘力 Jolie ZHOU
-設計：maf-works.com
+概念 / 主編： 肘力 Jolie ZHOU<br/>
+設計：maf-works.com<br/>
 藝術家與寫作者：郭婷(Ting Guo)，洪萱(Xuan HONG)，羅悅陽(Yueyang LUO)，金巧兒(JIN Qiaoer)，mafmadmaf， 潘思明(Siming Pan)，余尚斌(Sheung Bun YU)，肘力(Jolie ZHOU)，張珂(Ke ZHANG)，zhangzin
 
-265 x 215 x 78 mm
-中/英
-內置玻璃瓶，磁帶，電子聲音模塊，線香
-120 版，2023
+265 × 215 × 78 mm<br/>
+中/英<br/>
+內置玻璃瓶，磁帶，電子聲音模塊，線香<br/>
+120 版，2023<br/>
 
 <!-- lang -->
 
@@ -64,19 +64,18 @@ The cover design uses colourless debossing to create touchable text. In terms of
 
 Artists’ book, as a way of artistic expression, not only carries out ideas, but their materials and the way of reading also convey the creator’s awareness of materiality and its relationship to contents. (inefficient) LOVE MANIFESTO includes works from seven artists who are highly aware of their use of different mediums and articles from three writers who analyze love from linguistics, architecture and sociology perspectives.
 
-Executive Team
-Concept/Editor-in-Chief: Jolie Zhou
-Contributing Editor: zhangzin
-Design: maf-works.com
-Production: Jolie Zhou, maf-works.com
-Translators and Proofreaders: Emma Gao, Jolie Zhou, zhangzin
+Executive Team<br/>
+Concept/Editor-in-Chief: Jolie Zhou<br/>
+Contributing Editor: zhangzin<br/>
+Design: maf-works.com<br/>
+Production: Jolie Zhou, maf-works.com<br/>
+Translators and Proofreaders: Emma Gao, Jolie Zhou, zhangzin<br/>
 
-Concept / Editor-in-Chief > Jolie ZHOU
-Design > maf-works.com
-Artists and Writers > Ting GUO, HONG Xuan, LUO Yueyang
-JIN Qiaoer, mafmadmaf, Siming PAN, YU Sheung Bun, Jolie ZHOU, Ke ZHANG, zhangzin
+Concept / Editor-in-Chief > Jolie ZHOU<br/>
+Design > maf-works.com<br/>
+Artists and Writers > Ting GUO, HONG Xuan, LUO Yueyang, JIN Qiaoer, mafmadmaf, Siming PAN, YU Sheung Bun, Jolie ZHOU, Ke ZHANG, zhangzin
 
-265 x 215 x 78 mm
-Chinese & English
-Produced in Canton
+265 × 215 × 78 mm<br/>
+Chinese & English<br/>
+Produced in Canton<br/>
 120 Editions, 2023
