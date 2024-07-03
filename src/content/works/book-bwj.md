@@ -30,7 +30,7 @@ gallery:
 
 用實際行動支持中國的內容創造者。
 
-Art Director / Graphic Designer: maf<br/>
+Art Director / Graphic Designer: maf-works.com<br/>
 Editor in Chief: Amy Zhu
 
 <!-- lang -->
@@ -41,5 +41,5 @@ Meanwhile, maf and his studio also designed and developed a bilingual [official 
 
 Support Chinese content creators with actions.
 
-Art Director / Graphic Designer: maf<br/>
+Art Director / Graphic Designer: maf-works.com<br/>
 Editor in Chief: Amy Zhu

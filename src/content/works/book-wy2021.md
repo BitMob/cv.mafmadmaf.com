@@ -13,10 +13,10 @@ gallery:
 
 關於藝術家王音的研究出品。
 
-Art Director / Editorial Designer: maf
+Art Director / Editorial Designer: maf-works.com
 
 <!-- lang -->
 
 The artist book of Wang Yin.
 
-Art Director / Editorial Designer: maf
+Art Director / Editorial Designer: maf-works.com

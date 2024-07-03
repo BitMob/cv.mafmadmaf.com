@@ -19,12 +19,12 @@ gallery:
 
 由 103store 發起並提供創意，由香港的梨木製陶所和廣州的山下植屋工作室負責執行，展品是各色器型的手工陶器和居家類植物合體而成的。
 
-Art Director / Graphic Designer: maf<br/>
+Art Director / Graphic Designer: maf-works.com<br/>
 Curator: maf, Shu Chen, Karen Lam
 
 <!-- lang -->
 
 The exhibits are a combination of handmade pottery of various types and household plants.
 
-Art Director / Graphic Designer: maf<br/>
+Art Director / Graphic Designer: maf-works.com<br/>
 Curator: maf, Shu Chen, Karen Lam

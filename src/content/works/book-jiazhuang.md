@@ -12,12 +12,12 @@ gallery:
   - book-jiazhuang-2.jpg
 ---
 
-Curator / Art Director: maf<br/>
-Graphic Designer / Print & Binding: maf<br/>
+Curator / Art Director: maf-works.com<br/>
+Graphic Designer / Print & Binding: maf-works.com<br/>
 Editor: 予望
 
 <!-- lang -->
 
-Curator / Art Director: maf<br/>
-Graphic Designer / Print & Binding: maf<br/>
+Curator / Art Director: maf-works.com<br/>
+Graphic Designer / Print & Binding: maf-works.com<br/>
 Editor: 予望

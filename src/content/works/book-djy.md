@@ -16,10 +16,10 @@ gallery:
 
 關於藝術家段建宇的研究出品。
 
-Art Director / Editorial Designer: maf
+Art Director / Editorial Designer: maf-works.com
 
 <!-- lang -->
 
 The artist book of DUAN Jianyu.
 
-Art Director / Editorial Designer: maf
+Art Director / Editorial Designer: maf-works.com

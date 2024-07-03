@@ -20,10 +20,10 @@ gallery:
 
 關於藝術家鄭國谷的研究出品。
 
-Art Director / Editorial Designer: maf
+Art Director / Editorial Designer: maf-works.com
 
 <!-- lang -->
 
 The artist book of ZHENG Guogu.
 
-Art Director / Editorial Designer: maf
+Art Director / Editorial Designer: maf-works.com

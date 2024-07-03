@@ -13,8 +13,8 @@ gallery:
   - book-taiwan-3.jpg
 ---
 
-Art Director / Graphic Designer: maf
+Art Director / Graphic Designer: maf-works.com
 
 <!-- lang -->
 
-Art Director / Graphic Designer: maf
+Art Director / Graphic Designer: maf-works.com

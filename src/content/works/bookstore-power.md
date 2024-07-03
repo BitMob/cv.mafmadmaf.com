@@ -17,12 +17,12 @@ gallery:
 
 2018 年，方所旗下的書店力研究所正式成立，超越原有的書店架構，旨在以更獨立而開闊的視野，觀察書店場所的獨特文化與精神。BitMob 將實體書翻頁的感官體驗，移植成其官網的核心交互；以精心佈局的圖文排版凸現品牌的精神意涵。
 
-Art Director: maf<br/>
+Art Director: maf-works.com<br/>
 Lead Programmer: Ed Lee
 
 <!-- lang -->
 
 The outlook of reading a book is all about turning pages, so BitMob, maf's studio, visualized this motion and adapted it onto 'turning' webpages, by just clicking the menu. To present the likeness of a book and the pleasure of reading, it's important to elevate readability and strip out unnecessary information, which was achieved by carefully selected fonts and pixel-precise spacing and sizes.
 
-Art Director: maf<br/>
+Art Director: maf-works.com<br/>
 Lead Programmer: Ed Lee

@@ -19,7 +19,7 @@ gallery:
 
 在中國出版獨立雜誌書是一個很大膽的主意，maf 和他的朋友們被這種堅持深深吸引。在這個快速消費的時代，要讓人完整地閱讀長篇訪談並不容易，所以我們設計了一套動態而克制的排版機制，既能讓讀者在瀏覽的時候獲得新鮮感，同時也不會覺得凌亂浮誇。這套機制通過一系列預設的內容「模塊」來適配不同的內容，讓編輯能夠輕易而靈活地根據需要進行文章編排。
 
-Art Director: maf<br/>
+Art Director: maf-works.com<br/>
 Lead Programmer: Ed Lee<br/>
 Editor in Chief: Amy Zhu
 
@@ -27,6 +27,6 @@ Editor in Chief: Amy Zhu
 
 To publish an independent bookazine in China was a bold idea, which maf and his friends actually liked a lot. They knew that reading a long piece of article could be stressful nowadays, so a dynamic layout is crucial to bring up fresh experience from time to time, but there should be a limit as well to prevent it becoming too fancy. To find the borderline, we came up with an innovative 'modulized' content management system, which provided limited content modules and enabled editors to compose the layout, and after all the result should be coherent with the website's design.
 
-Art Director: maf<br/>
+Art Director: maf-works.com<br/>
 Lead Programmer: Ed Lee<br/>
 Editor in Chief: Amy Zhu
