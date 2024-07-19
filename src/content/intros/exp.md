@@ -9,11 +9,11 @@ type: intro
 
 依靠十多年的設計出版經驗，創立獨立音樂出版工作室 Jyugam ([https://jyugam.com](https://jyugam.com))。為國內外聲音藝術家提供完整的視覺設計、作品發行和現場表演等服務。合作的藝術家有 WISEFAKE、Lastboss、Kagami Smile 等。
 
-### 平面設計顧問 @ 維他命藝術空間 Vitamin Creative Space & 觀心亭 The Pavilion
+### 平面設計顧問 @ 觀心亭 The Pavilion
 
 2017 - 現在
 
-為[維他命藝術空間](http://www.vitamincreativespace.art/cn/)展覽平面設計，設計其線上商店 the shop。為「觀心亭」設計研究性出品，進行平面设计的可能性的探討和嘗試。
+為「觀心亭」設計研究性出品，進行平面设计的可能性的探討和嘗試。
 
 ### 美術總監 / 交互設計師 @ BitMob Creative Digital (BCD)
 
@@ -61,11 +61,11 @@ type: intro
 
 Relying on more than ten years of experience in design and publishing, founded Jyugam ([https://jyugam.com](https://jyugam.com)), an independent publishing studio for music, text and visuals. Provide services for sound artists with complete visual design, distribution and live performances. Cooperative artists include WISEFAKE, Lastboss, Kagami Smile, etc.
 
-### Graphic Design Consultant @ Vitamin Creative Space & The Pavilion
+### Graphic Design Consultant @ The Pavilion
 
 2017 - NOW
 
-Designed publications and exhibitions for Vitamin Creative Space and redesigned its online store, the shop. Design artist's books for "Guanxin Pavilion", to explore the possibility of graphic design.
+Design artist's books for “The Pavilion", to explore the possibility of graphic design.
 
 ### Art Director / UI.UX Designer @ BitMob Creative Digital (BCD)
 
