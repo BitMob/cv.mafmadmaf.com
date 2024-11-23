@@ -1,7 +1,7 @@
 import React, { useContext } from "react"
 
 import Context from "../../helpers/context"
-import S from "./style.module.scss"
+import * as S from "./style.module.scss"
 
 export default function LangSwitch({ atTop, isHome }) {
   const { states, methods } = useContext(Context)
