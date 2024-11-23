@@ -20,11 +20,12 @@ const MorePage = ({ data, location }) => {
   });
 
   const { nodes } = data.allMarkdownRemark;
-  const intros = nodes.filter((edge) => edge.node.frontmatter.type === "intro");
+  const intros = nodes.filter(
+    ({ frontmatter }) => frontmatter.type === "intro"
+  );
 
   let colData = {};
-  intros.forEach((intro) => {
-    const { frontmatter, html } = intro.node;
+  intros.forEach(({ frontmatter, html }) => {
     const { slug } = frontmatter;
     const zh = html.split("<!-- lang -->")[0];
     const en = html.split("<!-- lang -->")[1];
@@ -33,8 +34,8 @@ const MorePage = ({ data, location }) => {
     colData = {
       ...colData,
       [slug]: {
-      zh: <div key={slug} dangerouslySetInnerHTML={{ __html: zh }} />,
-      en: <div key={slug} dangerouslySetInnerHTML={{ __html: en }} />,
+        zh: <div key={slug} dangerouslySetInnerHTML={{ __html: zh }} />,
+        en: <div key={slug} dangerouslySetInnerHTML={{ __html: en }} />,
       },
     };
   });

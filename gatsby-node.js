@@ -22,12 +22,8 @@ exports.createPages = async ({ actions, graphql }) => {
     console.error(result.errors);
   }
 
-  console.log(result.data);
-
   result.data.allMarkdownRemark.nodes.forEach(({ id, frontmatter }) => {
     const path = require("path");
-
-    console.log({ id });
 
     const titleEn = frontmatter.titleEn;
     const slug = titleEn.toLowerCase().replace(/ /gi, "-").replace(/'/gi, "");
