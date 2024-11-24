@@ -1,10 +1,10 @@
-import React from "react"
-import { Helmet } from "react-helmet"
-import { useStaticQuery, graphql } from "gatsby"
+import React from "react";
+import { Helmet } from "react-helmet";
+import { useStaticQuery, graphql } from "gatsby";
 
 // import { ICON_PATH } from "../helpers/constants"
 
-function SEO({ description, lang, meta, title }) {
+function SEO({ description = ``, lang = `zh`, meta = [], title }) {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -17,9 +17,9 @@ function SEO({ description, lang, meta, title }) {
         }
       }
     `
-  )
+  );
 
-  const metaDescription = description || site.siteMetadata.description
+  const metaDescription = description || site.siteMetadata.description;
 
   return (
     <Helmet
@@ -75,13 +75,7 @@ function SEO({ description, lang, meta, title }) {
         onload="this.rel='stylesheet'"
       />
     </Helmet>
-  )
+  );
 }
 
-SEO.defaultProps = {
-  lang: `zh`,
-  meta: [],
-  description: ``,
-}
-
-export default SEO
+export default SEO;
