@@ -6,7 +6,7 @@ type: intro
 1987 年出生並成長於廣州，生物學畢業，maf 想以「合成」來概括他的創作方式，無論是聲音上或是視覺上，皆以單位元素的篩選、排列、合成來構建而成。多年的繪畫、樂器訓練和專業的出版設計從業經驗以聯覺互通，他通過純熟運用作曲、視覺設計、編程等不同手段去記錄那些細緻入微的觀察。作品涉及聲音藝術、裝置、圖像、出版物等，以極簡主義為特質，透露出其浪漫而克制、樂於實驗的內在精神，長期以 [mafmadmaf](https://mafmadmaf.com/) 為名進行相關活動。從事平面設計工作至今 14 年，2020 年起運作獨立出版機構 [Jyugam](https://jyugam.com)。
 
 在過去的幾年中，他樂於支持並和不同領域的藝術家和機構合作，如影像、音樂、行為、舞蹈等，同時以營造裝置的方式參與以下的項目：<br/>
-Modular Festival of Tokyo (2018)、Modular Commune (2018.2020.2024)、越後妻有大地藝術祭·華園 (2020.2024)、浮梁大地藝術節 (2021.2022)、南海大地藝術節 (2022.2024)、瀨戶內國際藝術祭 (2025)
+Modular Festival of Tokyo (2018)、Modular Commune (2018.2020.2024)、越後妻有大地藝術祭·華園 (2020.2024)、浮梁大地藝術節 (2021.2022)、GUIA Experimental Macau (2022.2023.2024)、南海大地藝術節 (2022.2024)、瀨戶內國際藝術祭 (2025)
 
 <!--根植於廣州的 maf 是一名平面設計師、獨立出版人，亦以聲音、裝置、現場演奏等不同形式進行藝術實踐的多媒體創作者。從業紙媒出版設計多年，於 2015 年成立個人設計工作室，持續關注文本設計、圖像語言和自出版。他對聲音世界的探索啟蒙於少年時期的手風琴和吉他學習，迸發於模組合成器的開放性和連線編程之中，最近在算法作曲和視聽交互的界限裡漫遊，長期以 [mafmadmaf](https://mafmadmaf.com/) 為名進行相關活動。結合其設計出版經驗和對聲音作品的獨特觸覺，於 2020 年成立音樂出版工作室 [Jyugam](https://jyugam.com)。
 
@@ -30,7 +30,7 @@ He has been running an independent publishing house [Jyugam](https://jyugam.com)
 
 In the past few years, he has enjoyed supporting and collaborating with artists and institutions from various fields, such as film, music, performance, and dance, while also participating in the following projects through music and installation creation:<br/>
 Modular Festival of Tokyo (2018), Modular Commune (2018.2020.2024), 
-Echigo-Tsumari Art Triennale CHINAHOUSE (2020.2024), Fuliang Field Art Festival (2021.2022), Guia Experimental Macau (2022.2023), Nanhai Field Art Festival (2022.2024), Setouchi International Art Festival (2025)
+Echigo-Tsumari Art Triennale CHINAHOUSE (2020.2024), Fuliang Field Art Festival (2021.2022), GUIA Experimental Macau (2022.2023), Nanhai Field Art Festival (2022.2024), Setouchi International Art Festival (2025)
 
 <!-- Rooted in Canton, maf has worked as a professional Graphic/Editorial Designer since 2010 and a multimedia artist under the name [mafmadmaf](https://mafmadmaf.com/). With a strong interest in printed matter and self-publishing, he started his design/printing studio in 2015. Currently he is working on indie music publishing studio [Jyugam](https://jyugam.com).
 
