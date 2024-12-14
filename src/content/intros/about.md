@@ -30,7 +30,7 @@ He has been running an independent publishing house [Jyugam](https://jyugam.com)
 
 In the past few years, he has enjoyed supporting and collaborating with artists and institutions from various fields, such as film, music, performance, and dance, while also participating in the following projects through music and installation creation:<br/>
 Modular Festival of Tokyo (2018), Modular Commune (2018.2020.2024), 
-Echigo-Tsumari Art Triennale CHINAHOUSE (2020.2024), Fuliang Field Art Festival (2021.2022), GUIA Experimental Macau (2022.2023), Nanhai Field Art Festival (2022.2024), Setouchi International Art Festival (2025)
+Echigo-Tsumari Art Triennale CHINAHOUSE (2020.2024), Fuliang Field Art Festival (2021.2022), GUIA Experimental Macau (2022.2023。2024), Nanhai Field Art Festival (2022.2024), Setouchi International Art Festival (2025)
 
 <!-- Rooted in Canton, maf has worked as a professional Graphic/Editorial Designer since 2010 and a multimedia artist under the name [mafmadmaf](https://mafmadmaf.com/). With a strong interest in printed matter and self-publishing, he started his design/printing studio in 2015. Currently he is working on indie music publishing studio [Jyugam](https://jyugam.com).
 
