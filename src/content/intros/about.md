@@ -3,7 +3,7 @@ slug: about
 type: intro
 ---
 
-1987 年出生並成長於廣州，生物學畢業，maf 想以「合成」來概括他的創作方式，無論是聲音上或是視覺上，皆以單位元素的篩選、排列、合成來構建而成。多年的繪畫、樂器訓練和專業的出版設計從業經驗以聯覺互通，他通過純熟運用作曲、視覺設計、編程等不同手段去記錄那些細緻入微的觀察。作品涉及聲音藝術、裝置、圖像、出版物等，以極簡主義為特質，透露出其浪漫而克制、樂於實驗的內在精神，長期以 [mafmadmaf](https://mafmadmaf.com/) 為名進行相關活動。2020 年起運作獨立出版機構 [Jyugam](https://jyugam.com)。從事平面設計工作至今 14 年，關於視覺設計和出版的更多內容請查看網站 maf-works.com。
+1987 年出生並成長於廣州，生物學畢業，maf 想以「合成」來概括他的創作方式，無論是聲音上或是視覺上，皆以單位元素的篩選、排列、合成來構建而成。多年的繪畫、樂器訓練和專業的出版設計從業經驗以聯覺互通，他通過純熟運用作曲、視覺設計、編程等不同手段去記錄那些細緻入微的觀察。作品涉及聲音藝術、裝置、圖像、出版物等，以極簡主義為特質，透露出其浪漫而克制、樂於實驗的內在精神，長期以 [mafmadmaf](https://mafmadmaf.com/) 為名進行相關活動。從事平面設計工作至今 14 年，2020 年起運作獨立出版機構 [Jyugam](https://jyugam.com)。
 
 在過去的幾年中，他樂於支持並和不同領域的藝術家和機構合作，如影像、音樂、行為、舞蹈等，同時以營造裝置的方式參與以下的項目：<br/>
 Modular Festival of Tokyo (2018)、Modular Commune (2018.2020.2024)、越後妻有大地藝術祭·華園 (2020.2024)、浮梁大地藝術節 (2021.2022)、南海大地藝術節 (2022.2024)、瀨戶內國際藝術祭 (2025)
@@ -26,7 +26,7 @@ Modular Festival of Tokyo (2018)、Modular Commune (2018.2020.2024)、越後妻�
 <!-- lang -->
 
 Born in 1987 and raised in Guangzhou with a biology science background, maf ([mafmadmaf](https://mafmadmaf.com/)) describes his creative process as synthesis, spanning sound and visual arts by selecting, arranging, and synthesizing elemental units. With extensive experience in musical instruments and professional graphic design, he skillfully uses composition, visualization, and computer programming to capture nuanced observations. His works encompass sound art, installations, imagery, and publications characterized by minimalism, revealing a restrained yet romantic spirit and a passion for experimentation.
-He has been running an independent publishing house [Jyugam](https://jyugam.com) since 2020. For more information about his 14 years of practice in graphic design, printed matters and publishing, please visit maf-works.com.
+He has been running an independent publishing house [Jyugam](https://jyugam.com) since 2020. 
 
 In the past few years, he has enjoyed supporting and collaborating with artists and institutions from various fields, such as film, music, performance, and dance, while also participating in the following projects through music and installation creation:<br/>
 Modular Festival of Tokyo (2018), Modular Commune (2018.2020.2024), 
